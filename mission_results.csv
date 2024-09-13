@@ -1,1051 +1,1051 @@
-Target City,Pilot Name,Aircraft Type,Mission Score,Weather Condition
-Tehran,John Doe,F-16,1563.7186320109568,0.7
-Tehran,John Doe,F-35,1813.7186320109568,0.7
-Tehran,John Doe,MiG-29,1438.7186320109568,0.7
-Tehran,John Doe,Su-27,1613.7186320109568,0.7
-Tehran,John Doe,Eurofighter Typhoon,1713.7186320109568,0.7
-Tehran,John Doe,Rafale,1488.7186320109568,0.7
-Tehran,John Doe,F/A-18,1538.7186320109568,0.7
-Tehran,Jane Smith,F-16,1563.2186320109568,0.7
-Tehran,Jane Smith,F-35,1813.2186320109568,0.7
-Tehran,Jane Smith,MiG-29,1438.2186320109568,0.7
-Tehran,Jane Smith,Su-27,1613.2186320109568,0.7
-Tehran,Jane Smith,Eurofighter Typhoon,1713.2186320109568,0.7
-Tehran,Jane Smith,Rafale,1488.2186320109568,0.7
-Tehran,Jane Smith,F/A-18,1538.2186320109568,0.7
-Tehran,Michael Johnson,F-16,1563.4686320109568,0.7
-Tehran,Michael Johnson,F-35,1813.4686320109568,0.7
-Tehran,Michael Johnson,MiG-29,1438.4686320109568,0.7
-Tehran,Michael Johnson,Su-27,1613.4686320109568,0.7
-Tehran,Michael Johnson,Eurofighter Typhoon,1713.4686320109568,0.7
-Tehran,Michael Johnson,Rafale,1488.4686320109568,0.7
-Tehran,Michael Johnson,F/A-18,1538.4686320109568,0.7
-Tehran,Emily Davis,F-16,1563.9686320109568,0.7
-Tehran,Emily Davis,F-35,1813.9686320109568,0.7
-Tehran,Emily Davis,MiG-29,1438.9686320109568,0.7
-Tehran,Emily Davis,Su-27,1613.9686320109568,0.7
-Tehran,Emily Davis,Eurofighter Typhoon,1713.9686320109568,0.7
-Tehran,Emily Davis,Rafale,1488.9686320109568,0.7
-Tehran,Emily Davis,F/A-18,1538.9686320109568,0.7
-Tehran,Robert Brown,F-16,1562.9686320109568,0.7
-Tehran,Robert Brown,F-35,1812.9686320109568,0.7
-Tehran,Robert Brown,MiG-29,1437.9686320109568,0.7
-Tehran,Robert Brown,Su-27,1612.9686320109568,0.7
-Tehran,Robert Brown,Eurofighter Typhoon,1712.9686320109568,0.7
-Tehran,Robert Brown,Rafale,1487.9686320109568,0.7
-Tehran,Robert Brown,F/A-18,1537.9686320109568,0.7
-Tehran,Sarah Wilson,F-16,1563.7186320109568,0.7
-Tehran,Sarah Wilson,F-35,1813.7186320109568,0.7
-Tehran,Sarah Wilson,MiG-29,1438.7186320109568,0.7
-Tehran,Sarah Wilson,Su-27,1613.7186320109568,0.7
-Tehran,Sarah Wilson,Eurofighter Typhoon,1713.7186320109568,0.7
-Tehran,Sarah Wilson,Rafale,1488.7186320109568,0.7
-Tehran,Sarah Wilson,F/A-18,1538.7186320109568,0.7
-Tehran,David Lee,F-16,1563.2186320109568,0.7
-Tehran,David Lee,F-35,1813.2186320109568,0.7
-Tehran,David Lee,MiG-29,1438.2186320109568,0.7
-Tehran,David Lee,Su-27,1613.2186320109568,0.7
-Tehran,David Lee,Eurofighter Typhoon,1713.2186320109568,0.7
-Tehran,David Lee,Rafale,1488.2186320109568,0.7
-Tehran,David Lee,F/A-18,1538.2186320109568,0.7
-Tehran,Chris Walker,F-16,1563.4686320109568,0.7
-Tehran,Chris Walker,F-35,1813.4686320109568,0.7
-Tehran,Chris Walker,MiG-29,1438.4686320109568,0.7
-Tehran,Chris Walker,Su-27,1613.4686320109568,0.7
-Tehran,Chris Walker,Eurofighter Typhoon,1713.4686320109568,0.7
-Tehran,Chris Walker,Rafale,1488.4686320109568,0.7
-Tehran,Chris Walker,F/A-18,1538.4686320109568,0.7
-Tehran,Jessica Miller,F-16,1564.2186320109568,0.7
-Tehran,Jessica Miller,F-35,1814.2186320109568,0.7
-Tehran,Jessica Miller,MiG-29,1439.2186320109568,0.7
-Tehran,Jessica Miller,Su-27,1614.2186320109568,0.7
-Tehran,Jessica Miller,Eurofighter Typhoon,1714.2186320109568,0.7
-Tehran,Jessica Miller,Rafale,1489.2186320109568,0.7
-Tehran,Jessica Miller,F/A-18,1539.2186320109568,0.7
-Tehran,Daniel Harris,F-16,1562.7186320109568,0.7
-Tehran,Daniel Harris,F-35,1812.7186320109568,0.7
-Tehran,Daniel Harris,MiG-29,1437.7186320109568,0.7
-Tehran,Daniel Harris,Su-27,1612.7186320109568,0.7
-Tehran,Daniel Harris,Eurofighter Typhoon,1712.7186320109568,0.7
-Tehran,Daniel Harris,Rafale,1487.7186320109568,0.7
-Tehran,Daniel Harris,F/A-18,1537.7186320109568,0.7
-Baghdad,John Doe,F-16,1427.880063609008,0.7
-Baghdad,John Doe,F-35,1677.880063609008,0.7
-Baghdad,John Doe,MiG-29,1302.880063609008,0.7
-Baghdad,John Doe,Su-27,1477.880063609008,0.7
-Baghdad,John Doe,Eurofighter Typhoon,1577.880063609008,0.7
-Baghdad,John Doe,Rafale,1352.880063609008,0.7
-Baghdad,John Doe,F/A-18,1402.880063609008,0.7
-Baghdad,Jane Smith,F-16,1427.380063609008,0.7
-Baghdad,Jane Smith,F-35,1677.380063609008,0.7
-Baghdad,Jane Smith,MiG-29,1302.380063609008,0.7
-Baghdad,Jane Smith,Su-27,1477.380063609008,0.7
-Baghdad,Jane Smith,Eurofighter Typhoon,1577.380063609008,0.7
-Baghdad,Jane Smith,Rafale,1352.380063609008,0.7
-Baghdad,Jane Smith,F/A-18,1402.380063609008,0.7
-Baghdad,Michael Johnson,F-16,1427.630063609008,0.7
-Baghdad,Michael Johnson,F-35,1677.630063609008,0.7
-Baghdad,Michael Johnson,MiG-29,1302.630063609008,0.7
-Baghdad,Michael Johnson,Su-27,1477.630063609008,0.7
-Baghdad,Michael Johnson,Eurofighter Typhoon,1577.630063609008,0.7
-Baghdad,Michael Johnson,Rafale,1352.630063609008,0.7
-Baghdad,Michael Johnson,F/A-18,1402.630063609008,0.7
-Baghdad,Emily Davis,F-16,1428.130063609008,0.7
-Baghdad,Emily Davis,F-35,1678.130063609008,0.7
-Baghdad,Emily Davis,MiG-29,1303.130063609008,0.7
-Baghdad,Emily Davis,Su-27,1478.130063609008,0.7
-Baghdad,Emily Davis,Eurofighter Typhoon,1578.130063609008,0.7
-Baghdad,Emily Davis,Rafale,1353.130063609008,0.7
-Baghdad,Emily Davis,F/A-18,1403.130063609008,0.7
-Baghdad,Robert Brown,F-16,1427.130063609008,0.7
-Baghdad,Robert Brown,F-35,1677.130063609008,0.7
-Baghdad,Robert Brown,MiG-29,1302.130063609008,0.7
-Baghdad,Robert Brown,Su-27,1477.130063609008,0.7
-Baghdad,Robert Brown,Eurofighter Typhoon,1577.130063609008,0.7
-Baghdad,Robert Brown,Rafale,1352.130063609008,0.7
-Baghdad,Robert Brown,F/A-18,1402.130063609008,0.7
-Baghdad,Sarah Wilson,F-16,1427.880063609008,0.7
-Baghdad,Sarah Wilson,F-35,1677.880063609008,0.7
-Baghdad,Sarah Wilson,MiG-29,1302.880063609008,0.7
-Baghdad,Sarah Wilson,Su-27,1477.880063609008,0.7
-Baghdad,Sarah Wilson,Eurofighter Typhoon,1577.880063609008,0.7
-Baghdad,Sarah Wilson,Rafale,1352.880063609008,0.7
-Baghdad,Sarah Wilson,F/A-18,1402.880063609008,0.7
-Baghdad,David Lee,F-16,1427.380063609008,0.7
-Baghdad,David Lee,F-35,1677.380063609008,0.7
-Baghdad,David Lee,MiG-29,1302.380063609008,0.7
-Baghdad,David Lee,Su-27,1477.380063609008,0.7
-Baghdad,David Lee,Eurofighter Typhoon,1577.380063609008,0.7
-Baghdad,David Lee,Rafale,1352.380063609008,0.7
-Baghdad,David Lee,F/A-18,1402.380063609008,0.7
-Baghdad,Chris Walker,F-16,1427.630063609008,0.7
-Baghdad,Chris Walker,F-35,1677.630063609008,0.7
-Baghdad,Chris Walker,MiG-29,1302.630063609008,0.7
-Baghdad,Chris Walker,Su-27,1477.630063609008,0.7
-Baghdad,Chris Walker,Eurofighter Typhoon,1577.630063609008,0.7
-Baghdad,Chris Walker,Rafale,1352.630063609008,0.7
-Baghdad,Chris Walker,F/A-18,1402.630063609008,0.7
-Baghdad,Jessica Miller,F-16,1428.380063609008,0.7
-Baghdad,Jessica Miller,F-35,1678.380063609008,0.7
-Baghdad,Jessica Miller,MiG-29,1303.380063609008,0.7
-Baghdad,Jessica Miller,Su-27,1478.380063609008,0.7
-Baghdad,Jessica Miller,Eurofighter Typhoon,1578.380063609008,0.7
-Baghdad,Jessica Miller,Rafale,1353.380063609008,0.7
-Baghdad,Jessica Miller,F/A-18,1403.380063609008,0.7
-Baghdad,Daniel Harris,F-16,1426.880063609008,0.7
-Baghdad,Daniel Harris,F-35,1676.880063609008,0.7
-Baghdad,Daniel Harris,MiG-29,1301.880063609008,0.7
-Baghdad,Daniel Harris,Su-27,1476.880063609008,0.7
-Baghdad,Daniel Harris,Eurofighter Typhoon,1576.880063609008,0.7
-Baghdad,Daniel Harris,Rafale,1351.880063609008,0.7
-Baghdad,Daniel Harris,F/A-18,1401.880063609008,0.7
-Damascus,John Doe,F-16,1296.0655829097889,0.7
-Damascus,John Doe,F-35,1546.0655829097889,0.7
-Damascus,John Doe,MiG-29,1171.0655829097889,0.7
-Damascus,John Doe,Su-27,1346.0655829097889,0.7
-Damascus,John Doe,Eurofighter Typhoon,1446.0655829097889,0.7
-Damascus,John Doe,Rafale,1221.0655829097889,0.7
-Damascus,John Doe,F/A-18,1271.0655829097889,0.7
-Damascus,Jane Smith,F-16,1295.5655829097889,0.7
-Damascus,Jane Smith,F-35,1545.5655829097889,0.7
-Damascus,Jane Smith,MiG-29,1170.5655829097889,0.7
-Damascus,Jane Smith,Su-27,1345.5655829097889,0.7
-Damascus,Jane Smith,Eurofighter Typhoon,1445.5655829097889,0.7
-Damascus,Jane Smith,Rafale,1220.5655829097889,0.7
-Damascus,Jane Smith,F/A-18,1270.5655829097889,0.7
-Damascus,Michael Johnson,F-16,1295.8155829097889,0.7
-Damascus,Michael Johnson,F-35,1545.8155829097889,0.7
-Damascus,Michael Johnson,MiG-29,1170.8155829097889,0.7
-Damascus,Michael Johnson,Su-27,1345.8155829097889,0.7
-Damascus,Michael Johnson,Eurofighter Typhoon,1445.8155829097889,0.7
-Damascus,Michael Johnson,Rafale,1220.8155829097889,0.7
-Damascus,Michael Johnson,F/A-18,1270.8155829097889,0.7
-Damascus,Emily Davis,F-16,1296.3155829097889,0.7
-Damascus,Emily Davis,F-35,1546.3155829097889,0.7
-Damascus,Emily Davis,MiG-29,1171.3155829097889,0.7
-Damascus,Emily Davis,Su-27,1346.3155829097889,0.7
-Damascus,Emily Davis,Eurofighter Typhoon,1446.3155829097889,0.7
-Damascus,Emily Davis,Rafale,1221.3155829097889,0.7
-Damascus,Emily Davis,F/A-18,1271.3155829097889,0.7
-Damascus,Robert Brown,F-16,1295.3155829097889,0.7
-Damascus,Robert Brown,F-35,1545.3155829097889,0.7
-Damascus,Robert Brown,MiG-29,1170.3155829097889,0.7
-Damascus,Robert Brown,Su-27,1345.3155829097889,0.7
-Damascus,Robert Brown,Eurofighter Typhoon,1445.3155829097889,0.7
-Damascus,Robert Brown,Rafale,1220.3155829097889,0.7
-Damascus,Robert Brown,F/A-18,1270.3155829097889,0.7
-Damascus,Sarah Wilson,F-16,1296.0655829097889,0.7
-Damascus,Sarah Wilson,F-35,1546.0655829097889,0.7
-Damascus,Sarah Wilson,MiG-29,1171.0655829097889,0.7
-Damascus,Sarah Wilson,Su-27,1346.0655829097889,0.7
-Damascus,Sarah Wilson,Eurofighter Typhoon,1446.0655829097889,0.7
-Damascus,Sarah Wilson,Rafale,1221.0655829097889,0.7
-Damascus,Sarah Wilson,F/A-18,1271.0655829097889,0.7
-Damascus,David Lee,F-16,1295.5655829097889,0.7
-Damascus,David Lee,F-35,1545.5655829097889,0.7
-Damascus,David Lee,MiG-29,1170.5655829097889,0.7
-Damascus,David Lee,Su-27,1345.5655829097889,0.7
-Damascus,David Lee,Eurofighter Typhoon,1445.5655829097889,0.7
-Damascus,David Lee,Rafale,1220.5655829097889,0.7
-Damascus,David Lee,F/A-18,1270.5655829097889,0.7
-Damascus,Chris Walker,F-16,1295.8155829097889,0.7
-Damascus,Chris Walker,F-35,1545.8155829097889,0.7
-Damascus,Chris Walker,MiG-29,1170.8155829097889,0.7
-Damascus,Chris Walker,Su-27,1345.8155829097889,0.7
-Damascus,Chris Walker,Eurofighter Typhoon,1445.8155829097889,0.7
-Damascus,Chris Walker,Rafale,1220.8155829097889,0.7
-Damascus,Chris Walker,F/A-18,1270.8155829097889,0.7
-Damascus,Jessica Miller,F-16,1296.5655829097889,0.7
-Damascus,Jessica Miller,F-35,1546.5655829097889,0.7
-Damascus,Jessica Miller,MiG-29,1171.5655829097889,0.7
-Damascus,Jessica Miller,Su-27,1346.5655829097889,0.7
-Damascus,Jessica Miller,Eurofighter Typhoon,1446.5655829097889,0.7
-Damascus,Jessica Miller,Rafale,1221.5655829097889,0.7
-Damascus,Jessica Miller,F/A-18,1271.5655829097889,0.7
-Damascus,Daniel Harris,F-16,1295.0655829097889,0.7
-Damascus,Daniel Harris,F-35,1545.0655829097889,0.7
-Damascus,Daniel Harris,MiG-29,1170.0655829097889,0.7
-Damascus,Daniel Harris,Su-27,1345.0655829097889,0.7
-Damascus,Daniel Harris,Eurofighter Typhoon,1445.0655829097889,0.7
-Damascus,Daniel Harris,Rafale,1220.0655829097889,0.7
-Damascus,Daniel Harris,F/A-18,1270.0655829097889,0.7
-Kabul,John Doe,F-16,1884.9900522021837,0.7
-Kabul,John Doe,F-35,2134.9900522021835,0.7
-Kabul,John Doe,MiG-29,1759.9900522021837,0.7
-Kabul,John Doe,Su-27,1934.9900522021837,0.7
-Kabul,John Doe,Eurofighter Typhoon,2034.9900522021837,0.7
-Kabul,John Doe,Rafale,1809.9900522021837,0.7
-Kabul,John Doe,F/A-18,1859.9900522021837,0.7
-Kabul,Jane Smith,F-16,1884.4900522021837,0.7
-Kabul,Jane Smith,F-35,2134.4900522021835,0.7
-Kabul,Jane Smith,MiG-29,1759.4900522021837,0.7
-Kabul,Jane Smith,Su-27,1934.4900522021837,0.7
-Kabul,Jane Smith,Eurofighter Typhoon,2034.4900522021837,0.7
-Kabul,Jane Smith,Rafale,1809.4900522021837,0.7
-Kabul,Jane Smith,F/A-18,1859.4900522021837,0.7
-Kabul,Michael Johnson,F-16,1884.7400522021837,0.7
-Kabul,Michael Johnson,F-35,2134.7400522021835,0.7
-Kabul,Michael Johnson,MiG-29,1759.7400522021837,0.7
-Kabul,Michael Johnson,Su-27,1934.7400522021837,0.7
-Kabul,Michael Johnson,Eurofighter Typhoon,2034.7400522021837,0.7
-Kabul,Michael Johnson,Rafale,1809.7400522021837,0.7
-Kabul,Michael Johnson,F/A-18,1859.7400522021837,0.7
-Kabul,Emily Davis,F-16,1885.2400522021837,0.7
-Kabul,Emily Davis,F-35,2135.2400522021835,0.7
-Kabul,Emily Davis,MiG-29,1760.2400522021837,0.7
-Kabul,Emily Davis,Su-27,1935.2400522021837,0.7
-Kabul,Emily Davis,Eurofighter Typhoon,2035.2400522021837,0.7
-Kabul,Emily Davis,Rafale,1810.2400522021837,0.7
-Kabul,Emily Davis,F/A-18,1860.2400522021837,0.7
-Kabul,Robert Brown,F-16,1884.2400522021837,0.7
-Kabul,Robert Brown,F-35,2134.2400522021835,0.7
-Kabul,Robert Brown,MiG-29,1759.2400522021837,0.7
-Kabul,Robert Brown,Su-27,1934.2400522021837,0.7
-Kabul,Robert Brown,Eurofighter Typhoon,2034.2400522021837,0.7
-Kabul,Robert Brown,Rafale,1809.2400522021837,0.7
-Kabul,Robert Brown,F/A-18,1859.2400522021837,0.7
-Kabul,Sarah Wilson,F-16,1884.9900522021837,0.7
-Kabul,Sarah Wilson,F-35,2134.9900522021835,0.7
-Kabul,Sarah Wilson,MiG-29,1759.9900522021837,0.7
-Kabul,Sarah Wilson,Su-27,1934.9900522021837,0.7
-Kabul,Sarah Wilson,Eurofighter Typhoon,2034.9900522021837,0.7
-Kabul,Sarah Wilson,Rafale,1809.9900522021837,0.7
-Kabul,Sarah Wilson,F/A-18,1859.9900522021837,0.7
-Kabul,David Lee,F-16,1884.4900522021837,0.7
-Kabul,David Lee,F-35,2134.4900522021835,0.7
-Kabul,David Lee,MiG-29,1759.4900522021837,0.7
-Kabul,David Lee,Su-27,1934.4900522021837,0.7
-Kabul,David Lee,Eurofighter Typhoon,2034.4900522021837,0.7
-Kabul,David Lee,Rafale,1809.4900522021837,0.7
-Kabul,David Lee,F/A-18,1859.4900522021837,0.7
-Kabul,Chris Walker,F-16,1884.7400522021837,0.7
-Kabul,Chris Walker,F-35,2134.7400522021835,0.7
-Kabul,Chris Walker,MiG-29,1759.7400522021837,0.7
-Kabul,Chris Walker,Su-27,1934.7400522021837,0.7
-Kabul,Chris Walker,Eurofighter Typhoon,2034.7400522021837,0.7
-Kabul,Chris Walker,Rafale,1809.7400522021837,0.7
-Kabul,Chris Walker,F/A-18,1859.7400522021837,0.7
-Kabul,Jessica Miller,F-16,1885.4900522021837,0.7
-Kabul,Jessica Miller,F-35,2135.4900522021835,0.7
-Kabul,Jessica Miller,MiG-29,1760.4900522021837,0.7
-Kabul,Jessica Miller,Su-27,1935.4900522021837,0.7
-Kabul,Jessica Miller,Eurofighter Typhoon,2035.4900522021837,0.7
-Kabul,Jessica Miller,Rafale,1810.4900522021837,0.7
-Kabul,Jessica Miller,F/A-18,1860.4900522021837,0.7
-Kabul,Daniel Harris,F-16,1883.9900522021837,0.7
-Kabul,Daniel Harris,F-35,2133.9900522021835,0.7
-Kabul,Daniel Harris,MiG-29,1758.9900522021837,0.7
-Kabul,Daniel Harris,Su-27,1933.9900522021837,0.7
-Kabul,Daniel Harris,Eurofighter Typhoon,2033.9900522021837,0.7
-Kabul,Daniel Harris,Rafale,1808.9900522021837,0.7
-Kabul,Daniel Harris,F/A-18,1858.9900522021837,0.7
-Sanaa,John Doe,F-16,1661.2773727609306,0.7
-Sanaa,John Doe,F-35,1911.2773727609306,0.7
-Sanaa,John Doe,MiG-29,1536.2773727609306,0.7
-Sanaa,John Doe,Su-27,1711.2773727609306,0.7
-Sanaa,John Doe,Eurofighter Typhoon,1811.2773727609306,0.7
-Sanaa,John Doe,Rafale,1586.2773727609306,0.7
-Sanaa,John Doe,F/A-18,1636.2773727609306,0.7
-Sanaa,Jane Smith,F-16,1660.7773727609306,0.7
-Sanaa,Jane Smith,F-35,1910.7773727609306,0.7
-Sanaa,Jane Smith,MiG-29,1535.7773727609306,0.7
-Sanaa,Jane Smith,Su-27,1710.7773727609306,0.7
-Sanaa,Jane Smith,Eurofighter Typhoon,1810.7773727609306,0.7
-Sanaa,Jane Smith,Rafale,1585.7773727609306,0.7
-Sanaa,Jane Smith,F/A-18,1635.7773727609306,0.7
-Sanaa,Michael Johnson,F-16,1661.0273727609306,0.7
-Sanaa,Michael Johnson,F-35,1911.0273727609306,0.7
-Sanaa,Michael Johnson,MiG-29,1536.0273727609306,0.7
-Sanaa,Michael Johnson,Su-27,1711.0273727609306,0.7
-Sanaa,Michael Johnson,Eurofighter Typhoon,1811.0273727609306,0.7
-Sanaa,Michael Johnson,Rafale,1586.0273727609306,0.7
-Sanaa,Michael Johnson,F/A-18,1636.0273727609306,0.7
-Sanaa,Emily Davis,F-16,1661.5273727609306,0.7
-Sanaa,Emily Davis,F-35,1911.5273727609306,0.7
-Sanaa,Emily Davis,MiG-29,1536.5273727609306,0.7
-Sanaa,Emily Davis,Su-27,1711.5273727609306,0.7
-Sanaa,Emily Davis,Eurofighter Typhoon,1811.5273727609306,0.7
-Sanaa,Emily Davis,Rafale,1586.5273727609306,0.7
-Sanaa,Emily Davis,F/A-18,1636.5273727609306,0.7
-Sanaa,Robert Brown,F-16,1660.5273727609306,0.7
-Sanaa,Robert Brown,F-35,1910.5273727609306,0.7
-Sanaa,Robert Brown,MiG-29,1535.5273727609306,0.7
-Sanaa,Robert Brown,Su-27,1710.5273727609306,0.7
-Sanaa,Robert Brown,Eurofighter Typhoon,1810.5273727609306,0.7
-Sanaa,Robert Brown,Rafale,1585.5273727609306,0.7
-Sanaa,Robert Brown,F/A-18,1635.5273727609306,0.7
-Sanaa,Sarah Wilson,F-16,1661.2773727609306,0.7
-Sanaa,Sarah Wilson,F-35,1911.2773727609306,0.7
-Sanaa,Sarah Wilson,MiG-29,1536.2773727609306,0.7
-Sanaa,Sarah Wilson,Su-27,1711.2773727609306,0.7
-Sanaa,Sarah Wilson,Eurofighter Typhoon,1811.2773727609306,0.7
-Sanaa,Sarah Wilson,Rafale,1586.2773727609306,0.7
-Sanaa,Sarah Wilson,F/A-18,1636.2773727609306,0.7
-Sanaa,David Lee,F-16,1660.7773727609306,0.7
-Sanaa,David Lee,F-35,1910.7773727609306,0.7
-Sanaa,David Lee,MiG-29,1535.7773727609306,0.7
-Sanaa,David Lee,Su-27,1710.7773727609306,0.7
-Sanaa,David Lee,Eurofighter Typhoon,1810.7773727609306,0.7
-Sanaa,David Lee,Rafale,1585.7773727609306,0.7
-Sanaa,David Lee,F/A-18,1635.7773727609306,0.7
-Sanaa,Chris Walker,F-16,1661.0273727609306,0.7
-Sanaa,Chris Walker,F-35,1911.0273727609306,0.7
-Sanaa,Chris Walker,MiG-29,1536.0273727609306,0.7
-Sanaa,Chris Walker,Su-27,1711.0273727609306,0.7
-Sanaa,Chris Walker,Eurofighter Typhoon,1811.0273727609306,0.7
-Sanaa,Chris Walker,Rafale,1586.0273727609306,0.7
-Sanaa,Chris Walker,F/A-18,1636.0273727609306,0.7
-Sanaa,Jessica Miller,F-16,1661.7773727609306,0.7
-Sanaa,Jessica Miller,F-35,1911.7773727609306,0.7
-Sanaa,Jessica Miller,MiG-29,1536.7773727609306,0.7
-Sanaa,Jessica Miller,Su-27,1711.7773727609306,0.7
-Sanaa,Jessica Miller,Eurofighter Typhoon,1811.7773727609306,0.7
-Sanaa,Jessica Miller,Rafale,1586.7773727609306,0.7
-Sanaa,Jessica Miller,F/A-18,1636.7773727609306,0.7
-Sanaa,Daniel Harris,F-16,1660.2773727609306,0.7
-Sanaa,Daniel Harris,F-35,1910.2773727609306,0.7
-Sanaa,Daniel Harris,MiG-29,1535.2773727609306,0.7
-Sanaa,Daniel Harris,Su-27,1710.2773727609306,0.7
-Sanaa,Daniel Harris,Eurofighter Typhoon,1810.2773727609306,0.7
-Sanaa,Daniel Harris,Rafale,1585.2773727609306,0.7
-Sanaa,Daniel Harris,F/A-18,1635.2773727609306,0.7
-Riyadh,John Doe,F-16,1528.3669805076054,0.7
-Riyadh,John Doe,F-35,1778.3669805076054,0.7
-Riyadh,John Doe,MiG-29,1403.3669805076054,0.7
-Riyadh,John Doe,Su-27,1578.3669805076054,0.7
-Riyadh,John Doe,Eurofighter Typhoon,1678.3669805076054,0.7
-Riyadh,John Doe,Rafale,1453.3669805076054,0.7
-Riyadh,John Doe,F/A-18,1503.3669805076054,0.7
-Riyadh,Jane Smith,F-16,1527.8669805076054,0.7
-Riyadh,Jane Smith,F-35,1777.8669805076054,0.7
-Riyadh,Jane Smith,MiG-29,1402.8669805076054,0.7
-Riyadh,Jane Smith,Su-27,1577.8669805076054,0.7
-Riyadh,Jane Smith,Eurofighter Typhoon,1677.8669805076054,0.7
-Riyadh,Jane Smith,Rafale,1452.8669805076054,0.7
-Riyadh,Jane Smith,F/A-18,1502.8669805076054,0.7
-Riyadh,Michael Johnson,F-16,1528.1169805076054,0.7
-Riyadh,Michael Johnson,F-35,1778.1169805076054,0.7
-Riyadh,Michael Johnson,MiG-29,1403.1169805076054,0.7
-Riyadh,Michael Johnson,Su-27,1578.1169805076054,0.7
-Riyadh,Michael Johnson,Eurofighter Typhoon,1678.1169805076054,0.7
-Riyadh,Michael Johnson,Rafale,1453.1169805076054,0.7
-Riyadh,Michael Johnson,F/A-18,1503.1169805076054,0.7
-Riyadh,Emily Davis,F-16,1528.6169805076054,0.7
-Riyadh,Emily Davis,F-35,1778.6169805076054,0.7
-Riyadh,Emily Davis,MiG-29,1403.6169805076054,0.7
-Riyadh,Emily Davis,Su-27,1578.6169805076054,0.7
-Riyadh,Emily Davis,Eurofighter Typhoon,1678.6169805076054,0.7
-Riyadh,Emily Davis,Rafale,1453.6169805076054,0.7
-Riyadh,Emily Davis,F/A-18,1503.6169805076054,0.7
-Riyadh,Robert Brown,F-16,1527.6169805076054,0.7
-Riyadh,Robert Brown,F-35,1777.6169805076054,0.7
-Riyadh,Robert Brown,MiG-29,1402.6169805076054,0.7
-Riyadh,Robert Brown,Su-27,1577.6169805076054,0.7
-Riyadh,Robert Brown,Eurofighter Typhoon,1677.6169805076054,0.7
-Riyadh,Robert Brown,Rafale,1452.6169805076054,0.7
-Riyadh,Robert Brown,F/A-18,1502.6169805076054,0.7
-Riyadh,Sarah Wilson,F-16,1528.3669805076054,0.7
-Riyadh,Sarah Wilson,F-35,1778.3669805076054,0.7
-Riyadh,Sarah Wilson,MiG-29,1403.3669805076054,0.7
-Riyadh,Sarah Wilson,Su-27,1578.3669805076054,0.7
-Riyadh,Sarah Wilson,Eurofighter Typhoon,1678.3669805076054,0.7
-Riyadh,Sarah Wilson,Rafale,1453.3669805076054,0.7
-Riyadh,Sarah Wilson,F/A-18,1503.3669805076054,0.7
-Riyadh,David Lee,F-16,1527.8669805076054,0.7
-Riyadh,David Lee,F-35,1777.8669805076054,0.7
-Riyadh,David Lee,MiG-29,1402.8669805076054,0.7
-Riyadh,David Lee,Su-27,1577.8669805076054,0.7
-Riyadh,David Lee,Eurofighter Typhoon,1677.8669805076054,0.7
-Riyadh,David Lee,Rafale,1452.8669805076054,0.7
-Riyadh,David Lee,F/A-18,1502.8669805076054,0.7
-Riyadh,Chris Walker,F-16,1528.1169805076054,0.7
-Riyadh,Chris Walker,F-35,1778.1169805076054,0.7
-Riyadh,Chris Walker,MiG-29,1403.1169805076054,0.7
-Riyadh,Chris Walker,Su-27,1578.1169805076054,0.7
-Riyadh,Chris Walker,Eurofighter Typhoon,1678.1169805076054,0.7
-Riyadh,Chris Walker,Rafale,1453.1169805076054,0.7
-Riyadh,Chris Walker,F/A-18,1503.1169805076054,0.7
-Riyadh,Jessica Miller,F-16,1528.8669805076054,0.7
-Riyadh,Jessica Miller,F-35,1778.8669805076054,0.7
-Riyadh,Jessica Miller,MiG-29,1403.8669805076054,0.7
-Riyadh,Jessica Miller,Su-27,1578.8669805076054,0.7
-Riyadh,Jessica Miller,Eurofighter Typhoon,1678.8669805076054,0.7
-Riyadh,Jessica Miller,Rafale,1453.8669805076054,0.7
-Riyadh,Jessica Miller,F/A-18,1503.8669805076054,0.7
-Riyadh,Daniel Harris,F-16,1527.3669805076054,0.7
-Riyadh,Daniel Harris,F-35,1777.3669805076054,0.7
-Riyadh,Daniel Harris,MiG-29,1402.3669805076054,0.7
-Riyadh,Daniel Harris,Su-27,1577.3669805076054,0.7
-Riyadh,Daniel Harris,Eurofighter Typhoon,1677.3669805076054,0.7
-Riyadh,Daniel Harris,Rafale,1452.3669805076054,0.7
-Riyadh,Daniel Harris,F/A-18,1502.3669805076054,0.7
-Cairo,John Doe,F-16,1337.967936677458,0.7
-Cairo,John Doe,F-35,1587.967936677458,0.7
-Cairo,John Doe,MiG-29,1212.967936677458,0.7
-Cairo,John Doe,Su-27,1387.967936677458,0.7
-Cairo,John Doe,Eurofighter Typhoon,1487.967936677458,0.7
-Cairo,John Doe,Rafale,1262.967936677458,0.7
-Cairo,John Doe,F/A-18,1312.967936677458,0.7
-Cairo,Jane Smith,F-16,1337.467936677458,0.7
-Cairo,Jane Smith,F-35,1587.467936677458,0.7
-Cairo,Jane Smith,MiG-29,1212.467936677458,0.7
-Cairo,Jane Smith,Su-27,1387.467936677458,0.7
-Cairo,Jane Smith,Eurofighter Typhoon,1487.467936677458,0.7
-Cairo,Jane Smith,Rafale,1262.467936677458,0.7
-Cairo,Jane Smith,F/A-18,1312.467936677458,0.7
-Cairo,Michael Johnson,F-16,1337.717936677458,0.7
-Cairo,Michael Johnson,F-35,1587.717936677458,0.7
-Cairo,Michael Johnson,MiG-29,1212.717936677458,0.7
-Cairo,Michael Johnson,Su-27,1387.717936677458,0.7
-Cairo,Michael Johnson,Eurofighter Typhoon,1487.717936677458,0.7
-Cairo,Michael Johnson,Rafale,1262.717936677458,0.7
-Cairo,Michael Johnson,F/A-18,1312.717936677458,0.7
-Cairo,Emily Davis,F-16,1338.217936677458,0.7
-Cairo,Emily Davis,F-35,1588.217936677458,0.7
-Cairo,Emily Davis,MiG-29,1213.217936677458,0.7
-Cairo,Emily Davis,Su-27,1388.217936677458,0.7
-Cairo,Emily Davis,Eurofighter Typhoon,1488.217936677458,0.7
-Cairo,Emily Davis,Rafale,1263.217936677458,0.7
-Cairo,Emily Davis,F/A-18,1313.217936677458,0.7
-Cairo,Robert Brown,F-16,1337.217936677458,0.7
-Cairo,Robert Brown,F-35,1587.217936677458,0.7
-Cairo,Robert Brown,MiG-29,1212.217936677458,0.7
-Cairo,Robert Brown,Su-27,1387.217936677458,0.7
-Cairo,Robert Brown,Eurofighter Typhoon,1487.217936677458,0.7
-Cairo,Robert Brown,Rafale,1262.217936677458,0.7
-Cairo,Robert Brown,F/A-18,1312.217936677458,0.7
-Cairo,Sarah Wilson,F-16,1337.967936677458,0.7
-Cairo,Sarah Wilson,F-35,1587.967936677458,0.7
-Cairo,Sarah Wilson,MiG-29,1212.967936677458,0.7
-Cairo,Sarah Wilson,Su-27,1387.967936677458,0.7
-Cairo,Sarah Wilson,Eurofighter Typhoon,1487.967936677458,0.7
-Cairo,Sarah Wilson,Rafale,1262.967936677458,0.7
-Cairo,Sarah Wilson,F/A-18,1312.967936677458,0.7
-Cairo,David Lee,F-16,1337.467936677458,0.7
-Cairo,David Lee,F-35,1587.467936677458,0.7
-Cairo,David Lee,MiG-29,1212.467936677458,0.7
-Cairo,David Lee,Su-27,1387.467936677458,0.7
-Cairo,David Lee,Eurofighter Typhoon,1487.467936677458,0.7
-Cairo,David Lee,Rafale,1262.467936677458,0.7
-Cairo,David Lee,F/A-18,1312.467936677458,0.7
-Cairo,Chris Walker,F-16,1337.717936677458,0.7
-Cairo,Chris Walker,F-35,1587.717936677458,0.7
-Cairo,Chris Walker,MiG-29,1212.717936677458,0.7
-Cairo,Chris Walker,Su-27,1387.717936677458,0.7
-Cairo,Chris Walker,Eurofighter Typhoon,1487.717936677458,0.7
-Cairo,Chris Walker,Rafale,1262.717936677458,0.7
-Cairo,Chris Walker,F/A-18,1312.717936677458,0.7
-Cairo,Jessica Miller,F-16,1338.467936677458,0.7
-Cairo,Jessica Miller,F-35,1588.467936677458,0.7
-Cairo,Jessica Miller,MiG-29,1213.467936677458,0.7
-Cairo,Jessica Miller,Su-27,1388.467936677458,0.7
-Cairo,Jessica Miller,Eurofighter Typhoon,1488.467936677458,0.7
-Cairo,Jessica Miller,Rafale,1263.467936677458,0.7
-Cairo,Jessica Miller,F/A-18,1313.467936677458,0.7
-Cairo,Daniel Harris,F-16,1336.967936677458,0.7
-Cairo,Daniel Harris,F-35,1586.967936677458,0.7
-Cairo,Daniel Harris,MiG-29,1211.967936677458,0.7
-Cairo,Daniel Harris,Su-27,1386.967936677458,0.7
-Cairo,Daniel Harris,Eurofighter Typhoon,1486.967936677458,0.7
-Cairo,Daniel Harris,Rafale,1261.967936677458,0.7
-Cairo,Daniel Harris,F/A-18,1311.967936677458,0.7
-Beirut,John Doe,F-16,1299.6662978978204,0.7
-Beirut,John Doe,F-35,1549.6662978978204,0.7
-Beirut,John Doe,MiG-29,1174.6662978978204,0.7
-Beirut,John Doe,Su-27,1349.6662978978204,0.7
-Beirut,John Doe,Eurofighter Typhoon,1449.6662978978204,0.7
-Beirut,John Doe,Rafale,1224.6662978978204,0.7
-Beirut,John Doe,F/A-18,1274.6662978978204,0.7
-Beirut,Jane Smith,F-16,1299.1662978978204,0.7
-Beirut,Jane Smith,F-35,1549.1662978978204,0.7
-Beirut,Jane Smith,MiG-29,1174.1662978978204,0.7
-Beirut,Jane Smith,Su-27,1349.1662978978204,0.7
-Beirut,Jane Smith,Eurofighter Typhoon,1449.1662978978204,0.7
-Beirut,Jane Smith,Rafale,1224.1662978978204,0.7
-Beirut,Jane Smith,F/A-18,1274.1662978978204,0.7
-Beirut,Michael Johnson,F-16,1299.4162978978204,0.7
-Beirut,Michael Johnson,F-35,1549.4162978978204,0.7
-Beirut,Michael Johnson,MiG-29,1174.4162978978204,0.7
-Beirut,Michael Johnson,Su-27,1349.4162978978204,0.7
-Beirut,Michael Johnson,Eurofighter Typhoon,1449.4162978978204,0.7
-Beirut,Michael Johnson,Rafale,1224.4162978978204,0.7
-Beirut,Michael Johnson,F/A-18,1274.4162978978204,0.7
-Beirut,Emily Davis,F-16,1299.9162978978204,0.7
-Beirut,Emily Davis,F-35,1549.9162978978204,0.7
-Beirut,Emily Davis,MiG-29,1174.9162978978204,0.7
-Beirut,Emily Davis,Su-27,1349.9162978978204,0.7
-Beirut,Emily Davis,Eurofighter Typhoon,1449.9162978978204,0.7
-Beirut,Emily Davis,Rafale,1224.9162978978204,0.7
-Beirut,Emily Davis,F/A-18,1274.9162978978204,0.7
-Beirut,Robert Brown,F-16,1298.9162978978204,0.7
-Beirut,Robert Brown,F-35,1548.9162978978204,0.7
-Beirut,Robert Brown,MiG-29,1173.9162978978204,0.7
-Beirut,Robert Brown,Su-27,1348.9162978978204,0.7
-Beirut,Robert Brown,Eurofighter Typhoon,1448.9162978978204,0.7
-Beirut,Robert Brown,Rafale,1223.9162978978204,0.7
-Beirut,Robert Brown,F/A-18,1273.9162978978204,0.7
-Beirut,Sarah Wilson,F-16,1299.6662978978204,0.7
-Beirut,Sarah Wilson,F-35,1549.6662978978204,0.7
-Beirut,Sarah Wilson,MiG-29,1174.6662978978204,0.7
-Beirut,Sarah Wilson,Su-27,1349.6662978978204,0.7
-Beirut,Sarah Wilson,Eurofighter Typhoon,1449.6662978978204,0.7
-Beirut,Sarah Wilson,Rafale,1224.6662978978204,0.7
-Beirut,Sarah Wilson,F/A-18,1274.6662978978204,0.7
-Beirut,David Lee,F-16,1299.1662978978204,0.7
-Beirut,David Lee,F-35,1549.1662978978204,0.7
-Beirut,David Lee,MiG-29,1174.1662978978204,0.7
-Beirut,David Lee,Su-27,1349.1662978978204,0.7
-Beirut,David Lee,Eurofighter Typhoon,1449.1662978978204,0.7
-Beirut,David Lee,Rafale,1224.1662978978204,0.7
-Beirut,David Lee,F/A-18,1274.1662978978204,0.7
-Beirut,Chris Walker,F-16,1299.4162978978204,0.7
-Beirut,Chris Walker,F-35,1549.4162978978204,0.7
-Beirut,Chris Walker,MiG-29,1174.4162978978204,0.7
-Beirut,Chris Walker,Su-27,1349.4162978978204,0.7
-Beirut,Chris Walker,Eurofighter Typhoon,1449.4162978978204,0.7
-Beirut,Chris Walker,Rafale,1224.4162978978204,0.7
-Beirut,Chris Walker,F/A-18,1274.4162978978204,0.7
-Beirut,Jessica Miller,F-16,1300.1662978978204,0.7
-Beirut,Jessica Miller,F-35,1550.1662978978204,0.7
-Beirut,Jessica Miller,MiG-29,1175.1662978978204,0.7
-Beirut,Jessica Miller,Su-27,1350.1662978978204,0.7
-Beirut,Jessica Miller,Eurofighter Typhoon,1450.1662978978204,0.7
-Beirut,Jessica Miller,Rafale,1225.1662978978204,0.7
-Beirut,Jessica Miller,F/A-18,1275.1662978978204,0.7
-Beirut,Daniel Harris,F-16,1298.6662978978204,0.7
-Beirut,Daniel Harris,F-35,1548.6662978978204,0.7
-Beirut,Daniel Harris,MiG-29,1173.6662978978204,0.7
-Beirut,Daniel Harris,Su-27,1348.6662978978204,0.7
-Beirut,Daniel Harris,Eurofighter Typhoon,1448.6662978978204,0.7
-Beirut,Daniel Harris,Rafale,1223.6662978978204,0.7
-Beirut,Daniel Harris,F/A-18,1273.6662978978204,0.7
-Amman,John Doe,F-16,1266.5845842982349,0.7
-Amman,John Doe,F-35,1516.5845842982349,0.7
-Amman,John Doe,MiG-29,1141.5845842982349,0.7
-Amman,John Doe,Su-27,1316.5845842982349,0.7
-Amman,John Doe,Eurofighter Typhoon,1416.5845842982349,0.7
-Amman,John Doe,Rafale,1191.5845842982349,0.7
-Amman,John Doe,F/A-18,1241.5845842982349,0.7
-Amman,Jane Smith,F-16,1266.0845842982349,0.7
-Amman,Jane Smith,F-35,1516.0845842982349,0.7
-Amman,Jane Smith,MiG-29,1141.0845842982349,0.7
-Amman,Jane Smith,Su-27,1316.0845842982349,0.7
-Amman,Jane Smith,Eurofighter Typhoon,1416.0845842982349,0.7
-Amman,Jane Smith,Rafale,1191.0845842982349,0.7
-Amman,Jane Smith,F/A-18,1241.0845842982349,0.7
-Amman,Michael Johnson,F-16,1266.3345842982349,0.7
-Amman,Michael Johnson,F-35,1516.3345842982349,0.7
-Amman,Michael Johnson,MiG-29,1141.3345842982349,0.7
-Amman,Michael Johnson,Su-27,1316.3345842982349,0.7
-Amman,Michael Johnson,Eurofighter Typhoon,1416.3345842982349,0.7
-Amman,Michael Johnson,Rafale,1191.3345842982349,0.7
-Amman,Michael Johnson,F/A-18,1241.3345842982349,0.7
-Amman,Emily Davis,F-16,1266.8345842982349,0.7
-Amman,Emily Davis,F-35,1516.8345842982349,0.7
-Amman,Emily Davis,MiG-29,1141.8345842982349,0.7
-Amman,Emily Davis,Su-27,1316.8345842982349,0.7
-Amman,Emily Davis,Eurofighter Typhoon,1416.8345842982349,0.7
-Amman,Emily Davis,Rafale,1191.8345842982349,0.7
-Amman,Emily Davis,F/A-18,1241.8345842982349,0.7
-Amman,Robert Brown,F-16,1265.8345842982349,0.7
-Amman,Robert Brown,F-35,1515.8345842982349,0.7
-Amman,Robert Brown,MiG-29,1140.8345842982349,0.7
-Amman,Robert Brown,Su-27,1315.8345842982349,0.7
-Amman,Robert Brown,Eurofighter Typhoon,1415.8345842982349,0.7
-Amman,Robert Brown,Rafale,1190.8345842982349,0.7
-Amman,Robert Brown,F/A-18,1240.8345842982349,0.7
-Amman,Sarah Wilson,F-16,1266.5845842982349,0.7
-Amman,Sarah Wilson,F-35,1516.5845842982349,0.7
-Amman,Sarah Wilson,MiG-29,1141.5845842982349,0.7
-Amman,Sarah Wilson,Su-27,1316.5845842982349,0.7
-Amman,Sarah Wilson,Eurofighter Typhoon,1416.5845842982349,0.7
-Amman,Sarah Wilson,Rafale,1191.5845842982349,0.7
-Amman,Sarah Wilson,F/A-18,1241.5845842982349,0.7
-Amman,David Lee,F-16,1266.0845842982349,0.7
-Amman,David Lee,F-35,1516.0845842982349,0.7
-Amman,David Lee,MiG-29,1141.0845842982349,0.7
-Amman,David Lee,Su-27,1316.0845842982349,0.7
-Amman,David Lee,Eurofighter Typhoon,1416.0845842982349,0.7
-Amman,David Lee,Rafale,1191.0845842982349,0.7
-Amman,David Lee,F/A-18,1241.0845842982349,0.7
-Amman,Chris Walker,F-16,1266.3345842982349,0.7
-Amman,Chris Walker,F-35,1516.3345842982349,0.7
-Amman,Chris Walker,MiG-29,1141.3345842982349,0.7
-Amman,Chris Walker,Su-27,1316.3345842982349,0.7
-Amman,Chris Walker,Eurofighter Typhoon,1416.3345842982349,0.7
-Amman,Chris Walker,Rafale,1191.3345842982349,0.7
-Amman,Chris Walker,F/A-18,1241.3345842982349,0.7
-Amman,Jessica Miller,F-16,1267.0845842982349,0.7
-Amman,Jessica Miller,F-35,1517.0845842982349,0.7
-Amman,Jessica Miller,MiG-29,1142.0845842982349,0.7
-Amman,Jessica Miller,Su-27,1317.0845842982349,0.7
-Amman,Jessica Miller,Eurofighter Typhoon,1417.0845842982349,0.7
-Amman,Jessica Miller,Rafale,1192.0845842982349,0.7
-Amman,Jessica Miller,F/A-18,1242.0845842982349,0.7
-Amman,Daniel Harris,F-16,1265.5845842982349,0.7
-Amman,Daniel Harris,F-35,1515.5845842982349,0.7
-Amman,Daniel Harris,MiG-29,1140.5845842982349,0.7
-Amman,Daniel Harris,Su-27,1315.5845842982349,0.7
-Amman,Daniel Harris,Eurofighter Typhoon,1415.5845842982349,0.7
-Amman,Daniel Harris,Rafale,1190.5845842982349,0.7
-Amman,Daniel Harris,F/A-18,1240.5845842982349,0.7
-Tripoli,John Doe,F-16,1666.6544960550004,0.7
-Tripoli,John Doe,F-35,1916.6544960550004,0.7
-Tripoli,John Doe,MiG-29,1541.6544960550004,0.7
-Tripoli,John Doe,Su-27,1716.6544960550004,0.7
-Tripoli,John Doe,Eurofighter Typhoon,1816.6544960550004,0.7
-Tripoli,John Doe,Rafale,1591.6544960550004,0.7
-Tripoli,John Doe,F/A-18,1641.6544960550004,0.7
-Tripoli,Jane Smith,F-16,1666.1544960550004,0.7
-Tripoli,Jane Smith,F-35,1916.1544960550004,0.7
-Tripoli,Jane Smith,MiG-29,1541.1544960550004,0.7
-Tripoli,Jane Smith,Su-27,1716.1544960550004,0.7
-Tripoli,Jane Smith,Eurofighter Typhoon,1816.1544960550004,0.7
-Tripoli,Jane Smith,Rafale,1591.1544960550004,0.7
-Tripoli,Jane Smith,F/A-18,1641.1544960550004,0.7
-Tripoli,Michael Johnson,F-16,1666.4044960550004,0.7
-Tripoli,Michael Johnson,F-35,1916.4044960550004,0.7
-Tripoli,Michael Johnson,MiG-29,1541.4044960550004,0.7
-Tripoli,Michael Johnson,Su-27,1716.4044960550004,0.7
-Tripoli,Michael Johnson,Eurofighter Typhoon,1816.4044960550004,0.7
-Tripoli,Michael Johnson,Rafale,1591.4044960550004,0.7
-Tripoli,Michael Johnson,F/A-18,1641.4044960550004,0.7
-Tripoli,Emily Davis,F-16,1666.9044960550004,0.7
-Tripoli,Emily Davis,F-35,1916.9044960550004,0.7
-Tripoli,Emily Davis,MiG-29,1541.9044960550004,0.7
-Tripoli,Emily Davis,Su-27,1716.9044960550004,0.7
-Tripoli,Emily Davis,Eurofighter Typhoon,1816.9044960550004,0.7
-Tripoli,Emily Davis,Rafale,1591.9044960550004,0.7
-Tripoli,Emily Davis,F/A-18,1641.9044960550004,0.7
-Tripoli,Robert Brown,F-16,1665.9044960550004,0.7
-Tripoli,Robert Brown,F-35,1915.9044960550004,0.7
-Tripoli,Robert Brown,MiG-29,1540.9044960550004,0.7
-Tripoli,Robert Brown,Su-27,1715.9044960550004,0.7
-Tripoli,Robert Brown,Eurofighter Typhoon,1815.9044960550004,0.7
-Tripoli,Robert Brown,Rafale,1590.9044960550004,0.7
-Tripoli,Robert Brown,F/A-18,1640.9044960550004,0.7
-Tripoli,Sarah Wilson,F-16,1666.6544960550004,0.7
-Tripoli,Sarah Wilson,F-35,1916.6544960550004,0.7
-Tripoli,Sarah Wilson,MiG-29,1541.6544960550004,0.7
-Tripoli,Sarah Wilson,Su-27,1716.6544960550004,0.7
-Tripoli,Sarah Wilson,Eurofighter Typhoon,1816.6544960550004,0.7
-Tripoli,Sarah Wilson,Rafale,1591.6544960550004,0.7
-Tripoli,Sarah Wilson,F/A-18,1641.6544960550004,0.7
-Tripoli,David Lee,F-16,1666.1544960550004,0.7
-Tripoli,David Lee,F-35,1916.1544960550004,0.7
-Tripoli,David Lee,MiG-29,1541.1544960550004,0.7
-Tripoli,David Lee,Su-27,1716.1544960550004,0.7
-Tripoli,David Lee,Eurofighter Typhoon,1816.1544960550004,0.7
-Tripoli,David Lee,Rafale,1591.1544960550004,0.7
-Tripoli,David Lee,F/A-18,1641.1544960550004,0.7
-Tripoli,Chris Walker,F-16,1666.4044960550004,0.7
-Tripoli,Chris Walker,F-35,1916.4044960550004,0.7
-Tripoli,Chris Walker,MiG-29,1541.4044960550004,0.7
-Tripoli,Chris Walker,Su-27,1716.4044960550004,0.7
-Tripoli,Chris Walker,Eurofighter Typhoon,1816.4044960550004,0.7
-Tripoli,Chris Walker,Rafale,1591.4044960550004,0.7
-Tripoli,Chris Walker,F/A-18,1641.4044960550004,0.7
-Tripoli,Jessica Miller,F-16,1667.1544960550004,0.7
-Tripoli,Jessica Miller,F-35,1917.1544960550004,0.7
-Tripoli,Jessica Miller,MiG-29,1542.1544960550004,0.7
-Tripoli,Jessica Miller,Su-27,1717.1544960550004,0.7
-Tripoli,Jessica Miller,Eurofighter Typhoon,1817.1544960550004,0.7
-Tripoli,Jessica Miller,Rafale,1592.1544960550004,0.7
-Tripoli,Jessica Miller,F/A-18,1642.1544960550004,0.7
-Tripoli,Daniel Harris,F-16,1665.6544960550004,0.7
-Tripoli,Daniel Harris,F-35,1915.6544960550004,0.7
-Tripoli,Daniel Harris,MiG-29,1540.6544960550004,0.7
-Tripoli,Daniel Harris,Su-27,1715.6544960550004,0.7
-Tripoli,Daniel Harris,Eurofighter Typhoon,1815.6544960550004,0.7
-Tripoli,Daniel Harris,Rafale,1590.6544960550004,0.7
-Tripoli,Daniel Harris,F/A-18,1640.6544960550004,0.7
-Khartoum,John Doe,F-16,1617.7415097087282,0.7
-Khartoum,John Doe,F-35,1867.7415097087282,0.7
-Khartoum,John Doe,MiG-29,1492.7415097087282,0.7
-Khartoum,John Doe,Su-27,1667.7415097087282,0.7
-Khartoum,John Doe,Eurofighter Typhoon,1767.7415097087282,0.7
-Khartoum,John Doe,Rafale,1542.7415097087282,0.7
-Khartoum,John Doe,F/A-18,1592.7415097087282,0.7
-Khartoum,Jane Smith,F-16,1617.2415097087282,0.7
-Khartoum,Jane Smith,F-35,1867.2415097087282,0.7
-Khartoum,Jane Smith,MiG-29,1492.2415097087282,0.7
-Khartoum,Jane Smith,Su-27,1667.2415097087282,0.7
-Khartoum,Jane Smith,Eurofighter Typhoon,1767.2415097087282,0.7
-Khartoum,Jane Smith,Rafale,1542.2415097087282,0.7
-Khartoum,Jane Smith,F/A-18,1592.2415097087282,0.7
-Khartoum,Michael Johnson,F-16,1617.4915097087282,0.7
-Khartoum,Michael Johnson,F-35,1867.4915097087282,0.7
-Khartoum,Michael Johnson,MiG-29,1492.4915097087282,0.7
-Khartoum,Michael Johnson,Su-27,1667.4915097087282,0.7
-Khartoum,Michael Johnson,Eurofighter Typhoon,1767.4915097087282,0.7
-Khartoum,Michael Johnson,Rafale,1542.4915097087282,0.7
-Khartoum,Michael Johnson,F/A-18,1592.4915097087282,0.7
-Khartoum,Emily Davis,F-16,1617.9915097087282,0.7
-Khartoum,Emily Davis,F-35,1867.9915097087282,0.7
-Khartoum,Emily Davis,MiG-29,1492.9915097087282,0.7
-Khartoum,Emily Davis,Su-27,1667.9915097087282,0.7
-Khartoum,Emily Davis,Eurofighter Typhoon,1767.9915097087282,0.7
-Khartoum,Emily Davis,Rafale,1542.9915097087282,0.7
-Khartoum,Emily Davis,F/A-18,1592.9915097087282,0.7
-Khartoum,Robert Brown,F-16,1616.9915097087282,0.7
-Khartoum,Robert Brown,F-35,1866.9915097087282,0.7
-Khartoum,Robert Brown,MiG-29,1491.9915097087282,0.7
-Khartoum,Robert Brown,Su-27,1666.9915097087282,0.7
-Khartoum,Robert Brown,Eurofighter Typhoon,1766.9915097087282,0.7
-Khartoum,Robert Brown,Rafale,1541.9915097087282,0.7
-Khartoum,Robert Brown,F/A-18,1591.9915097087282,0.7
-Khartoum,Sarah Wilson,F-16,1617.7415097087282,0.7
-Khartoum,Sarah Wilson,F-35,1867.7415097087282,0.7
-Khartoum,Sarah Wilson,MiG-29,1492.7415097087282,0.7
-Khartoum,Sarah Wilson,Su-27,1667.7415097087282,0.7
-Khartoum,Sarah Wilson,Eurofighter Typhoon,1767.7415097087282,0.7
-Khartoum,Sarah Wilson,Rafale,1542.7415097087282,0.7
-Khartoum,Sarah Wilson,F/A-18,1592.7415097087282,0.7
-Khartoum,David Lee,F-16,1617.2415097087282,0.7
-Khartoum,David Lee,F-35,1867.2415097087282,0.7
-Khartoum,David Lee,MiG-29,1492.2415097087282,0.7
-Khartoum,David Lee,Su-27,1667.2415097087282,0.7
-Khartoum,David Lee,Eurofighter Typhoon,1767.2415097087282,0.7
-Khartoum,David Lee,Rafale,1542.2415097087282,0.7
-Khartoum,David Lee,F/A-18,1592.2415097087282,0.7
-Khartoum,Chris Walker,F-16,1617.4915097087282,0.7
-Khartoum,Chris Walker,F-35,1867.4915097087282,0.7
-Khartoum,Chris Walker,MiG-29,1492.4915097087282,0.7
-Khartoum,Chris Walker,Su-27,1667.4915097087282,0.7
-Khartoum,Chris Walker,Eurofighter Typhoon,1767.4915097087282,0.7
-Khartoum,Chris Walker,Rafale,1542.4915097087282,0.7
-Khartoum,Chris Walker,F/A-18,1592.4915097087282,0.7
-Khartoum,Jessica Miller,F-16,1618.2415097087282,0.7
-Khartoum,Jessica Miller,F-35,1868.2415097087282,0.7
-Khartoum,Jessica Miller,MiG-29,1493.2415097087282,0.7
-Khartoum,Jessica Miller,Su-27,1668.2415097087282,0.7
-Khartoum,Jessica Miller,Eurofighter Typhoon,1768.2415097087282,0.7
-Khartoum,Jessica Miller,Rafale,1543.2415097087282,0.7
-Khartoum,Jessica Miller,F/A-18,1593.2415097087282,0.7
-Khartoum,Daniel Harris,F-16,1616.7415097087282,0.7
-Khartoum,Daniel Harris,F-35,1866.7415097087282,0.7
-Khartoum,Daniel Harris,MiG-29,1491.7415097087282,0.7
-Khartoum,Daniel Harris,Su-27,1666.7415097087282,0.7
-Khartoum,Daniel Harris,Eurofighter Typhoon,1766.7415097087282,0.7
-Khartoum,Daniel Harris,Rafale,1541.7415097087282,0.7
-Khartoum,Daniel Harris,F/A-18,1591.7415097087282,0.7
-Mosul,John Doe,F-16,1430.0541060092926,0.7
-Mosul,John Doe,F-35,1680.0541060092926,0.7
-Mosul,John Doe,MiG-29,1305.0541060092926,0.7
-Mosul,John Doe,Su-27,1480.0541060092926,0.7
-Mosul,John Doe,Eurofighter Typhoon,1580.0541060092926,0.7
-Mosul,John Doe,Rafale,1355.0541060092926,0.7
-Mosul,John Doe,F/A-18,1405.0541060092926,0.7
-Mosul,Jane Smith,F-16,1429.5541060092926,0.7
-Mosul,Jane Smith,F-35,1679.5541060092926,0.7
-Mosul,Jane Smith,MiG-29,1304.5541060092926,0.7
-Mosul,Jane Smith,Su-27,1479.5541060092926,0.7
-Mosul,Jane Smith,Eurofighter Typhoon,1579.5541060092926,0.7
-Mosul,Jane Smith,Rafale,1354.5541060092926,0.7
-Mosul,Jane Smith,F/A-18,1404.5541060092926,0.7
-Mosul,Michael Johnson,F-16,1429.8041060092926,0.7
-Mosul,Michael Johnson,F-35,1679.8041060092926,0.7
-Mosul,Michael Johnson,MiG-29,1304.8041060092926,0.7
-Mosul,Michael Johnson,Su-27,1479.8041060092926,0.7
-Mosul,Michael Johnson,Eurofighter Typhoon,1579.8041060092926,0.7
-Mosul,Michael Johnson,Rafale,1354.8041060092926,0.7
-Mosul,Michael Johnson,F/A-18,1404.8041060092926,0.7
-Mosul,Emily Davis,F-16,1430.3041060092926,0.7
-Mosul,Emily Davis,F-35,1680.3041060092926,0.7
-Mosul,Emily Davis,MiG-29,1305.3041060092926,0.7
-Mosul,Emily Davis,Su-27,1480.3041060092926,0.7
-Mosul,Emily Davis,Eurofighter Typhoon,1580.3041060092926,0.7
-Mosul,Emily Davis,Rafale,1355.3041060092926,0.7
-Mosul,Emily Davis,F/A-18,1405.3041060092926,0.7
-Mosul,Robert Brown,F-16,1429.3041060092926,0.7
-Mosul,Robert Brown,F-35,1679.3041060092926,0.7
-Mosul,Robert Brown,MiG-29,1304.3041060092926,0.7
-Mosul,Robert Brown,Su-27,1479.3041060092926,0.7
-Mosul,Robert Brown,Eurofighter Typhoon,1579.3041060092926,0.7
-Mosul,Robert Brown,Rafale,1354.3041060092926,0.7
-Mosul,Robert Brown,F/A-18,1404.3041060092926,0.7
-Mosul,Sarah Wilson,F-16,1430.0541060092926,0.7
-Mosul,Sarah Wilson,F-35,1680.0541060092926,0.7
-Mosul,Sarah Wilson,MiG-29,1305.0541060092926,0.7
-Mosul,Sarah Wilson,Su-27,1480.0541060092926,0.7
-Mosul,Sarah Wilson,Eurofighter Typhoon,1580.0541060092926,0.7
-Mosul,Sarah Wilson,Rafale,1355.0541060092926,0.7
-Mosul,Sarah Wilson,F/A-18,1405.0541060092926,0.7
-Mosul,David Lee,F-16,1429.5541060092926,0.7
-Mosul,David Lee,F-35,1679.5541060092926,0.7
-Mosul,David Lee,MiG-29,1304.5541060092926,0.7
-Mosul,David Lee,Su-27,1479.5541060092926,0.7
-Mosul,David Lee,Eurofighter Typhoon,1579.5541060092926,0.7
-Mosul,David Lee,Rafale,1354.5541060092926,0.7
-Mosul,David Lee,F/A-18,1404.5541060092926,0.7
-Mosul,Chris Walker,F-16,1429.8041060092926,0.7
-Mosul,Chris Walker,F-35,1679.8041060092926,0.7
-Mosul,Chris Walker,MiG-29,1304.8041060092926,0.7
-Mosul,Chris Walker,Su-27,1479.8041060092926,0.7
-Mosul,Chris Walker,Eurofighter Typhoon,1579.8041060092926,0.7
-Mosul,Chris Walker,Rafale,1354.8041060092926,0.7
-Mosul,Chris Walker,F/A-18,1404.8041060092926,0.7
-Mosul,Jessica Miller,F-16,1430.5541060092926,0.7
-Mosul,Jessica Miller,F-35,1680.5541060092926,0.7
-Mosul,Jessica Miller,MiG-29,1305.5541060092926,0.7
-Mosul,Jessica Miller,Su-27,1480.5541060092926,0.7
-Mosul,Jessica Miller,Eurofighter Typhoon,1580.5541060092926,0.7
-Mosul,Jessica Miller,Rafale,1355.5541060092926,0.7
-Mosul,Jessica Miller,F/A-18,1405.5541060092926,0.7
-Mosul,Daniel Harris,F-16,1429.0541060092926,0.7
-Mosul,Daniel Harris,F-35,1679.0541060092926,0.7
-Mosul,Daniel Harris,MiG-29,1304.0541060092926,0.7
-Mosul,Daniel Harris,Su-27,1479.0541060092926,0.7
-Mosul,Daniel Harris,Eurofighter Typhoon,1579.0541060092926,0.7
-Mosul,Daniel Harris,Rafale,1354.0541060092926,0.7
-Mosul,Daniel Harris,F/A-18,1404.0541060092926,0.7
-Fallujah,John Doe,F-16,1417.0475495617143,0.7
-Fallujah,John Doe,F-35,1667.0475495617143,0.7
-Fallujah,John Doe,MiG-29,1292.0475495617143,0.7
-Fallujah,John Doe,Su-27,1467.0475495617143,0.7
-Fallujah,John Doe,Eurofighter Typhoon,1567.0475495617143,0.7
-Fallujah,John Doe,Rafale,1342.0475495617143,0.7
-Fallujah,John Doe,F/A-18,1392.0475495617143,0.7
-Fallujah,Jane Smith,F-16,1416.5475495617143,0.7
-Fallujah,Jane Smith,F-35,1666.5475495617143,0.7
-Fallujah,Jane Smith,MiG-29,1291.5475495617143,0.7
-Fallujah,Jane Smith,Su-27,1466.5475495617143,0.7
-Fallujah,Jane Smith,Eurofighter Typhoon,1566.5475495617143,0.7
-Fallujah,Jane Smith,Rafale,1341.5475495617143,0.7
-Fallujah,Jane Smith,F/A-18,1391.5475495617143,0.7
-Fallujah,Michael Johnson,F-16,1416.7975495617143,0.7
-Fallujah,Michael Johnson,F-35,1666.7975495617143,0.7
-Fallujah,Michael Johnson,MiG-29,1291.7975495617143,0.7
-Fallujah,Michael Johnson,Su-27,1466.7975495617143,0.7
-Fallujah,Michael Johnson,Eurofighter Typhoon,1566.7975495617143,0.7
-Fallujah,Michael Johnson,Rafale,1341.7975495617143,0.7
-Fallujah,Michael Johnson,F/A-18,1391.7975495617143,0.7
-Fallujah,Emily Davis,F-16,1417.2975495617143,0.7
-Fallujah,Emily Davis,F-35,1667.2975495617143,0.7
-Fallujah,Emily Davis,MiG-29,1292.2975495617143,0.7
-Fallujah,Emily Davis,Su-27,1467.2975495617143,0.7
-Fallujah,Emily Davis,Eurofighter Typhoon,1567.2975495617143,0.7
-Fallujah,Emily Davis,Rafale,1342.2975495617143,0.7
-Fallujah,Emily Davis,F/A-18,1392.2975495617143,0.7
-Fallujah,Robert Brown,F-16,1416.2975495617143,0.7
-Fallujah,Robert Brown,F-35,1666.2975495617143,0.7
-Fallujah,Robert Brown,MiG-29,1291.2975495617143,0.7
-Fallujah,Robert Brown,Su-27,1466.2975495617143,0.7
-Fallujah,Robert Brown,Eurofighter Typhoon,1566.2975495617143,0.7
-Fallujah,Robert Brown,Rafale,1341.2975495617143,0.7
-Fallujah,Robert Brown,F/A-18,1391.2975495617143,0.7
-Fallujah,Sarah Wilson,F-16,1417.0475495617143,0.7
-Fallujah,Sarah Wilson,F-35,1667.0475495617143,0.7
-Fallujah,Sarah Wilson,MiG-29,1292.0475495617143,0.7
-Fallujah,Sarah Wilson,Su-27,1467.0475495617143,0.7
-Fallujah,Sarah Wilson,Eurofighter Typhoon,1567.0475495617143,0.7
-Fallujah,Sarah Wilson,Rafale,1342.0475495617143,0.7
-Fallujah,Sarah Wilson,F/A-18,1392.0475495617143,0.7
-Fallujah,David Lee,F-16,1416.5475495617143,0.7
-Fallujah,David Lee,F-35,1666.5475495617143,0.7
-Fallujah,David Lee,MiG-29,1291.5475495617143,0.7
-Fallujah,David Lee,Su-27,1466.5475495617143,0.7
-Fallujah,David Lee,Eurofighter Typhoon,1566.5475495617143,0.7
-Fallujah,David Lee,Rafale,1341.5475495617143,0.7
-Fallujah,David Lee,F/A-18,1391.5475495617143,0.7
-Fallujah,Chris Walker,F-16,1416.7975495617143,0.7
-Fallujah,Chris Walker,F-35,1666.7975495617143,0.7
-Fallujah,Chris Walker,MiG-29,1291.7975495617143,0.7
-Fallujah,Chris Walker,Su-27,1466.7975495617143,0.7
-Fallujah,Chris Walker,Eurofighter Typhoon,1566.7975495617143,0.7
-Fallujah,Chris Walker,Rafale,1341.7975495617143,0.7
-Fallujah,Chris Walker,F/A-18,1391.7975495617143,0.7
-Fallujah,Jessica Miller,F-16,1417.5475495617143,0.7
-Fallujah,Jessica Miller,F-35,1667.5475495617143,0.7
-Fallujah,Jessica Miller,MiG-29,1292.5475495617143,0.7
-Fallujah,Jessica Miller,Su-27,1467.5475495617143,0.7
-Fallujah,Jessica Miller,Eurofighter Typhoon,1567.5475495617143,0.7
-Fallujah,Jessica Miller,Rafale,1342.5475495617143,0.7
-Fallujah,Jessica Miller,F/A-18,1392.5475495617143,0.7
-Fallujah,Daniel Harris,F-16,1416.0475495617143,0.7
-Fallujah,Daniel Harris,F-35,1666.0475495617143,0.7
-Fallujah,Daniel Harris,MiG-29,1291.0475495617143,0.7
-Fallujah,Daniel Harris,Su-27,1466.0475495617143,0.7
-Fallujah,Daniel Harris,Eurofighter Typhoon,1566.0475495617143,0.7
-Fallujah,Daniel Harris,Rafale,1341.0475495617143,0.7
-Fallujah,Daniel Harris,F/A-18,1391.0475495617143,0.7
-Kandahar,John Doe,F-16,1827.9084827313925,0.7
-Kandahar,John Doe,F-35,2077.9084827313923,0.7
-Kandahar,John Doe,MiG-29,1702.9084827313925,0.7
-Kandahar,John Doe,Su-27,1877.9084827313925,0.7
-Kandahar,John Doe,Eurofighter Typhoon,1977.9084827313925,0.7
-Kandahar,John Doe,Rafale,1752.9084827313925,0.7
-Kandahar,John Doe,F/A-18,1802.9084827313925,0.7
-Kandahar,Jane Smith,F-16,1827.4084827313925,0.7
-Kandahar,Jane Smith,F-35,2077.4084827313923,0.7
-Kandahar,Jane Smith,MiG-29,1702.4084827313925,0.7
-Kandahar,Jane Smith,Su-27,1877.4084827313925,0.7
-Kandahar,Jane Smith,Eurofighter Typhoon,1977.4084827313925,0.7
-Kandahar,Jane Smith,Rafale,1752.4084827313925,0.7
-Kandahar,Jane Smith,F/A-18,1802.4084827313925,0.7
-Kandahar,Michael Johnson,F-16,1827.6584827313925,0.7
-Kandahar,Michael Johnson,F-35,2077.6584827313923,0.7
-Kandahar,Michael Johnson,MiG-29,1702.6584827313925,0.7
-Kandahar,Michael Johnson,Su-27,1877.6584827313925,0.7
-Kandahar,Michael Johnson,Eurofighter Typhoon,1977.6584827313925,0.7
-Kandahar,Michael Johnson,Rafale,1752.6584827313925,0.7
-Kandahar,Michael Johnson,F/A-18,1802.6584827313925,0.7
-Kandahar,Emily Davis,F-16,1828.1584827313925,0.7
-Kandahar,Emily Davis,F-35,2078.1584827313923,0.7
-Kandahar,Emily Davis,MiG-29,1703.1584827313925,0.7
-Kandahar,Emily Davis,Su-27,1878.1584827313925,0.7
-Kandahar,Emily Davis,Eurofighter Typhoon,1978.1584827313925,0.7
-Kandahar,Emily Davis,Rafale,1753.1584827313925,0.7
-Kandahar,Emily Davis,F/A-18,1803.1584827313925,0.7
-Kandahar,Robert Brown,F-16,1827.1584827313925,0.7
-Kandahar,Robert Brown,F-35,2077.1584827313923,0.7
-Kandahar,Robert Brown,MiG-29,1702.1584827313925,0.7
-Kandahar,Robert Brown,Su-27,1877.1584827313925,0.7
-Kandahar,Robert Brown,Eurofighter Typhoon,1977.1584827313925,0.7
-Kandahar,Robert Brown,Rafale,1752.1584827313925,0.7
-Kandahar,Robert Brown,F/A-18,1802.1584827313925,0.7
-Kandahar,Sarah Wilson,F-16,1827.9084827313925,0.7
-Kandahar,Sarah Wilson,F-35,2077.9084827313923,0.7
-Kandahar,Sarah Wilson,MiG-29,1702.9084827313925,0.7
-Kandahar,Sarah Wilson,Su-27,1877.9084827313925,0.7
-Kandahar,Sarah Wilson,Eurofighter Typhoon,1977.9084827313925,0.7
-Kandahar,Sarah Wilson,Rafale,1752.9084827313925,0.7
-Kandahar,Sarah Wilson,F/A-18,1802.9084827313925,0.7
-Kandahar,David Lee,F-16,1827.4084827313925,0.7
-Kandahar,David Lee,F-35,2077.4084827313923,0.7
-Kandahar,David Lee,MiG-29,1702.4084827313925,0.7
-Kandahar,David Lee,Su-27,1877.4084827313925,0.7
-Kandahar,David Lee,Eurofighter Typhoon,1977.4084827313925,0.7
-Kandahar,David Lee,Rafale,1752.4084827313925,0.7
-Kandahar,David Lee,F/A-18,1802.4084827313925,0.7
-Kandahar,Chris Walker,F-16,1827.6584827313925,0.7
-Kandahar,Chris Walker,F-35,2077.6584827313923,0.7
-Kandahar,Chris Walker,MiG-29,1702.6584827313925,0.7
-Kandahar,Chris Walker,Su-27,1877.6584827313925,0.7
-Kandahar,Chris Walker,Eurofighter Typhoon,1977.6584827313925,0.7
-Kandahar,Chris Walker,Rafale,1752.6584827313925,0.7
-Kandahar,Chris Walker,F/A-18,1802.6584827313925,0.7
-Kandahar,Jessica Miller,F-16,1828.4084827313925,0.7
-Kandahar,Jessica Miller,F-35,2078.4084827313923,0.7
-Kandahar,Jessica Miller,MiG-29,1703.4084827313925,0.7
-Kandahar,Jessica Miller,Su-27,1878.4084827313925,0.7
-Kandahar,Jessica Miller,Eurofighter Typhoon,1978.4084827313925,0.7
-Kandahar,Jessica Miller,Rafale,1753.4084827313925,0.7
-Kandahar,Jessica Miller,F/A-18,1803.4084827313925,0.7
-Kandahar,Daniel Harris,F-16,1826.9084827313925,0.7
-Kandahar,Daniel Harris,F-35,2076.9084827313923,0.7
-Kandahar,Daniel Harris,MiG-29,1701.9084827313925,0.7
-Kandahar,Daniel Harris,Su-27,1876.9084827313925,0.7
-Kandahar,Daniel Harris,Eurofighter Typhoon,1976.9084827313925,0.7
-Kandahar,Daniel Harris,Rafale,1751.9084827313925,0.7
-Kandahar,Daniel Harris,F/A-18,1801.9084827313925,0.7
-Marrakesh,John Doe,F-16,2064.462818514626,0.7
-Marrakesh,John Doe,F-35,2314.462818514626,0.7
-Marrakesh,John Doe,MiG-29,1939.4628185146264,0.7
-Marrakesh,John Doe,Su-27,2114.462818514626,0.7
-Marrakesh,John Doe,Eurofighter Typhoon,2214.462818514626,0.7
-Marrakesh,John Doe,Rafale,1989.4628185146264,0.7
-Marrakesh,John Doe,F/A-18,2039.4628185146264,0.7
-Marrakesh,Jane Smith,F-16,2063.962818514626,0.7
-Marrakesh,Jane Smith,F-35,2313.962818514626,0.7
-Marrakesh,Jane Smith,MiG-29,1938.9628185146264,0.7
-Marrakesh,Jane Smith,Su-27,2113.962818514626,0.7
-Marrakesh,Jane Smith,Eurofighter Typhoon,2213.962818514626,0.7
-Marrakesh,Jane Smith,Rafale,1988.9628185146264,0.7
-Marrakesh,Jane Smith,F/A-18,2038.9628185146264,0.7
-Marrakesh,Michael Johnson,F-16,2064.212818514626,0.7
-Marrakesh,Michael Johnson,F-35,2314.212818514626,0.7
-Marrakesh,Michael Johnson,MiG-29,1939.2128185146264,0.7
-Marrakesh,Michael Johnson,Su-27,2114.212818514626,0.7
-Marrakesh,Michael Johnson,Eurofighter Typhoon,2214.212818514626,0.7
-Marrakesh,Michael Johnson,Rafale,1989.2128185146264,0.7
-Marrakesh,Michael Johnson,F/A-18,2039.2128185146264,0.7
-Marrakesh,Emily Davis,F-16,2064.712818514626,0.7
-Marrakesh,Emily Davis,F-35,2314.712818514626,0.7
-Marrakesh,Emily Davis,MiG-29,1939.7128185146264,0.7
-Marrakesh,Emily Davis,Su-27,2114.712818514626,0.7
-Marrakesh,Emily Davis,Eurofighter Typhoon,2214.712818514626,0.7
-Marrakesh,Emily Davis,Rafale,1989.7128185146264,0.7
-Marrakesh,Emily Davis,F/A-18,2039.7128185146264,0.7
-Marrakesh,Robert Brown,F-16,2063.712818514626,0.7
-Marrakesh,Robert Brown,F-35,2313.712818514626,0.7
-Marrakesh,Robert Brown,MiG-29,1938.7128185146264,0.7
-Marrakesh,Robert Brown,Su-27,2113.712818514626,0.7
-Marrakesh,Robert Brown,Eurofighter Typhoon,2213.712818514626,0.7
-Marrakesh,Robert Brown,Rafale,1988.7128185146264,0.7
-Marrakesh,Robert Brown,F/A-18,2038.7128185146264,0.7
-Marrakesh,Sarah Wilson,F-16,2064.462818514626,0.7
-Marrakesh,Sarah Wilson,F-35,2314.462818514626,0.7
-Marrakesh,Sarah Wilson,MiG-29,1939.4628185146264,0.7
-Marrakesh,Sarah Wilson,Su-27,2114.462818514626,0.7
-Marrakesh,Sarah Wilson,Eurofighter Typhoon,2214.462818514626,0.7
-Marrakesh,Sarah Wilson,Rafale,1989.4628185146264,0.7
-Marrakesh,Sarah Wilson,F/A-18,2039.4628185146264,0.7
-Marrakesh,David Lee,F-16,2063.962818514626,0.7
-Marrakesh,David Lee,F-35,2313.962818514626,0.7
-Marrakesh,David Lee,MiG-29,1938.9628185146264,0.7
-Marrakesh,David Lee,Su-27,2113.962818514626,0.7
-Marrakesh,David Lee,Eurofighter Typhoon,2213.962818514626,0.7
-Marrakesh,David Lee,Rafale,1988.9628185146264,0.7
-Marrakesh,David Lee,F/A-18,2038.9628185146264,0.7
-Marrakesh,Chris Walker,F-16,2064.212818514626,0.7
-Marrakesh,Chris Walker,F-35,2314.212818514626,0.7
-Marrakesh,Chris Walker,MiG-29,1939.2128185146264,0.7
-Marrakesh,Chris Walker,Su-27,2114.212818514626,0.7
-Marrakesh,Chris Walker,Eurofighter Typhoon,2214.212818514626,0.7
-Marrakesh,Chris Walker,Rafale,1989.2128185146264,0.7
-Marrakesh,Chris Walker,F/A-18,2039.2128185146264,0.7
-Marrakesh,Jessica Miller,F-16,2064.962818514626,0.7
-Marrakesh,Jessica Miller,F-35,2314.962818514626,0.7
-Marrakesh,Jessica Miller,MiG-29,1939.9628185146264,0.7
-Marrakesh,Jessica Miller,Su-27,2114.962818514626,0.7
-Marrakesh,Jessica Miller,Eurofighter Typhoon,2214.962818514626,0.7
-Marrakesh,Jessica Miller,Rafale,1989.9628185146264,0.7
-Marrakesh,Jessica Miller,F/A-18,2039.9628185146264,0.7
-Marrakesh,Daniel Harris,F-16,2063.462818514626,0.7
-Marrakesh,Daniel Harris,F-35,2313.462818514626,0.7
-Marrakesh,Daniel Harris,MiG-29,1938.4628185146264,0.7
-Marrakesh,Daniel Harris,Su-27,2113.462818514626,0.7
-Marrakesh,Daniel Harris,Eurofighter Typhoon,2213.462818514626,0.7
-Marrakesh,Daniel Harris,Rafale,1988.4628185146264,0.7
-Marrakesh,Daniel Harris,F/A-18,2038.4628185146264,0.7
+Target City,Pilot Name,Pilot Skill,Aircraft Type,Aircraft Speed(km/h),Fuel Capacity (km),Mission Score,Mission Fit Score,Weather Condition
+Tehran,John Doe,8,F-16,2400,5000,1563.7186320109568,1563.7186320109568,Clouds
+Tehran,John Doe,8,F-35,3000,6000,1813.7186320109568,1813.7186320109568,Clouds
+Tehran,John Doe,8,MiG-29,2450,4500,1438.7186320109568,1438.7186320109568,Clouds
+Tehran,John Doe,8,Su-27,2500,5200,1613.7186320109568,1613.7186320109568,Clouds
+Tehran,John Doe,8,Eurofighter Typhoon,2495,5600,1713.7186320109568,1713.7186320109568,Clouds
+Tehran,John Doe,8,Rafale,2130,4700,1488.7186320109568,1488.7186320109568,Clouds
+Tehran,John Doe,8,F/A-18,1915,4900,1538.7186320109568,1538.7186320109568,Clouds
+Tehran,Jane Smith,6,F-16,2400,5000,1563.2186320109568,1563.2186320109568,Clouds
+Tehran,Jane Smith,6,F-35,3000,6000,1813.2186320109568,1813.2186320109568,Clouds
+Tehran,Jane Smith,6,MiG-29,2450,4500,1438.2186320109568,1438.2186320109568,Clouds
+Tehran,Jane Smith,6,Su-27,2500,5200,1613.2186320109568,1613.2186320109568,Clouds
+Tehran,Jane Smith,6,Eurofighter Typhoon,2495,5600,1713.2186320109568,1713.2186320109568,Clouds
+Tehran,Jane Smith,6,Rafale,2130,4700,1488.2186320109568,1488.2186320109568,Clouds
+Tehran,Jane Smith,6,F/A-18,1915,4900,1538.2186320109568,1538.2186320109568,Clouds
+Tehran,Michael Johnson,7,F-16,2400,5000,1563.4686320109568,1563.4686320109568,Clouds
+Tehran,Michael Johnson,7,F-35,3000,6000,1813.4686320109568,1813.4686320109568,Clouds
+Tehran,Michael Johnson,7,MiG-29,2450,4500,1438.4686320109568,1438.4686320109568,Clouds
+Tehran,Michael Johnson,7,Su-27,2500,5200,1613.4686320109568,1613.4686320109568,Clouds
+Tehran,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1713.4686320109568,1713.4686320109568,Clouds
+Tehran,Michael Johnson,7,Rafale,2130,4700,1488.4686320109568,1488.4686320109568,Clouds
+Tehran,Michael Johnson,7,F/A-18,1915,4900,1538.4686320109568,1538.4686320109568,Clouds
+Tehran,Emily Davis,9,F-16,2400,5000,1563.9686320109568,1563.9686320109568,Clouds
+Tehran,Emily Davis,9,F-35,3000,6000,1813.9686320109568,1813.9686320109568,Clouds
+Tehran,Emily Davis,9,MiG-29,2450,4500,1438.9686320109568,1438.9686320109568,Clouds
+Tehran,Emily Davis,9,Su-27,2500,5200,1613.9686320109568,1613.9686320109568,Clouds
+Tehran,Emily Davis,9,Eurofighter Typhoon,2495,5600,1713.9686320109568,1713.9686320109568,Clouds
+Tehran,Emily Davis,9,Rafale,2130,4700,1488.9686320109568,1488.9686320109568,Clouds
+Tehran,Emily Davis,9,F/A-18,1915,4900,1538.9686320109568,1538.9686320109568,Clouds
+Tehran,Robert Brown,5,F-16,2400,5000,1562.9686320109568,1562.9686320109568,Clouds
+Tehran,Robert Brown,5,F-35,3000,6000,1812.9686320109568,1812.9686320109568,Clouds
+Tehran,Robert Brown,5,MiG-29,2450,4500,1437.9686320109568,1437.9686320109568,Clouds
+Tehran,Robert Brown,5,Su-27,2500,5200,1612.9686320109568,1612.9686320109568,Clouds
+Tehran,Robert Brown,5,Eurofighter Typhoon,2495,5600,1712.9686320109568,1712.9686320109568,Clouds
+Tehran,Robert Brown,5,Rafale,2130,4700,1487.9686320109568,1487.9686320109568,Clouds
+Tehran,Robert Brown,5,F/A-18,1915,4900,1537.9686320109568,1537.9686320109568,Clouds
+Tehran,Sarah Wilson,8,F-16,2400,5000,1563.7186320109568,1563.7186320109568,Clouds
+Tehran,Sarah Wilson,8,F-35,3000,6000,1813.7186320109568,1813.7186320109568,Clouds
+Tehran,Sarah Wilson,8,MiG-29,2450,4500,1438.7186320109568,1438.7186320109568,Clouds
+Tehran,Sarah Wilson,8,Su-27,2500,5200,1613.7186320109568,1613.7186320109568,Clouds
+Tehran,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1713.7186320109568,1713.7186320109568,Clouds
+Tehran,Sarah Wilson,8,Rafale,2130,4700,1488.7186320109568,1488.7186320109568,Clouds
+Tehran,Sarah Wilson,8,F/A-18,1915,4900,1538.7186320109568,1538.7186320109568,Clouds
+Tehran,David Lee,6,F-16,2400,5000,1563.2186320109568,1563.2186320109568,Clouds
+Tehran,David Lee,6,F-35,3000,6000,1813.2186320109568,1813.2186320109568,Clouds
+Tehran,David Lee,6,MiG-29,2450,4500,1438.2186320109568,1438.2186320109568,Clouds
+Tehran,David Lee,6,Su-27,2500,5200,1613.2186320109568,1613.2186320109568,Clouds
+Tehran,David Lee,6,Eurofighter Typhoon,2495,5600,1713.2186320109568,1713.2186320109568,Clouds
+Tehran,David Lee,6,Rafale,2130,4700,1488.2186320109568,1488.2186320109568,Clouds
+Tehran,David Lee,6,F/A-18,1915,4900,1538.2186320109568,1538.2186320109568,Clouds
+Tehran,Chris Walker,7,F-16,2400,5000,1563.4686320109568,1563.4686320109568,Clouds
+Tehran,Chris Walker,7,F-35,3000,6000,1813.4686320109568,1813.4686320109568,Clouds
+Tehran,Chris Walker,7,MiG-29,2450,4500,1438.4686320109568,1438.4686320109568,Clouds
+Tehran,Chris Walker,7,Su-27,2500,5200,1613.4686320109568,1613.4686320109568,Clouds
+Tehran,Chris Walker,7,Eurofighter Typhoon,2495,5600,1713.4686320109568,1713.4686320109568,Clouds
+Tehran,Chris Walker,7,Rafale,2130,4700,1488.4686320109568,1488.4686320109568,Clouds
+Tehran,Chris Walker,7,F/A-18,1915,4900,1538.4686320109568,1538.4686320109568,Clouds
+Tehran,Jessica Miller,10,F-16,2400,5000,1564.2186320109568,1564.2186320109568,Clouds
+Tehran,Jessica Miller,10,F-35,3000,6000,1814.2186320109568,1814.2186320109568,Clouds
+Tehran,Jessica Miller,10,MiG-29,2450,4500,1439.2186320109568,1439.2186320109568,Clouds
+Tehran,Jessica Miller,10,Su-27,2500,5200,1614.2186320109568,1614.2186320109568,Clouds
+Tehran,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1714.2186320109568,1714.2186320109568,Clouds
+Tehran,Jessica Miller,10,Rafale,2130,4700,1489.2186320109568,1489.2186320109568,Clouds
+Tehran,Jessica Miller,10,F/A-18,1915,4900,1539.2186320109568,1539.2186320109568,Clouds
+Tehran,Daniel Harris,4,F-16,2400,5000,1562.7186320109568,1562.7186320109568,Clouds
+Tehran,Daniel Harris,4,F-35,3000,6000,1812.7186320109568,1812.7186320109568,Clouds
+Tehran,Daniel Harris,4,MiG-29,2450,4500,1437.7186320109568,1437.7186320109568,Clouds
+Tehran,Daniel Harris,4,Su-27,2500,5200,1612.7186320109568,1612.7186320109568,Clouds
+Tehran,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1712.7186320109568,1712.7186320109568,Clouds
+Tehran,Daniel Harris,4,Rafale,2130,4700,1487.7186320109568,1487.7186320109568,Clouds
+Tehran,Daniel Harris,4,F/A-18,1915,4900,1537.7186320109568,1537.7186320109568,Clouds
+Baghdad,John Doe,8,F-16,2400,5000,1428.180063609008,1428.180063609008,Clear
+Baghdad,John Doe,8,F-35,3000,6000,1678.180063609008,1678.180063609008,Clear
+Baghdad,John Doe,8,MiG-29,2450,4500,1303.180063609008,1303.180063609008,Clear
+Baghdad,John Doe,8,Su-27,2500,5200,1478.180063609008,1478.180063609008,Clear
+Baghdad,John Doe,8,Eurofighter Typhoon,2495,5600,1578.180063609008,1578.180063609008,Clear
+Baghdad,John Doe,8,Rafale,2130,4700,1353.180063609008,1353.180063609008,Clear
+Baghdad,John Doe,8,F/A-18,1915,4900,1403.180063609008,1403.180063609008,Clear
+Baghdad,Jane Smith,6,F-16,2400,5000,1427.680063609008,1427.680063609008,Clear
+Baghdad,Jane Smith,6,F-35,3000,6000,1677.680063609008,1677.680063609008,Clear
+Baghdad,Jane Smith,6,MiG-29,2450,4500,1302.680063609008,1302.680063609008,Clear
+Baghdad,Jane Smith,6,Su-27,2500,5200,1477.680063609008,1477.680063609008,Clear
+Baghdad,Jane Smith,6,Eurofighter Typhoon,2495,5600,1577.680063609008,1577.680063609008,Clear
+Baghdad,Jane Smith,6,Rafale,2130,4700,1352.680063609008,1352.680063609008,Clear
+Baghdad,Jane Smith,6,F/A-18,1915,4900,1402.680063609008,1402.680063609008,Clear
+Baghdad,Michael Johnson,7,F-16,2400,5000,1427.930063609008,1427.930063609008,Clear
+Baghdad,Michael Johnson,7,F-35,3000,6000,1677.930063609008,1677.930063609008,Clear
+Baghdad,Michael Johnson,7,MiG-29,2450,4500,1302.930063609008,1302.930063609008,Clear
+Baghdad,Michael Johnson,7,Su-27,2500,5200,1477.930063609008,1477.930063609008,Clear
+Baghdad,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1577.930063609008,1577.930063609008,Clear
+Baghdad,Michael Johnson,7,Rafale,2130,4700,1352.930063609008,1352.930063609008,Clear
+Baghdad,Michael Johnson,7,F/A-18,1915,4900,1402.930063609008,1402.930063609008,Clear
+Baghdad,Emily Davis,9,F-16,2400,5000,1428.430063609008,1428.430063609008,Clear
+Baghdad,Emily Davis,9,F-35,3000,6000,1678.430063609008,1678.430063609008,Clear
+Baghdad,Emily Davis,9,MiG-29,2450,4500,1303.430063609008,1303.430063609008,Clear
+Baghdad,Emily Davis,9,Su-27,2500,5200,1478.430063609008,1478.430063609008,Clear
+Baghdad,Emily Davis,9,Eurofighter Typhoon,2495,5600,1578.430063609008,1578.430063609008,Clear
+Baghdad,Emily Davis,9,Rafale,2130,4700,1353.430063609008,1353.430063609008,Clear
+Baghdad,Emily Davis,9,F/A-18,1915,4900,1403.430063609008,1403.430063609008,Clear
+Baghdad,Robert Brown,5,F-16,2400,5000,1427.430063609008,1427.430063609008,Clear
+Baghdad,Robert Brown,5,F-35,3000,6000,1677.430063609008,1677.430063609008,Clear
+Baghdad,Robert Brown,5,MiG-29,2450,4500,1302.430063609008,1302.430063609008,Clear
+Baghdad,Robert Brown,5,Su-27,2500,5200,1477.430063609008,1477.430063609008,Clear
+Baghdad,Robert Brown,5,Eurofighter Typhoon,2495,5600,1577.430063609008,1577.430063609008,Clear
+Baghdad,Robert Brown,5,Rafale,2130,4700,1352.430063609008,1352.430063609008,Clear
+Baghdad,Robert Brown,5,F/A-18,1915,4900,1402.430063609008,1402.430063609008,Clear
+Baghdad,Sarah Wilson,8,F-16,2400,5000,1428.180063609008,1428.180063609008,Clear
+Baghdad,Sarah Wilson,8,F-35,3000,6000,1678.180063609008,1678.180063609008,Clear
+Baghdad,Sarah Wilson,8,MiG-29,2450,4500,1303.180063609008,1303.180063609008,Clear
+Baghdad,Sarah Wilson,8,Su-27,2500,5200,1478.180063609008,1478.180063609008,Clear
+Baghdad,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1578.180063609008,1578.180063609008,Clear
+Baghdad,Sarah Wilson,8,Rafale,2130,4700,1353.180063609008,1353.180063609008,Clear
+Baghdad,Sarah Wilson,8,F/A-18,1915,4900,1403.180063609008,1403.180063609008,Clear
+Baghdad,David Lee,6,F-16,2400,5000,1427.680063609008,1427.680063609008,Clear
+Baghdad,David Lee,6,F-35,3000,6000,1677.680063609008,1677.680063609008,Clear
+Baghdad,David Lee,6,MiG-29,2450,4500,1302.680063609008,1302.680063609008,Clear
+Baghdad,David Lee,6,Su-27,2500,5200,1477.680063609008,1477.680063609008,Clear
+Baghdad,David Lee,6,Eurofighter Typhoon,2495,5600,1577.680063609008,1577.680063609008,Clear
+Baghdad,David Lee,6,Rafale,2130,4700,1352.680063609008,1352.680063609008,Clear
+Baghdad,David Lee,6,F/A-18,1915,4900,1402.680063609008,1402.680063609008,Clear
+Baghdad,Chris Walker,7,F-16,2400,5000,1427.930063609008,1427.930063609008,Clear
+Baghdad,Chris Walker,7,F-35,3000,6000,1677.930063609008,1677.930063609008,Clear
+Baghdad,Chris Walker,7,MiG-29,2450,4500,1302.930063609008,1302.930063609008,Clear
+Baghdad,Chris Walker,7,Su-27,2500,5200,1477.930063609008,1477.930063609008,Clear
+Baghdad,Chris Walker,7,Eurofighter Typhoon,2495,5600,1577.930063609008,1577.930063609008,Clear
+Baghdad,Chris Walker,7,Rafale,2130,4700,1352.930063609008,1352.930063609008,Clear
+Baghdad,Chris Walker,7,F/A-18,1915,4900,1402.930063609008,1402.930063609008,Clear
+Baghdad,Jessica Miller,10,F-16,2400,5000,1428.680063609008,1428.680063609008,Clear
+Baghdad,Jessica Miller,10,F-35,3000,6000,1678.680063609008,1678.680063609008,Clear
+Baghdad,Jessica Miller,10,MiG-29,2450,4500,1303.680063609008,1303.680063609008,Clear
+Baghdad,Jessica Miller,10,Su-27,2500,5200,1478.680063609008,1478.680063609008,Clear
+Baghdad,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1578.680063609008,1578.680063609008,Clear
+Baghdad,Jessica Miller,10,Rafale,2130,4700,1353.680063609008,1353.680063609008,Clear
+Baghdad,Jessica Miller,10,F/A-18,1915,4900,1403.680063609008,1403.680063609008,Clear
+Baghdad,Daniel Harris,4,F-16,2400,5000,1427.180063609008,1427.180063609008,Clear
+Baghdad,Daniel Harris,4,F-35,3000,6000,1677.180063609008,1677.180063609008,Clear
+Baghdad,Daniel Harris,4,MiG-29,2450,4500,1302.180063609008,1302.180063609008,Clear
+Baghdad,Daniel Harris,4,Su-27,2500,5200,1477.180063609008,1477.180063609008,Clear
+Baghdad,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1577.180063609008,1577.180063609008,Clear
+Baghdad,Daniel Harris,4,Rafale,2130,4700,1352.180063609008,1352.180063609008,Clear
+Baghdad,Daniel Harris,4,F/A-18,1915,4900,1402.180063609008,1402.180063609008,Clear
+Damascus,John Doe,8,F-16,2400,5000,1296.3655829097888,1296.3655829097888,Clear
+Damascus,John Doe,8,F-35,3000,6000,1546.3655829097888,1546.3655829097888,Clear
+Damascus,John Doe,8,MiG-29,2450,4500,1171.3655829097888,1171.3655829097888,Clear
+Damascus,John Doe,8,Su-27,2500,5200,1346.3655829097888,1346.3655829097888,Clear
+Damascus,John Doe,8,Eurofighter Typhoon,2495,5600,1446.3655829097888,1446.3655829097888,Clear
+Damascus,John Doe,8,Rafale,2130,4700,1221.3655829097888,1221.3655829097888,Clear
+Damascus,John Doe,8,F/A-18,1915,4900,1271.3655829097888,1271.3655829097888,Clear
+Damascus,Jane Smith,6,F-16,2400,5000,1295.8655829097888,1295.8655829097888,Clear
+Damascus,Jane Smith,6,F-35,3000,6000,1545.8655829097888,1545.8655829097888,Clear
+Damascus,Jane Smith,6,MiG-29,2450,4500,1170.8655829097888,1170.8655829097888,Clear
+Damascus,Jane Smith,6,Su-27,2500,5200,1345.8655829097888,1345.8655829097888,Clear
+Damascus,Jane Smith,6,Eurofighter Typhoon,2495,5600,1445.8655829097888,1445.8655829097888,Clear
+Damascus,Jane Smith,6,Rafale,2130,4700,1220.8655829097888,1220.8655829097888,Clear
+Damascus,Jane Smith,6,F/A-18,1915,4900,1270.8655829097888,1270.8655829097888,Clear
+Damascus,Michael Johnson,7,F-16,2400,5000,1296.1155829097888,1296.1155829097888,Clear
+Damascus,Michael Johnson,7,F-35,3000,6000,1546.1155829097888,1546.1155829097888,Clear
+Damascus,Michael Johnson,7,MiG-29,2450,4500,1171.1155829097888,1171.1155829097888,Clear
+Damascus,Michael Johnson,7,Su-27,2500,5200,1346.1155829097888,1346.1155829097888,Clear
+Damascus,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1446.1155829097888,1446.1155829097888,Clear
+Damascus,Michael Johnson,7,Rafale,2130,4700,1221.1155829097888,1221.1155829097888,Clear
+Damascus,Michael Johnson,7,F/A-18,1915,4900,1271.1155829097888,1271.1155829097888,Clear
+Damascus,Emily Davis,9,F-16,2400,5000,1296.6155829097888,1296.6155829097888,Clear
+Damascus,Emily Davis,9,F-35,3000,6000,1546.6155829097888,1546.6155829097888,Clear
+Damascus,Emily Davis,9,MiG-29,2450,4500,1171.6155829097888,1171.6155829097888,Clear
+Damascus,Emily Davis,9,Su-27,2500,5200,1346.6155829097888,1346.6155829097888,Clear
+Damascus,Emily Davis,9,Eurofighter Typhoon,2495,5600,1446.6155829097888,1446.6155829097888,Clear
+Damascus,Emily Davis,9,Rafale,2130,4700,1221.6155829097888,1221.6155829097888,Clear
+Damascus,Emily Davis,9,F/A-18,1915,4900,1271.6155829097888,1271.6155829097888,Clear
+Damascus,Robert Brown,5,F-16,2400,5000,1295.6155829097888,1295.6155829097888,Clear
+Damascus,Robert Brown,5,F-35,3000,6000,1545.6155829097888,1545.6155829097888,Clear
+Damascus,Robert Brown,5,MiG-29,2450,4500,1170.6155829097888,1170.6155829097888,Clear
+Damascus,Robert Brown,5,Su-27,2500,5200,1345.6155829097888,1345.6155829097888,Clear
+Damascus,Robert Brown,5,Eurofighter Typhoon,2495,5600,1445.6155829097888,1445.6155829097888,Clear
+Damascus,Robert Brown,5,Rafale,2130,4700,1220.6155829097888,1220.6155829097888,Clear
+Damascus,Robert Brown,5,F/A-18,1915,4900,1270.6155829097888,1270.6155829097888,Clear
+Damascus,Sarah Wilson,8,F-16,2400,5000,1296.3655829097888,1296.3655829097888,Clear
+Damascus,Sarah Wilson,8,F-35,3000,6000,1546.3655829097888,1546.3655829097888,Clear
+Damascus,Sarah Wilson,8,MiG-29,2450,4500,1171.3655829097888,1171.3655829097888,Clear
+Damascus,Sarah Wilson,8,Su-27,2500,5200,1346.3655829097888,1346.3655829097888,Clear
+Damascus,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1446.3655829097888,1446.3655829097888,Clear
+Damascus,Sarah Wilson,8,Rafale,2130,4700,1221.3655829097888,1221.3655829097888,Clear
+Damascus,Sarah Wilson,8,F/A-18,1915,4900,1271.3655829097888,1271.3655829097888,Clear
+Damascus,David Lee,6,F-16,2400,5000,1295.8655829097888,1295.8655829097888,Clear
+Damascus,David Lee,6,F-35,3000,6000,1545.8655829097888,1545.8655829097888,Clear
+Damascus,David Lee,6,MiG-29,2450,4500,1170.8655829097888,1170.8655829097888,Clear
+Damascus,David Lee,6,Su-27,2500,5200,1345.8655829097888,1345.8655829097888,Clear
+Damascus,David Lee,6,Eurofighter Typhoon,2495,5600,1445.8655829097888,1445.8655829097888,Clear
+Damascus,David Lee,6,Rafale,2130,4700,1220.8655829097888,1220.8655829097888,Clear
+Damascus,David Lee,6,F/A-18,1915,4900,1270.8655829097888,1270.8655829097888,Clear
+Damascus,Chris Walker,7,F-16,2400,5000,1296.1155829097888,1296.1155829097888,Clear
+Damascus,Chris Walker,7,F-35,3000,6000,1546.1155829097888,1546.1155829097888,Clear
+Damascus,Chris Walker,7,MiG-29,2450,4500,1171.1155829097888,1171.1155829097888,Clear
+Damascus,Chris Walker,7,Su-27,2500,5200,1346.1155829097888,1346.1155829097888,Clear
+Damascus,Chris Walker,7,Eurofighter Typhoon,2495,5600,1446.1155829097888,1446.1155829097888,Clear
+Damascus,Chris Walker,7,Rafale,2130,4700,1221.1155829097888,1221.1155829097888,Clear
+Damascus,Chris Walker,7,F/A-18,1915,4900,1271.1155829097888,1271.1155829097888,Clear
+Damascus,Jessica Miller,10,F-16,2400,5000,1296.8655829097888,1296.8655829097888,Clear
+Damascus,Jessica Miller,10,F-35,3000,6000,1546.8655829097888,1546.8655829097888,Clear
+Damascus,Jessica Miller,10,MiG-29,2450,4500,1171.8655829097888,1171.8655829097888,Clear
+Damascus,Jessica Miller,10,Su-27,2500,5200,1346.8655829097888,1346.8655829097888,Clear
+Damascus,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1446.8655829097888,1446.8655829097888,Clear
+Damascus,Jessica Miller,10,Rafale,2130,4700,1221.8655829097888,1221.8655829097888,Clear
+Damascus,Jessica Miller,10,F/A-18,1915,4900,1271.8655829097888,1271.8655829097888,Clear
+Damascus,Daniel Harris,4,F-16,2400,5000,1295.3655829097888,1295.3655829097888,Clear
+Damascus,Daniel Harris,4,F-35,3000,6000,1545.3655829097888,1545.3655829097888,Clear
+Damascus,Daniel Harris,4,MiG-29,2450,4500,1170.3655829097888,1170.3655829097888,Clear
+Damascus,Daniel Harris,4,Su-27,2500,5200,1345.3655829097888,1345.3655829097888,Clear
+Damascus,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1445.3655829097888,1445.3655829097888,Clear
+Damascus,Daniel Harris,4,Rafale,2130,4700,1220.3655829097888,1220.3655829097888,Clear
+Damascus,Daniel Harris,4,F/A-18,1915,4900,1270.3655829097888,1270.3655829097888,Clear
+Kabul,John Doe,8,F-16,2400,5000,1885.2900522021837,1885.2900522021837,Clear
+Kabul,John Doe,8,F-35,3000,6000,2135.2900522021837,2135.2900522021837,Clear
+Kabul,John Doe,8,MiG-29,2450,4500,1760.2900522021837,1760.2900522021837,Clear
+Kabul,John Doe,8,Su-27,2500,5200,1935.2900522021837,1935.2900522021837,Clear
+Kabul,John Doe,8,Eurofighter Typhoon,2495,5600,2035.2900522021837,2035.2900522021837,Clear
+Kabul,John Doe,8,Rafale,2130,4700,1810.2900522021837,1810.2900522021837,Clear
+Kabul,John Doe,8,F/A-18,1915,4900,1860.2900522021837,1860.2900522021837,Clear
+Kabul,Jane Smith,6,F-16,2400,5000,1884.7900522021837,1884.7900522021837,Clear
+Kabul,Jane Smith,6,F-35,3000,6000,2134.7900522021837,2134.7900522021837,Clear
+Kabul,Jane Smith,6,MiG-29,2450,4500,1759.7900522021837,1759.7900522021837,Clear
+Kabul,Jane Smith,6,Su-27,2500,5200,1934.7900522021837,1934.7900522021837,Clear
+Kabul,Jane Smith,6,Eurofighter Typhoon,2495,5600,2034.7900522021837,2034.7900522021837,Clear
+Kabul,Jane Smith,6,Rafale,2130,4700,1809.7900522021837,1809.7900522021837,Clear
+Kabul,Jane Smith,6,F/A-18,1915,4900,1859.7900522021837,1859.7900522021837,Clear
+Kabul,Michael Johnson,7,F-16,2400,5000,1885.0400522021837,1885.0400522021837,Clear
+Kabul,Michael Johnson,7,F-35,3000,6000,2135.0400522021837,2135.0400522021837,Clear
+Kabul,Michael Johnson,7,MiG-29,2450,4500,1760.0400522021837,1760.0400522021837,Clear
+Kabul,Michael Johnson,7,Su-27,2500,5200,1935.0400522021837,1935.0400522021837,Clear
+Kabul,Michael Johnson,7,Eurofighter Typhoon,2495,5600,2035.0400522021837,2035.0400522021837,Clear
+Kabul,Michael Johnson,7,Rafale,2130,4700,1810.0400522021837,1810.0400522021837,Clear
+Kabul,Michael Johnson,7,F/A-18,1915,4900,1860.0400522021837,1860.0400522021837,Clear
+Kabul,Emily Davis,9,F-16,2400,5000,1885.5400522021837,1885.5400522021837,Clear
+Kabul,Emily Davis,9,F-35,3000,6000,2135.5400522021837,2135.5400522021837,Clear
+Kabul,Emily Davis,9,MiG-29,2450,4500,1760.5400522021837,1760.5400522021837,Clear
+Kabul,Emily Davis,9,Su-27,2500,5200,1935.5400522021837,1935.5400522021837,Clear
+Kabul,Emily Davis,9,Eurofighter Typhoon,2495,5600,2035.5400522021837,2035.5400522021837,Clear
+Kabul,Emily Davis,9,Rafale,2130,4700,1810.5400522021837,1810.5400522021837,Clear
+Kabul,Emily Davis,9,F/A-18,1915,4900,1860.5400522021837,1860.5400522021837,Clear
+Kabul,Robert Brown,5,F-16,2400,5000,1884.5400522021837,1884.5400522021837,Clear
+Kabul,Robert Brown,5,F-35,3000,6000,2134.5400522021837,2134.5400522021837,Clear
+Kabul,Robert Brown,5,MiG-29,2450,4500,1759.5400522021837,1759.5400522021837,Clear
+Kabul,Robert Brown,5,Su-27,2500,5200,1934.5400522021837,1934.5400522021837,Clear
+Kabul,Robert Brown,5,Eurofighter Typhoon,2495,5600,2034.5400522021837,2034.5400522021837,Clear
+Kabul,Robert Brown,5,Rafale,2130,4700,1809.5400522021837,1809.5400522021837,Clear
+Kabul,Robert Brown,5,F/A-18,1915,4900,1859.5400522021837,1859.5400522021837,Clear
+Kabul,Sarah Wilson,8,F-16,2400,5000,1885.2900522021837,1885.2900522021837,Clear
+Kabul,Sarah Wilson,8,F-35,3000,6000,2135.2900522021837,2135.2900522021837,Clear
+Kabul,Sarah Wilson,8,MiG-29,2450,4500,1760.2900522021837,1760.2900522021837,Clear
+Kabul,Sarah Wilson,8,Su-27,2500,5200,1935.2900522021837,1935.2900522021837,Clear
+Kabul,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,2035.2900522021837,2035.2900522021837,Clear
+Kabul,Sarah Wilson,8,Rafale,2130,4700,1810.2900522021837,1810.2900522021837,Clear
+Kabul,Sarah Wilson,8,F/A-18,1915,4900,1860.2900522021837,1860.2900522021837,Clear
+Kabul,David Lee,6,F-16,2400,5000,1884.7900522021837,1884.7900522021837,Clear
+Kabul,David Lee,6,F-35,3000,6000,2134.7900522021837,2134.7900522021837,Clear
+Kabul,David Lee,6,MiG-29,2450,4500,1759.7900522021837,1759.7900522021837,Clear
+Kabul,David Lee,6,Su-27,2500,5200,1934.7900522021837,1934.7900522021837,Clear
+Kabul,David Lee,6,Eurofighter Typhoon,2495,5600,2034.7900522021837,2034.7900522021837,Clear
+Kabul,David Lee,6,Rafale,2130,4700,1809.7900522021837,1809.7900522021837,Clear
+Kabul,David Lee,6,F/A-18,1915,4900,1859.7900522021837,1859.7900522021837,Clear
+Kabul,Chris Walker,7,F-16,2400,5000,1885.0400522021837,1885.0400522021837,Clear
+Kabul,Chris Walker,7,F-35,3000,6000,2135.0400522021837,2135.0400522021837,Clear
+Kabul,Chris Walker,7,MiG-29,2450,4500,1760.0400522021837,1760.0400522021837,Clear
+Kabul,Chris Walker,7,Su-27,2500,5200,1935.0400522021837,1935.0400522021837,Clear
+Kabul,Chris Walker,7,Eurofighter Typhoon,2495,5600,2035.0400522021837,2035.0400522021837,Clear
+Kabul,Chris Walker,7,Rafale,2130,4700,1810.0400522021837,1810.0400522021837,Clear
+Kabul,Chris Walker,7,F/A-18,1915,4900,1860.0400522021837,1860.0400522021837,Clear
+Kabul,Jessica Miller,10,F-16,2400,5000,1885.7900522021837,1885.7900522021837,Clear
+Kabul,Jessica Miller,10,F-35,3000,6000,2135.7900522021837,2135.7900522021837,Clear
+Kabul,Jessica Miller,10,MiG-29,2450,4500,1760.7900522021837,1760.7900522021837,Clear
+Kabul,Jessica Miller,10,Su-27,2500,5200,1935.7900522021837,1935.7900522021837,Clear
+Kabul,Jessica Miller,10,Eurofighter Typhoon,2495,5600,2035.7900522021837,2035.7900522021837,Clear
+Kabul,Jessica Miller,10,Rafale,2130,4700,1810.7900522021837,1810.7900522021837,Clear
+Kabul,Jessica Miller,10,F/A-18,1915,4900,1860.7900522021837,1860.7900522021837,Clear
+Kabul,Daniel Harris,4,F-16,2400,5000,1884.2900522021837,1884.2900522021837,Clear
+Kabul,Daniel Harris,4,F-35,3000,6000,2134.2900522021837,2134.2900522021837,Clear
+Kabul,Daniel Harris,4,MiG-29,2450,4500,1759.2900522021837,1759.2900522021837,Clear
+Kabul,Daniel Harris,4,Su-27,2500,5200,1934.2900522021837,1934.2900522021837,Clear
+Kabul,Daniel Harris,4,Eurofighter Typhoon,2495,5600,2034.2900522021837,2034.2900522021837,Clear
+Kabul,Daniel Harris,4,Rafale,2130,4700,1809.2900522021837,1809.2900522021837,Clear
+Kabul,Daniel Harris,4,F/A-18,1915,4900,1859.2900522021837,1859.2900522021837,Clear
+Sanaa,John Doe,8,F-16,2400,5000,1661.2773727609306,1661.2773727609306,Clouds
+Sanaa,John Doe,8,F-35,3000,6000,1911.2773727609306,1911.2773727609306,Clouds
+Sanaa,John Doe,8,MiG-29,2450,4500,1536.2773727609306,1536.2773727609306,Clouds
+Sanaa,John Doe,8,Su-27,2500,5200,1711.2773727609306,1711.2773727609306,Clouds
+Sanaa,John Doe,8,Eurofighter Typhoon,2495,5600,1811.2773727609306,1811.2773727609306,Clouds
+Sanaa,John Doe,8,Rafale,2130,4700,1586.2773727609306,1586.2773727609306,Clouds
+Sanaa,John Doe,8,F/A-18,1915,4900,1636.2773727609306,1636.2773727609306,Clouds
+Sanaa,Jane Smith,6,F-16,2400,5000,1660.7773727609306,1660.7773727609306,Clouds
+Sanaa,Jane Smith,6,F-35,3000,6000,1910.7773727609306,1910.7773727609306,Clouds
+Sanaa,Jane Smith,6,MiG-29,2450,4500,1535.7773727609306,1535.7773727609306,Clouds
+Sanaa,Jane Smith,6,Su-27,2500,5200,1710.7773727609306,1710.7773727609306,Clouds
+Sanaa,Jane Smith,6,Eurofighter Typhoon,2495,5600,1810.7773727609306,1810.7773727609306,Clouds
+Sanaa,Jane Smith,6,Rafale,2130,4700,1585.7773727609306,1585.7773727609306,Clouds
+Sanaa,Jane Smith,6,F/A-18,1915,4900,1635.7773727609306,1635.7773727609306,Clouds
+Sanaa,Michael Johnson,7,F-16,2400,5000,1661.0273727609306,1661.0273727609306,Clouds
+Sanaa,Michael Johnson,7,F-35,3000,6000,1911.0273727609306,1911.0273727609306,Clouds
+Sanaa,Michael Johnson,7,MiG-29,2450,4500,1536.0273727609306,1536.0273727609306,Clouds
+Sanaa,Michael Johnson,7,Su-27,2500,5200,1711.0273727609306,1711.0273727609306,Clouds
+Sanaa,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1811.0273727609306,1811.0273727609306,Clouds
+Sanaa,Michael Johnson,7,Rafale,2130,4700,1586.0273727609306,1586.0273727609306,Clouds
+Sanaa,Michael Johnson,7,F/A-18,1915,4900,1636.0273727609306,1636.0273727609306,Clouds
+Sanaa,Emily Davis,9,F-16,2400,5000,1661.5273727609306,1661.5273727609306,Clouds
+Sanaa,Emily Davis,9,F-35,3000,6000,1911.5273727609306,1911.5273727609306,Clouds
+Sanaa,Emily Davis,9,MiG-29,2450,4500,1536.5273727609306,1536.5273727609306,Clouds
+Sanaa,Emily Davis,9,Su-27,2500,5200,1711.5273727609306,1711.5273727609306,Clouds
+Sanaa,Emily Davis,9,Eurofighter Typhoon,2495,5600,1811.5273727609306,1811.5273727609306,Clouds
+Sanaa,Emily Davis,9,Rafale,2130,4700,1586.5273727609306,1586.5273727609306,Clouds
+Sanaa,Emily Davis,9,F/A-18,1915,4900,1636.5273727609306,1636.5273727609306,Clouds
+Sanaa,Robert Brown,5,F-16,2400,5000,1660.5273727609306,1660.5273727609306,Clouds
+Sanaa,Robert Brown,5,F-35,3000,6000,1910.5273727609306,1910.5273727609306,Clouds
+Sanaa,Robert Brown,5,MiG-29,2450,4500,1535.5273727609306,1535.5273727609306,Clouds
+Sanaa,Robert Brown,5,Su-27,2500,5200,1710.5273727609306,1710.5273727609306,Clouds
+Sanaa,Robert Brown,5,Eurofighter Typhoon,2495,5600,1810.5273727609306,1810.5273727609306,Clouds
+Sanaa,Robert Brown,5,Rafale,2130,4700,1585.5273727609306,1585.5273727609306,Clouds
+Sanaa,Robert Brown,5,F/A-18,1915,4900,1635.5273727609306,1635.5273727609306,Clouds
+Sanaa,Sarah Wilson,8,F-16,2400,5000,1661.2773727609306,1661.2773727609306,Clouds
+Sanaa,Sarah Wilson,8,F-35,3000,6000,1911.2773727609306,1911.2773727609306,Clouds
+Sanaa,Sarah Wilson,8,MiG-29,2450,4500,1536.2773727609306,1536.2773727609306,Clouds
+Sanaa,Sarah Wilson,8,Su-27,2500,5200,1711.2773727609306,1711.2773727609306,Clouds
+Sanaa,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1811.2773727609306,1811.2773727609306,Clouds
+Sanaa,Sarah Wilson,8,Rafale,2130,4700,1586.2773727609306,1586.2773727609306,Clouds
+Sanaa,Sarah Wilson,8,F/A-18,1915,4900,1636.2773727609306,1636.2773727609306,Clouds
+Sanaa,David Lee,6,F-16,2400,5000,1660.7773727609306,1660.7773727609306,Clouds
+Sanaa,David Lee,6,F-35,3000,6000,1910.7773727609306,1910.7773727609306,Clouds
+Sanaa,David Lee,6,MiG-29,2450,4500,1535.7773727609306,1535.7773727609306,Clouds
+Sanaa,David Lee,6,Su-27,2500,5200,1710.7773727609306,1710.7773727609306,Clouds
+Sanaa,David Lee,6,Eurofighter Typhoon,2495,5600,1810.7773727609306,1810.7773727609306,Clouds
+Sanaa,David Lee,6,Rafale,2130,4700,1585.7773727609306,1585.7773727609306,Clouds
+Sanaa,David Lee,6,F/A-18,1915,4900,1635.7773727609306,1635.7773727609306,Clouds
+Sanaa,Chris Walker,7,F-16,2400,5000,1661.0273727609306,1661.0273727609306,Clouds
+Sanaa,Chris Walker,7,F-35,3000,6000,1911.0273727609306,1911.0273727609306,Clouds
+Sanaa,Chris Walker,7,MiG-29,2450,4500,1536.0273727609306,1536.0273727609306,Clouds
+Sanaa,Chris Walker,7,Su-27,2500,5200,1711.0273727609306,1711.0273727609306,Clouds
+Sanaa,Chris Walker,7,Eurofighter Typhoon,2495,5600,1811.0273727609306,1811.0273727609306,Clouds
+Sanaa,Chris Walker,7,Rafale,2130,4700,1586.0273727609306,1586.0273727609306,Clouds
+Sanaa,Chris Walker,7,F/A-18,1915,4900,1636.0273727609306,1636.0273727609306,Clouds
+Sanaa,Jessica Miller,10,F-16,2400,5000,1661.7773727609306,1661.7773727609306,Clouds
+Sanaa,Jessica Miller,10,F-35,3000,6000,1911.7773727609306,1911.7773727609306,Clouds
+Sanaa,Jessica Miller,10,MiG-29,2450,4500,1536.7773727609306,1536.7773727609306,Clouds
+Sanaa,Jessica Miller,10,Su-27,2500,5200,1711.7773727609306,1711.7773727609306,Clouds
+Sanaa,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1811.7773727609306,1811.7773727609306,Clouds
+Sanaa,Jessica Miller,10,Rafale,2130,4700,1586.7773727609306,1586.7773727609306,Clouds
+Sanaa,Jessica Miller,10,F/A-18,1915,4900,1636.7773727609306,1636.7773727609306,Clouds
+Sanaa,Daniel Harris,4,F-16,2400,5000,1660.2773727609306,1660.2773727609306,Clouds
+Sanaa,Daniel Harris,4,F-35,3000,6000,1910.2773727609306,1910.2773727609306,Clouds
+Sanaa,Daniel Harris,4,MiG-29,2450,4500,1535.2773727609306,1535.2773727609306,Clouds
+Sanaa,Daniel Harris,4,Su-27,2500,5200,1710.2773727609306,1710.2773727609306,Clouds
+Sanaa,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1810.2773727609306,1810.2773727609306,Clouds
+Sanaa,Daniel Harris,4,Rafale,2130,4700,1585.2773727609306,1585.2773727609306,Clouds
+Sanaa,Daniel Harris,4,F/A-18,1915,4900,1635.2773727609306,1635.2773727609306,Clouds
+Riyadh,John Doe,8,F-16,2400,5000,1528.6669805076053,1528.6669805076053,Clear
+Riyadh,John Doe,8,F-35,3000,6000,1778.6669805076053,1778.6669805076053,Clear
+Riyadh,John Doe,8,MiG-29,2450,4500,1403.6669805076053,1403.6669805076053,Clear
+Riyadh,John Doe,8,Su-27,2500,5200,1578.6669805076053,1578.6669805076053,Clear
+Riyadh,John Doe,8,Eurofighter Typhoon,2495,5600,1678.6669805076053,1678.6669805076053,Clear
+Riyadh,John Doe,8,Rafale,2130,4700,1453.6669805076053,1453.6669805076053,Clear
+Riyadh,John Doe,8,F/A-18,1915,4900,1503.6669805076053,1503.6669805076053,Clear
+Riyadh,Jane Smith,6,F-16,2400,5000,1528.1669805076053,1528.1669805076053,Clear
+Riyadh,Jane Smith,6,F-35,3000,6000,1778.1669805076053,1778.1669805076053,Clear
+Riyadh,Jane Smith,6,MiG-29,2450,4500,1403.1669805076053,1403.1669805076053,Clear
+Riyadh,Jane Smith,6,Su-27,2500,5200,1578.1669805076053,1578.1669805076053,Clear
+Riyadh,Jane Smith,6,Eurofighter Typhoon,2495,5600,1678.1669805076053,1678.1669805076053,Clear
+Riyadh,Jane Smith,6,Rafale,2130,4700,1453.1669805076053,1453.1669805076053,Clear
+Riyadh,Jane Smith,6,F/A-18,1915,4900,1503.1669805076053,1503.1669805076053,Clear
+Riyadh,Michael Johnson,7,F-16,2400,5000,1528.4169805076053,1528.4169805076053,Clear
+Riyadh,Michael Johnson,7,F-35,3000,6000,1778.4169805076053,1778.4169805076053,Clear
+Riyadh,Michael Johnson,7,MiG-29,2450,4500,1403.4169805076053,1403.4169805076053,Clear
+Riyadh,Michael Johnson,7,Su-27,2500,5200,1578.4169805076053,1578.4169805076053,Clear
+Riyadh,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1678.4169805076053,1678.4169805076053,Clear
+Riyadh,Michael Johnson,7,Rafale,2130,4700,1453.4169805076053,1453.4169805076053,Clear
+Riyadh,Michael Johnson,7,F/A-18,1915,4900,1503.4169805076053,1503.4169805076053,Clear
+Riyadh,Emily Davis,9,F-16,2400,5000,1528.9169805076053,1528.9169805076053,Clear
+Riyadh,Emily Davis,9,F-35,3000,6000,1778.9169805076053,1778.9169805076053,Clear
+Riyadh,Emily Davis,9,MiG-29,2450,4500,1403.9169805076053,1403.9169805076053,Clear
+Riyadh,Emily Davis,9,Su-27,2500,5200,1578.9169805076053,1578.9169805076053,Clear
+Riyadh,Emily Davis,9,Eurofighter Typhoon,2495,5600,1678.9169805076053,1678.9169805076053,Clear
+Riyadh,Emily Davis,9,Rafale,2130,4700,1453.9169805076053,1453.9169805076053,Clear
+Riyadh,Emily Davis,9,F/A-18,1915,4900,1503.9169805076053,1503.9169805076053,Clear
+Riyadh,Robert Brown,5,F-16,2400,5000,1527.9169805076053,1527.9169805076053,Clear
+Riyadh,Robert Brown,5,F-35,3000,6000,1777.9169805076053,1777.9169805076053,Clear
+Riyadh,Robert Brown,5,MiG-29,2450,4500,1402.9169805076053,1402.9169805076053,Clear
+Riyadh,Robert Brown,5,Su-27,2500,5200,1577.9169805076053,1577.9169805076053,Clear
+Riyadh,Robert Brown,5,Eurofighter Typhoon,2495,5600,1677.9169805076053,1677.9169805076053,Clear
+Riyadh,Robert Brown,5,Rafale,2130,4700,1452.9169805076053,1452.9169805076053,Clear
+Riyadh,Robert Brown,5,F/A-18,1915,4900,1502.9169805076053,1502.9169805076053,Clear
+Riyadh,Sarah Wilson,8,F-16,2400,5000,1528.6669805076053,1528.6669805076053,Clear
+Riyadh,Sarah Wilson,8,F-35,3000,6000,1778.6669805076053,1778.6669805076053,Clear
+Riyadh,Sarah Wilson,8,MiG-29,2450,4500,1403.6669805076053,1403.6669805076053,Clear
+Riyadh,Sarah Wilson,8,Su-27,2500,5200,1578.6669805076053,1578.6669805076053,Clear
+Riyadh,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1678.6669805076053,1678.6669805076053,Clear
+Riyadh,Sarah Wilson,8,Rafale,2130,4700,1453.6669805076053,1453.6669805076053,Clear
+Riyadh,Sarah Wilson,8,F/A-18,1915,4900,1503.6669805076053,1503.6669805076053,Clear
+Riyadh,David Lee,6,F-16,2400,5000,1528.1669805076053,1528.1669805076053,Clear
+Riyadh,David Lee,6,F-35,3000,6000,1778.1669805076053,1778.1669805076053,Clear
+Riyadh,David Lee,6,MiG-29,2450,4500,1403.1669805076053,1403.1669805076053,Clear
+Riyadh,David Lee,6,Su-27,2500,5200,1578.1669805076053,1578.1669805076053,Clear
+Riyadh,David Lee,6,Eurofighter Typhoon,2495,5600,1678.1669805076053,1678.1669805076053,Clear
+Riyadh,David Lee,6,Rafale,2130,4700,1453.1669805076053,1453.1669805076053,Clear
+Riyadh,David Lee,6,F/A-18,1915,4900,1503.1669805076053,1503.1669805076053,Clear
+Riyadh,Chris Walker,7,F-16,2400,5000,1528.4169805076053,1528.4169805076053,Clear
+Riyadh,Chris Walker,7,F-35,3000,6000,1778.4169805076053,1778.4169805076053,Clear
+Riyadh,Chris Walker,7,MiG-29,2450,4500,1403.4169805076053,1403.4169805076053,Clear
+Riyadh,Chris Walker,7,Su-27,2500,5200,1578.4169805076053,1578.4169805076053,Clear
+Riyadh,Chris Walker,7,Eurofighter Typhoon,2495,5600,1678.4169805076053,1678.4169805076053,Clear
+Riyadh,Chris Walker,7,Rafale,2130,4700,1453.4169805076053,1453.4169805076053,Clear
+Riyadh,Chris Walker,7,F/A-18,1915,4900,1503.4169805076053,1503.4169805076053,Clear
+Riyadh,Jessica Miller,10,F-16,2400,5000,1529.1669805076053,1529.1669805076053,Clear
+Riyadh,Jessica Miller,10,F-35,3000,6000,1779.1669805076053,1779.1669805076053,Clear
+Riyadh,Jessica Miller,10,MiG-29,2450,4500,1404.1669805076053,1404.1669805076053,Clear
+Riyadh,Jessica Miller,10,Su-27,2500,5200,1579.1669805076053,1579.1669805076053,Clear
+Riyadh,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1679.1669805076053,1679.1669805076053,Clear
+Riyadh,Jessica Miller,10,Rafale,2130,4700,1454.1669805076053,1454.1669805076053,Clear
+Riyadh,Jessica Miller,10,F/A-18,1915,4900,1504.1669805076053,1504.1669805076053,Clear
+Riyadh,Daniel Harris,4,F-16,2400,5000,1527.6669805076053,1527.6669805076053,Clear
+Riyadh,Daniel Harris,4,F-35,3000,6000,1777.6669805076053,1777.6669805076053,Clear
+Riyadh,Daniel Harris,4,MiG-29,2450,4500,1402.6669805076053,1402.6669805076053,Clear
+Riyadh,Daniel Harris,4,Su-27,2500,5200,1577.6669805076053,1577.6669805076053,Clear
+Riyadh,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1677.6669805076053,1677.6669805076053,Clear
+Riyadh,Daniel Harris,4,Rafale,2130,4700,1452.6669805076053,1452.6669805076053,Clear
+Riyadh,Daniel Harris,4,F/A-18,1915,4900,1502.6669805076053,1502.6669805076053,Clear
+Cairo,John Doe,8,F-16,2400,5000,1338.267936677458,1338.267936677458,Clouds
+Cairo,John Doe,8,F-35,3000,6000,1588.267936677458,1588.267936677458,Clouds
+Cairo,John Doe,8,MiG-29,2450,4500,1213.267936677458,1213.267936677458,Clouds
+Cairo,John Doe,8,Su-27,2500,5200,1388.267936677458,1388.267936677458,Clouds
+Cairo,John Doe,8,Eurofighter Typhoon,2495,5600,1488.267936677458,1488.267936677458,Clouds
+Cairo,John Doe,8,Rafale,2130,4700,1263.267936677458,1263.267936677458,Clouds
+Cairo,John Doe,8,F/A-18,1915,4900,1313.267936677458,1313.267936677458,Clouds
+Cairo,Jane Smith,6,F-16,2400,5000,1337.767936677458,1337.767936677458,Clouds
+Cairo,Jane Smith,6,F-35,3000,6000,1587.767936677458,1587.767936677458,Clouds
+Cairo,Jane Smith,6,MiG-29,2450,4500,1212.767936677458,1212.767936677458,Clouds
+Cairo,Jane Smith,6,Su-27,2500,5200,1387.767936677458,1387.767936677458,Clouds
+Cairo,Jane Smith,6,Eurofighter Typhoon,2495,5600,1487.767936677458,1487.767936677458,Clouds
+Cairo,Jane Smith,6,Rafale,2130,4700,1262.767936677458,1262.767936677458,Clouds
+Cairo,Jane Smith,6,F/A-18,1915,4900,1312.767936677458,1312.767936677458,Clouds
+Cairo,Michael Johnson,7,F-16,2400,5000,1338.017936677458,1338.017936677458,Clouds
+Cairo,Michael Johnson,7,F-35,3000,6000,1588.017936677458,1588.017936677458,Clouds
+Cairo,Michael Johnson,7,MiG-29,2450,4500,1213.017936677458,1213.017936677458,Clouds
+Cairo,Michael Johnson,7,Su-27,2500,5200,1388.017936677458,1388.017936677458,Clouds
+Cairo,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1488.017936677458,1488.017936677458,Clouds
+Cairo,Michael Johnson,7,Rafale,2130,4700,1263.017936677458,1263.017936677458,Clouds
+Cairo,Michael Johnson,7,F/A-18,1915,4900,1313.017936677458,1313.017936677458,Clouds
+Cairo,Emily Davis,9,F-16,2400,5000,1338.517936677458,1338.517936677458,Clouds
+Cairo,Emily Davis,9,F-35,3000,6000,1588.517936677458,1588.517936677458,Clouds
+Cairo,Emily Davis,9,MiG-29,2450,4500,1213.517936677458,1213.517936677458,Clouds
+Cairo,Emily Davis,9,Su-27,2500,5200,1388.517936677458,1388.517936677458,Clouds
+Cairo,Emily Davis,9,Eurofighter Typhoon,2495,5600,1488.517936677458,1488.517936677458,Clouds
+Cairo,Emily Davis,9,Rafale,2130,4700,1263.517936677458,1263.517936677458,Clouds
+Cairo,Emily Davis,9,F/A-18,1915,4900,1313.517936677458,1313.517936677458,Clouds
+Cairo,Robert Brown,5,F-16,2400,5000,1337.517936677458,1337.517936677458,Clouds
+Cairo,Robert Brown,5,F-35,3000,6000,1587.517936677458,1587.517936677458,Clouds
+Cairo,Robert Brown,5,MiG-29,2450,4500,1212.517936677458,1212.517936677458,Clouds
+Cairo,Robert Brown,5,Su-27,2500,5200,1387.517936677458,1387.517936677458,Clouds
+Cairo,Robert Brown,5,Eurofighter Typhoon,2495,5600,1487.517936677458,1487.517936677458,Clouds
+Cairo,Robert Brown,5,Rafale,2130,4700,1262.517936677458,1262.517936677458,Clouds
+Cairo,Robert Brown,5,F/A-18,1915,4900,1312.517936677458,1312.517936677458,Clouds
+Cairo,Sarah Wilson,8,F-16,2400,5000,1338.267936677458,1338.267936677458,Clouds
+Cairo,Sarah Wilson,8,F-35,3000,6000,1588.267936677458,1588.267936677458,Clouds
+Cairo,Sarah Wilson,8,MiG-29,2450,4500,1213.267936677458,1213.267936677458,Clouds
+Cairo,Sarah Wilson,8,Su-27,2500,5200,1388.267936677458,1388.267936677458,Clouds
+Cairo,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1488.267936677458,1488.267936677458,Clouds
+Cairo,Sarah Wilson,8,Rafale,2130,4700,1263.267936677458,1263.267936677458,Clouds
+Cairo,Sarah Wilson,8,F/A-18,1915,4900,1313.267936677458,1313.267936677458,Clouds
+Cairo,David Lee,6,F-16,2400,5000,1337.767936677458,1337.767936677458,Clouds
+Cairo,David Lee,6,F-35,3000,6000,1587.767936677458,1587.767936677458,Clouds
+Cairo,David Lee,6,MiG-29,2450,4500,1212.767936677458,1212.767936677458,Clouds
+Cairo,David Lee,6,Su-27,2500,5200,1387.767936677458,1387.767936677458,Clouds
+Cairo,David Lee,6,Eurofighter Typhoon,2495,5600,1487.767936677458,1487.767936677458,Clouds
+Cairo,David Lee,6,Rafale,2130,4700,1262.767936677458,1262.767936677458,Clouds
+Cairo,David Lee,6,F/A-18,1915,4900,1312.767936677458,1312.767936677458,Clouds
+Cairo,Chris Walker,7,F-16,2400,5000,1338.017936677458,1338.017936677458,Clouds
+Cairo,Chris Walker,7,F-35,3000,6000,1588.017936677458,1588.017936677458,Clouds
+Cairo,Chris Walker,7,MiG-29,2450,4500,1213.017936677458,1213.017936677458,Clouds
+Cairo,Chris Walker,7,Su-27,2500,5200,1388.017936677458,1388.017936677458,Clouds
+Cairo,Chris Walker,7,Eurofighter Typhoon,2495,5600,1488.017936677458,1488.017936677458,Clouds
+Cairo,Chris Walker,7,Rafale,2130,4700,1263.017936677458,1263.017936677458,Clouds
+Cairo,Chris Walker,7,F/A-18,1915,4900,1313.017936677458,1313.017936677458,Clouds
+Cairo,Jessica Miller,10,F-16,2400,5000,1338.767936677458,1338.767936677458,Clouds
+Cairo,Jessica Miller,10,F-35,3000,6000,1588.767936677458,1588.767936677458,Clouds
+Cairo,Jessica Miller,10,MiG-29,2450,4500,1213.767936677458,1213.767936677458,Clouds
+Cairo,Jessica Miller,10,Su-27,2500,5200,1388.767936677458,1388.767936677458,Clouds
+Cairo,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1488.767936677458,1488.767936677458,Clouds
+Cairo,Jessica Miller,10,Rafale,2130,4700,1263.767936677458,1263.767936677458,Clouds
+Cairo,Jessica Miller,10,F/A-18,1915,4900,1313.767936677458,1313.767936677458,Clouds
+Cairo,Daniel Harris,4,F-16,2400,5000,1337.267936677458,1337.267936677458,Clouds
+Cairo,Daniel Harris,4,F-35,3000,6000,1587.267936677458,1587.267936677458,Clouds
+Cairo,Daniel Harris,4,MiG-29,2450,4500,1212.267936677458,1212.267936677458,Clouds
+Cairo,Daniel Harris,4,Su-27,2500,5200,1387.267936677458,1387.267936677458,Clouds
+Cairo,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1487.267936677458,1487.267936677458,Clouds
+Cairo,Daniel Harris,4,Rafale,2130,4700,1262.267936677458,1262.267936677458,Clouds
+Cairo,Daniel Harris,4,F/A-18,1915,4900,1312.267936677458,1312.267936677458,Clouds
+Beirut,John Doe,8,F-16,2400,5000,1299.9662978978204,1299.9662978978204,Clouds
+Beirut,John Doe,8,F-35,3000,6000,1549.9662978978204,1549.9662978978204,Clouds
+Beirut,John Doe,8,MiG-29,2450,4500,1174.9662978978204,1174.9662978978204,Clouds
+Beirut,John Doe,8,Su-27,2500,5200,1349.9662978978204,1349.9662978978204,Clouds
+Beirut,John Doe,8,Eurofighter Typhoon,2495,5600,1449.9662978978204,1449.9662978978204,Clouds
+Beirut,John Doe,8,Rafale,2130,4700,1224.9662978978204,1224.9662978978204,Clouds
+Beirut,John Doe,8,F/A-18,1915,4900,1274.9662978978204,1274.9662978978204,Clouds
+Beirut,Jane Smith,6,F-16,2400,5000,1299.4662978978204,1299.4662978978204,Clouds
+Beirut,Jane Smith,6,F-35,3000,6000,1549.4662978978204,1549.4662978978204,Clouds
+Beirut,Jane Smith,6,MiG-29,2450,4500,1174.4662978978204,1174.4662978978204,Clouds
+Beirut,Jane Smith,6,Su-27,2500,5200,1349.4662978978204,1349.4662978978204,Clouds
+Beirut,Jane Smith,6,Eurofighter Typhoon,2495,5600,1449.4662978978204,1449.4662978978204,Clouds
+Beirut,Jane Smith,6,Rafale,2130,4700,1224.4662978978204,1224.4662978978204,Clouds
+Beirut,Jane Smith,6,F/A-18,1915,4900,1274.4662978978204,1274.4662978978204,Clouds
+Beirut,Michael Johnson,7,F-16,2400,5000,1299.7162978978204,1299.7162978978204,Clouds
+Beirut,Michael Johnson,7,F-35,3000,6000,1549.7162978978204,1549.7162978978204,Clouds
+Beirut,Michael Johnson,7,MiG-29,2450,4500,1174.7162978978204,1174.7162978978204,Clouds
+Beirut,Michael Johnson,7,Su-27,2500,5200,1349.7162978978204,1349.7162978978204,Clouds
+Beirut,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1449.7162978978204,1449.7162978978204,Clouds
+Beirut,Michael Johnson,7,Rafale,2130,4700,1224.7162978978204,1224.7162978978204,Clouds
+Beirut,Michael Johnson,7,F/A-18,1915,4900,1274.7162978978204,1274.7162978978204,Clouds
+Beirut,Emily Davis,9,F-16,2400,5000,1300.2162978978204,1300.2162978978204,Clouds
+Beirut,Emily Davis,9,F-35,3000,6000,1550.2162978978204,1550.2162978978204,Clouds
+Beirut,Emily Davis,9,MiG-29,2450,4500,1175.2162978978204,1175.2162978978204,Clouds
+Beirut,Emily Davis,9,Su-27,2500,5200,1350.2162978978204,1350.2162978978204,Clouds
+Beirut,Emily Davis,9,Eurofighter Typhoon,2495,5600,1450.2162978978204,1450.2162978978204,Clouds
+Beirut,Emily Davis,9,Rafale,2130,4700,1225.2162978978204,1225.2162978978204,Clouds
+Beirut,Emily Davis,9,F/A-18,1915,4900,1275.2162978978204,1275.2162978978204,Clouds
+Beirut,Robert Brown,5,F-16,2400,5000,1299.2162978978204,1299.2162978978204,Clouds
+Beirut,Robert Brown,5,F-35,3000,6000,1549.2162978978204,1549.2162978978204,Clouds
+Beirut,Robert Brown,5,MiG-29,2450,4500,1174.2162978978204,1174.2162978978204,Clouds
+Beirut,Robert Brown,5,Su-27,2500,5200,1349.2162978978204,1349.2162978978204,Clouds
+Beirut,Robert Brown,5,Eurofighter Typhoon,2495,5600,1449.2162978978204,1449.2162978978204,Clouds
+Beirut,Robert Brown,5,Rafale,2130,4700,1224.2162978978204,1224.2162978978204,Clouds
+Beirut,Robert Brown,5,F/A-18,1915,4900,1274.2162978978204,1274.2162978978204,Clouds
+Beirut,Sarah Wilson,8,F-16,2400,5000,1299.9662978978204,1299.9662978978204,Clouds
+Beirut,Sarah Wilson,8,F-35,3000,6000,1549.9662978978204,1549.9662978978204,Clouds
+Beirut,Sarah Wilson,8,MiG-29,2450,4500,1174.9662978978204,1174.9662978978204,Clouds
+Beirut,Sarah Wilson,8,Su-27,2500,5200,1349.9662978978204,1349.9662978978204,Clouds
+Beirut,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1449.9662978978204,1449.9662978978204,Clouds
+Beirut,Sarah Wilson,8,Rafale,2130,4700,1224.9662978978204,1224.9662978978204,Clouds
+Beirut,Sarah Wilson,8,F/A-18,1915,4900,1274.9662978978204,1274.9662978978204,Clouds
+Beirut,David Lee,6,F-16,2400,5000,1299.4662978978204,1299.4662978978204,Clouds
+Beirut,David Lee,6,F-35,3000,6000,1549.4662978978204,1549.4662978978204,Clouds
+Beirut,David Lee,6,MiG-29,2450,4500,1174.4662978978204,1174.4662978978204,Clouds
+Beirut,David Lee,6,Su-27,2500,5200,1349.4662978978204,1349.4662978978204,Clouds
+Beirut,David Lee,6,Eurofighter Typhoon,2495,5600,1449.4662978978204,1449.4662978978204,Clouds
+Beirut,David Lee,6,Rafale,2130,4700,1224.4662978978204,1224.4662978978204,Clouds
+Beirut,David Lee,6,F/A-18,1915,4900,1274.4662978978204,1274.4662978978204,Clouds
+Beirut,Chris Walker,7,F-16,2400,5000,1299.7162978978204,1299.7162978978204,Clouds
+Beirut,Chris Walker,7,F-35,3000,6000,1549.7162978978204,1549.7162978978204,Clouds
+Beirut,Chris Walker,7,MiG-29,2450,4500,1174.7162978978204,1174.7162978978204,Clouds
+Beirut,Chris Walker,7,Su-27,2500,5200,1349.7162978978204,1349.7162978978204,Clouds
+Beirut,Chris Walker,7,Eurofighter Typhoon,2495,5600,1449.7162978978204,1449.7162978978204,Clouds
+Beirut,Chris Walker,7,Rafale,2130,4700,1224.7162978978204,1224.7162978978204,Clouds
+Beirut,Chris Walker,7,F/A-18,1915,4900,1274.7162978978204,1274.7162978978204,Clouds
+Beirut,Jessica Miller,10,F-16,2400,5000,1300.4662978978204,1300.4662978978204,Clouds
+Beirut,Jessica Miller,10,F-35,3000,6000,1550.4662978978204,1550.4662978978204,Clouds
+Beirut,Jessica Miller,10,MiG-29,2450,4500,1175.4662978978204,1175.4662978978204,Clouds
+Beirut,Jessica Miller,10,Su-27,2500,5200,1350.4662978978204,1350.4662978978204,Clouds
+Beirut,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1450.4662978978204,1450.4662978978204,Clouds
+Beirut,Jessica Miller,10,Rafale,2130,4700,1225.4662978978204,1225.4662978978204,Clouds
+Beirut,Jessica Miller,10,F/A-18,1915,4900,1275.4662978978204,1275.4662978978204,Clouds
+Beirut,Daniel Harris,4,F-16,2400,5000,1298.9662978978204,1298.9662978978204,Clouds
+Beirut,Daniel Harris,4,F-35,3000,6000,1548.9662978978204,1548.9662978978204,Clouds
+Beirut,Daniel Harris,4,MiG-29,2450,4500,1173.9662978978204,1173.9662978978204,Clouds
+Beirut,Daniel Harris,4,Su-27,2500,5200,1348.9662978978204,1348.9662978978204,Clouds
+Beirut,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1448.9662978978204,1448.9662978978204,Clouds
+Beirut,Daniel Harris,4,Rafale,2130,4700,1223.9662978978204,1223.9662978978204,Clouds
+Beirut,Daniel Harris,4,F/A-18,1915,4900,1273.9662978978204,1273.9662978978204,Clouds
+Amman,John Doe,8,F-16,2400,5000,1266.8845842982348,1266.8845842982348,Clear
+Amman,John Doe,8,F-35,3000,6000,1516.8845842982348,1516.8845842982348,Clear
+Amman,John Doe,8,MiG-29,2450,4500,1141.8845842982348,1141.8845842982348,Clear
+Amman,John Doe,8,Su-27,2500,5200,1316.8845842982348,1316.8845842982348,Clear
+Amman,John Doe,8,Eurofighter Typhoon,2495,5600,1416.8845842982348,1416.8845842982348,Clear
+Amman,John Doe,8,Rafale,2130,4700,1191.8845842982348,1191.8845842982348,Clear
+Amman,John Doe,8,F/A-18,1915,4900,1241.8845842982348,1241.8845842982348,Clear
+Amman,Jane Smith,6,F-16,2400,5000,1266.3845842982348,1266.3845842982348,Clear
+Amman,Jane Smith,6,F-35,3000,6000,1516.3845842982348,1516.3845842982348,Clear
+Amman,Jane Smith,6,MiG-29,2450,4500,1141.3845842982348,1141.3845842982348,Clear
+Amman,Jane Smith,6,Su-27,2500,5200,1316.3845842982348,1316.3845842982348,Clear
+Amman,Jane Smith,6,Eurofighter Typhoon,2495,5600,1416.3845842982348,1416.3845842982348,Clear
+Amman,Jane Smith,6,Rafale,2130,4700,1191.3845842982348,1191.3845842982348,Clear
+Amman,Jane Smith,6,F/A-18,1915,4900,1241.3845842982348,1241.3845842982348,Clear
+Amman,Michael Johnson,7,F-16,2400,5000,1266.6345842982348,1266.6345842982348,Clear
+Amman,Michael Johnson,7,F-35,3000,6000,1516.6345842982348,1516.6345842982348,Clear
+Amman,Michael Johnson,7,MiG-29,2450,4500,1141.6345842982348,1141.6345842982348,Clear
+Amman,Michael Johnson,7,Su-27,2500,5200,1316.6345842982348,1316.6345842982348,Clear
+Amman,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1416.6345842982348,1416.6345842982348,Clear
+Amman,Michael Johnson,7,Rafale,2130,4700,1191.6345842982348,1191.6345842982348,Clear
+Amman,Michael Johnson,7,F/A-18,1915,4900,1241.6345842982348,1241.6345842982348,Clear
+Amman,Emily Davis,9,F-16,2400,5000,1267.1345842982348,1267.1345842982348,Clear
+Amman,Emily Davis,9,F-35,3000,6000,1517.1345842982348,1517.1345842982348,Clear
+Amman,Emily Davis,9,MiG-29,2450,4500,1142.1345842982348,1142.1345842982348,Clear
+Amman,Emily Davis,9,Su-27,2500,5200,1317.1345842982348,1317.1345842982348,Clear
+Amman,Emily Davis,9,Eurofighter Typhoon,2495,5600,1417.1345842982348,1417.1345842982348,Clear
+Amman,Emily Davis,9,Rafale,2130,4700,1192.1345842982348,1192.1345842982348,Clear
+Amman,Emily Davis,9,F/A-18,1915,4900,1242.1345842982348,1242.1345842982348,Clear
+Amman,Robert Brown,5,F-16,2400,5000,1266.1345842982348,1266.1345842982348,Clear
+Amman,Robert Brown,5,F-35,3000,6000,1516.1345842982348,1516.1345842982348,Clear
+Amman,Robert Brown,5,MiG-29,2450,4500,1141.1345842982348,1141.1345842982348,Clear
+Amman,Robert Brown,5,Su-27,2500,5200,1316.1345842982348,1316.1345842982348,Clear
+Amman,Robert Brown,5,Eurofighter Typhoon,2495,5600,1416.1345842982348,1416.1345842982348,Clear
+Amman,Robert Brown,5,Rafale,2130,4700,1191.1345842982348,1191.1345842982348,Clear
+Amman,Robert Brown,5,F/A-18,1915,4900,1241.1345842982348,1241.1345842982348,Clear
+Amman,Sarah Wilson,8,F-16,2400,5000,1266.8845842982348,1266.8845842982348,Clear
+Amman,Sarah Wilson,8,F-35,3000,6000,1516.8845842982348,1516.8845842982348,Clear
+Amman,Sarah Wilson,8,MiG-29,2450,4500,1141.8845842982348,1141.8845842982348,Clear
+Amman,Sarah Wilson,8,Su-27,2500,5200,1316.8845842982348,1316.8845842982348,Clear
+Amman,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1416.8845842982348,1416.8845842982348,Clear
+Amman,Sarah Wilson,8,Rafale,2130,4700,1191.8845842982348,1191.8845842982348,Clear
+Amman,Sarah Wilson,8,F/A-18,1915,4900,1241.8845842982348,1241.8845842982348,Clear
+Amman,David Lee,6,F-16,2400,5000,1266.3845842982348,1266.3845842982348,Clear
+Amman,David Lee,6,F-35,3000,6000,1516.3845842982348,1516.3845842982348,Clear
+Amman,David Lee,6,MiG-29,2450,4500,1141.3845842982348,1141.3845842982348,Clear
+Amman,David Lee,6,Su-27,2500,5200,1316.3845842982348,1316.3845842982348,Clear
+Amman,David Lee,6,Eurofighter Typhoon,2495,5600,1416.3845842982348,1416.3845842982348,Clear
+Amman,David Lee,6,Rafale,2130,4700,1191.3845842982348,1191.3845842982348,Clear
+Amman,David Lee,6,F/A-18,1915,4900,1241.3845842982348,1241.3845842982348,Clear
+Amman,Chris Walker,7,F-16,2400,5000,1266.6345842982348,1266.6345842982348,Clear
+Amman,Chris Walker,7,F-35,3000,6000,1516.6345842982348,1516.6345842982348,Clear
+Amman,Chris Walker,7,MiG-29,2450,4500,1141.6345842982348,1141.6345842982348,Clear
+Amman,Chris Walker,7,Su-27,2500,5200,1316.6345842982348,1316.6345842982348,Clear
+Amman,Chris Walker,7,Eurofighter Typhoon,2495,5600,1416.6345842982348,1416.6345842982348,Clear
+Amman,Chris Walker,7,Rafale,2130,4700,1191.6345842982348,1191.6345842982348,Clear
+Amman,Chris Walker,7,F/A-18,1915,4900,1241.6345842982348,1241.6345842982348,Clear
+Amman,Jessica Miller,10,F-16,2400,5000,1267.3845842982348,1267.3845842982348,Clear
+Amman,Jessica Miller,10,F-35,3000,6000,1517.3845842982348,1517.3845842982348,Clear
+Amman,Jessica Miller,10,MiG-29,2450,4500,1142.3845842982348,1142.3845842982348,Clear
+Amman,Jessica Miller,10,Su-27,2500,5200,1317.3845842982348,1317.3845842982348,Clear
+Amman,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1417.3845842982348,1417.3845842982348,Clear
+Amman,Jessica Miller,10,Rafale,2130,4700,1192.3845842982348,1192.3845842982348,Clear
+Amman,Jessica Miller,10,F/A-18,1915,4900,1242.3845842982348,1242.3845842982348,Clear
+Amman,Daniel Harris,4,F-16,2400,5000,1265.8845842982348,1265.8845842982348,Clear
+Amman,Daniel Harris,4,F-35,3000,6000,1515.8845842982348,1515.8845842982348,Clear
+Amman,Daniel Harris,4,MiG-29,2450,4500,1140.8845842982348,1140.8845842982348,Clear
+Amman,Daniel Harris,4,Su-27,2500,5200,1315.8845842982348,1315.8845842982348,Clear
+Amman,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1415.8845842982348,1415.8845842982348,Clear
+Amman,Daniel Harris,4,Rafale,2130,4700,1190.8845842982348,1190.8845842982348,Clear
+Amman,Daniel Harris,4,F/A-18,1915,4900,1240.8845842982348,1240.8845842982348,Clear
+Tripoli,John Doe,8,F-16,2400,5000,1666.6544960550004,1666.6544960550004,Clouds
+Tripoli,John Doe,8,F-35,3000,6000,1916.6544960550004,1916.6544960550004,Clouds
+Tripoli,John Doe,8,MiG-29,2450,4500,1541.6544960550004,1541.6544960550004,Clouds
+Tripoli,John Doe,8,Su-27,2500,5200,1716.6544960550004,1716.6544960550004,Clouds
+Tripoli,John Doe,8,Eurofighter Typhoon,2495,5600,1816.6544960550004,1816.6544960550004,Clouds
+Tripoli,John Doe,8,Rafale,2130,4700,1591.6544960550004,1591.6544960550004,Clouds
+Tripoli,John Doe,8,F/A-18,1915,4900,1641.6544960550004,1641.6544960550004,Clouds
+Tripoli,Jane Smith,6,F-16,2400,5000,1666.1544960550004,1666.1544960550004,Clouds
+Tripoli,Jane Smith,6,F-35,3000,6000,1916.1544960550004,1916.1544960550004,Clouds
+Tripoli,Jane Smith,6,MiG-29,2450,4500,1541.1544960550004,1541.1544960550004,Clouds
+Tripoli,Jane Smith,6,Su-27,2500,5200,1716.1544960550004,1716.1544960550004,Clouds
+Tripoli,Jane Smith,6,Eurofighter Typhoon,2495,5600,1816.1544960550004,1816.1544960550004,Clouds
+Tripoli,Jane Smith,6,Rafale,2130,4700,1591.1544960550004,1591.1544960550004,Clouds
+Tripoli,Jane Smith,6,F/A-18,1915,4900,1641.1544960550004,1641.1544960550004,Clouds
+Tripoli,Michael Johnson,7,F-16,2400,5000,1666.4044960550004,1666.4044960550004,Clouds
+Tripoli,Michael Johnson,7,F-35,3000,6000,1916.4044960550004,1916.4044960550004,Clouds
+Tripoli,Michael Johnson,7,MiG-29,2450,4500,1541.4044960550004,1541.4044960550004,Clouds
+Tripoli,Michael Johnson,7,Su-27,2500,5200,1716.4044960550004,1716.4044960550004,Clouds
+Tripoli,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1816.4044960550004,1816.4044960550004,Clouds
+Tripoli,Michael Johnson,7,Rafale,2130,4700,1591.4044960550004,1591.4044960550004,Clouds
+Tripoli,Michael Johnson,7,F/A-18,1915,4900,1641.4044960550004,1641.4044960550004,Clouds
+Tripoli,Emily Davis,9,F-16,2400,5000,1666.9044960550004,1666.9044960550004,Clouds
+Tripoli,Emily Davis,9,F-35,3000,6000,1916.9044960550004,1916.9044960550004,Clouds
+Tripoli,Emily Davis,9,MiG-29,2450,4500,1541.9044960550004,1541.9044960550004,Clouds
+Tripoli,Emily Davis,9,Su-27,2500,5200,1716.9044960550004,1716.9044960550004,Clouds
+Tripoli,Emily Davis,9,Eurofighter Typhoon,2495,5600,1816.9044960550004,1816.9044960550004,Clouds
+Tripoli,Emily Davis,9,Rafale,2130,4700,1591.9044960550004,1591.9044960550004,Clouds
+Tripoli,Emily Davis,9,F/A-18,1915,4900,1641.9044960550004,1641.9044960550004,Clouds
+Tripoli,Robert Brown,5,F-16,2400,5000,1665.9044960550004,1665.9044960550004,Clouds
+Tripoli,Robert Brown,5,F-35,3000,6000,1915.9044960550004,1915.9044960550004,Clouds
+Tripoli,Robert Brown,5,MiG-29,2450,4500,1540.9044960550004,1540.9044960550004,Clouds
+Tripoli,Robert Brown,5,Su-27,2500,5200,1715.9044960550004,1715.9044960550004,Clouds
+Tripoli,Robert Brown,5,Eurofighter Typhoon,2495,5600,1815.9044960550004,1815.9044960550004,Clouds
+Tripoli,Robert Brown,5,Rafale,2130,4700,1590.9044960550004,1590.9044960550004,Clouds
+Tripoli,Robert Brown,5,F/A-18,1915,4900,1640.9044960550004,1640.9044960550004,Clouds
+Tripoli,Sarah Wilson,8,F-16,2400,5000,1666.6544960550004,1666.6544960550004,Clouds
+Tripoli,Sarah Wilson,8,F-35,3000,6000,1916.6544960550004,1916.6544960550004,Clouds
+Tripoli,Sarah Wilson,8,MiG-29,2450,4500,1541.6544960550004,1541.6544960550004,Clouds
+Tripoli,Sarah Wilson,8,Su-27,2500,5200,1716.6544960550004,1716.6544960550004,Clouds
+Tripoli,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1816.6544960550004,1816.6544960550004,Clouds
+Tripoli,Sarah Wilson,8,Rafale,2130,4700,1591.6544960550004,1591.6544960550004,Clouds
+Tripoli,Sarah Wilson,8,F/A-18,1915,4900,1641.6544960550004,1641.6544960550004,Clouds
+Tripoli,David Lee,6,F-16,2400,5000,1666.1544960550004,1666.1544960550004,Clouds
+Tripoli,David Lee,6,F-35,3000,6000,1916.1544960550004,1916.1544960550004,Clouds
+Tripoli,David Lee,6,MiG-29,2450,4500,1541.1544960550004,1541.1544960550004,Clouds
+Tripoli,David Lee,6,Su-27,2500,5200,1716.1544960550004,1716.1544960550004,Clouds
+Tripoli,David Lee,6,Eurofighter Typhoon,2495,5600,1816.1544960550004,1816.1544960550004,Clouds
+Tripoli,David Lee,6,Rafale,2130,4700,1591.1544960550004,1591.1544960550004,Clouds
+Tripoli,David Lee,6,F/A-18,1915,4900,1641.1544960550004,1641.1544960550004,Clouds
+Tripoli,Chris Walker,7,F-16,2400,5000,1666.4044960550004,1666.4044960550004,Clouds
+Tripoli,Chris Walker,7,F-35,3000,6000,1916.4044960550004,1916.4044960550004,Clouds
+Tripoli,Chris Walker,7,MiG-29,2450,4500,1541.4044960550004,1541.4044960550004,Clouds
+Tripoli,Chris Walker,7,Su-27,2500,5200,1716.4044960550004,1716.4044960550004,Clouds
+Tripoli,Chris Walker,7,Eurofighter Typhoon,2495,5600,1816.4044960550004,1816.4044960550004,Clouds
+Tripoli,Chris Walker,7,Rafale,2130,4700,1591.4044960550004,1591.4044960550004,Clouds
+Tripoli,Chris Walker,7,F/A-18,1915,4900,1641.4044960550004,1641.4044960550004,Clouds
+Tripoli,Jessica Miller,10,F-16,2400,5000,1667.1544960550004,1667.1544960550004,Clouds
+Tripoli,Jessica Miller,10,F-35,3000,6000,1917.1544960550004,1917.1544960550004,Clouds
+Tripoli,Jessica Miller,10,MiG-29,2450,4500,1542.1544960550004,1542.1544960550004,Clouds
+Tripoli,Jessica Miller,10,Su-27,2500,5200,1717.1544960550004,1717.1544960550004,Clouds
+Tripoli,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1817.1544960550004,1817.1544960550004,Clouds
+Tripoli,Jessica Miller,10,Rafale,2130,4700,1592.1544960550004,1592.1544960550004,Clouds
+Tripoli,Jessica Miller,10,F/A-18,1915,4900,1642.1544960550004,1642.1544960550004,Clouds
+Tripoli,Daniel Harris,4,F-16,2400,5000,1665.6544960550004,1665.6544960550004,Clouds
+Tripoli,Daniel Harris,4,F-35,3000,6000,1915.6544960550004,1915.6544960550004,Clouds
+Tripoli,Daniel Harris,4,MiG-29,2450,4500,1540.6544960550004,1540.6544960550004,Clouds
+Tripoli,Daniel Harris,4,Su-27,2500,5200,1715.6544960550004,1715.6544960550004,Clouds
+Tripoli,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1815.6544960550004,1815.6544960550004,Clouds
+Tripoli,Daniel Harris,4,Rafale,2130,4700,1590.6544960550004,1590.6544960550004,Clouds
+Tripoli,Daniel Harris,4,F/A-18,1915,4900,1640.6544960550004,1640.6544960550004,Clouds
+Khartoum,John Doe,8,F-16,2400,5000,1617.4415097087283,1617.4415097087283,Clouds
+Khartoum,John Doe,8,F-35,3000,6000,1867.4415097087283,1867.4415097087283,Clouds
+Khartoum,John Doe,8,MiG-29,2450,4500,1492.4415097087283,1492.4415097087283,Clouds
+Khartoum,John Doe,8,Su-27,2500,5200,1667.4415097087283,1667.4415097087283,Clouds
+Khartoum,John Doe,8,Eurofighter Typhoon,2495,5600,1767.4415097087283,1767.4415097087283,Clouds
+Khartoum,John Doe,8,Rafale,2130,4700,1542.4415097087283,1542.4415097087283,Clouds
+Khartoum,John Doe,8,F/A-18,1915,4900,1592.4415097087283,1592.4415097087283,Clouds
+Khartoum,Jane Smith,6,F-16,2400,5000,1616.9415097087283,1616.9415097087283,Clouds
+Khartoum,Jane Smith,6,F-35,3000,6000,1866.9415097087283,1866.9415097087283,Clouds
+Khartoum,Jane Smith,6,MiG-29,2450,4500,1491.9415097087283,1491.9415097087283,Clouds
+Khartoum,Jane Smith,6,Su-27,2500,5200,1666.9415097087283,1666.9415097087283,Clouds
+Khartoum,Jane Smith,6,Eurofighter Typhoon,2495,5600,1766.9415097087283,1766.9415097087283,Clouds
+Khartoum,Jane Smith,6,Rafale,2130,4700,1541.9415097087283,1541.9415097087283,Clouds
+Khartoum,Jane Smith,6,F/A-18,1915,4900,1591.9415097087283,1591.9415097087283,Clouds
+Khartoum,Michael Johnson,7,F-16,2400,5000,1617.1915097087283,1617.1915097087283,Clouds
+Khartoum,Michael Johnson,7,F-35,3000,6000,1867.1915097087283,1867.1915097087283,Clouds
+Khartoum,Michael Johnson,7,MiG-29,2450,4500,1492.1915097087283,1492.1915097087283,Clouds
+Khartoum,Michael Johnson,7,Su-27,2500,5200,1667.1915097087283,1667.1915097087283,Clouds
+Khartoum,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1767.1915097087283,1767.1915097087283,Clouds
+Khartoum,Michael Johnson,7,Rafale,2130,4700,1542.1915097087283,1542.1915097087283,Clouds
+Khartoum,Michael Johnson,7,F/A-18,1915,4900,1592.1915097087283,1592.1915097087283,Clouds
+Khartoum,Emily Davis,9,F-16,2400,5000,1617.6915097087283,1617.6915097087283,Clouds
+Khartoum,Emily Davis,9,F-35,3000,6000,1867.6915097087283,1867.6915097087283,Clouds
+Khartoum,Emily Davis,9,MiG-29,2450,4500,1492.6915097087283,1492.6915097087283,Clouds
+Khartoum,Emily Davis,9,Su-27,2500,5200,1667.6915097087283,1667.6915097087283,Clouds
+Khartoum,Emily Davis,9,Eurofighter Typhoon,2495,5600,1767.6915097087283,1767.6915097087283,Clouds
+Khartoum,Emily Davis,9,Rafale,2130,4700,1542.6915097087283,1542.6915097087283,Clouds
+Khartoum,Emily Davis,9,F/A-18,1915,4900,1592.6915097087283,1592.6915097087283,Clouds
+Khartoum,Robert Brown,5,F-16,2400,5000,1616.6915097087283,1616.6915097087283,Clouds
+Khartoum,Robert Brown,5,F-35,3000,6000,1866.6915097087283,1866.6915097087283,Clouds
+Khartoum,Robert Brown,5,MiG-29,2450,4500,1491.6915097087283,1491.6915097087283,Clouds
+Khartoum,Robert Brown,5,Su-27,2500,5200,1666.6915097087283,1666.6915097087283,Clouds
+Khartoum,Robert Brown,5,Eurofighter Typhoon,2495,5600,1766.6915097087283,1766.6915097087283,Clouds
+Khartoum,Robert Brown,5,Rafale,2130,4700,1541.6915097087283,1541.6915097087283,Clouds
+Khartoum,Robert Brown,5,F/A-18,1915,4900,1591.6915097087283,1591.6915097087283,Clouds
+Khartoum,Sarah Wilson,8,F-16,2400,5000,1617.4415097087283,1617.4415097087283,Clouds
+Khartoum,Sarah Wilson,8,F-35,3000,6000,1867.4415097087283,1867.4415097087283,Clouds
+Khartoum,Sarah Wilson,8,MiG-29,2450,4500,1492.4415097087283,1492.4415097087283,Clouds
+Khartoum,Sarah Wilson,8,Su-27,2500,5200,1667.4415097087283,1667.4415097087283,Clouds
+Khartoum,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1767.4415097087283,1767.4415097087283,Clouds
+Khartoum,Sarah Wilson,8,Rafale,2130,4700,1542.4415097087283,1542.4415097087283,Clouds
+Khartoum,Sarah Wilson,8,F/A-18,1915,4900,1592.4415097087283,1592.4415097087283,Clouds
+Khartoum,David Lee,6,F-16,2400,5000,1616.9415097087283,1616.9415097087283,Clouds
+Khartoum,David Lee,6,F-35,3000,6000,1866.9415097087283,1866.9415097087283,Clouds
+Khartoum,David Lee,6,MiG-29,2450,4500,1491.9415097087283,1491.9415097087283,Clouds
+Khartoum,David Lee,6,Su-27,2500,5200,1666.9415097087283,1666.9415097087283,Clouds
+Khartoum,David Lee,6,Eurofighter Typhoon,2495,5600,1766.9415097087283,1766.9415097087283,Clouds
+Khartoum,David Lee,6,Rafale,2130,4700,1541.9415097087283,1541.9415097087283,Clouds
+Khartoum,David Lee,6,F/A-18,1915,4900,1591.9415097087283,1591.9415097087283,Clouds
+Khartoum,Chris Walker,7,F-16,2400,5000,1617.1915097087283,1617.1915097087283,Clouds
+Khartoum,Chris Walker,7,F-35,3000,6000,1867.1915097087283,1867.1915097087283,Clouds
+Khartoum,Chris Walker,7,MiG-29,2450,4500,1492.1915097087283,1492.1915097087283,Clouds
+Khartoum,Chris Walker,7,Su-27,2500,5200,1667.1915097087283,1667.1915097087283,Clouds
+Khartoum,Chris Walker,7,Eurofighter Typhoon,2495,5600,1767.1915097087283,1767.1915097087283,Clouds
+Khartoum,Chris Walker,7,Rafale,2130,4700,1542.1915097087283,1542.1915097087283,Clouds
+Khartoum,Chris Walker,7,F/A-18,1915,4900,1592.1915097087283,1592.1915097087283,Clouds
+Khartoum,Jessica Miller,10,F-16,2400,5000,1617.9415097087283,1617.9415097087283,Clouds
+Khartoum,Jessica Miller,10,F-35,3000,6000,1867.9415097087283,1867.9415097087283,Clouds
+Khartoum,Jessica Miller,10,MiG-29,2450,4500,1492.9415097087283,1492.9415097087283,Clouds
+Khartoum,Jessica Miller,10,Su-27,2500,5200,1667.9415097087283,1667.9415097087283,Clouds
+Khartoum,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1767.9415097087283,1767.9415097087283,Clouds
+Khartoum,Jessica Miller,10,Rafale,2130,4700,1542.9415097087283,1542.9415097087283,Clouds
+Khartoum,Jessica Miller,10,F/A-18,1915,4900,1592.9415097087283,1592.9415097087283,Clouds
+Khartoum,Daniel Harris,4,F-16,2400,5000,1616.4415097087283,1616.4415097087283,Clouds
+Khartoum,Daniel Harris,4,F-35,3000,6000,1866.4415097087283,1866.4415097087283,Clouds
+Khartoum,Daniel Harris,4,MiG-29,2450,4500,1491.4415097087283,1491.4415097087283,Clouds
+Khartoum,Daniel Harris,4,Su-27,2500,5200,1666.4415097087283,1666.4415097087283,Clouds
+Khartoum,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1766.4415097087283,1766.4415097087283,Clouds
+Khartoum,Daniel Harris,4,Rafale,2130,4700,1541.4415097087283,1541.4415097087283,Clouds
+Khartoum,Daniel Harris,4,F/A-18,1915,4900,1591.4415097087283,1591.4415097087283,Clouds
+Mosul,John Doe,8,F-16,2400,5000,1430.3541060092925,1430.3541060092925,Clear
+Mosul,John Doe,8,F-35,3000,6000,1680.3541060092925,1680.3541060092925,Clear
+Mosul,John Doe,8,MiG-29,2450,4500,1305.3541060092925,1305.3541060092925,Clear
+Mosul,John Doe,8,Su-27,2500,5200,1480.3541060092925,1480.3541060092925,Clear
+Mosul,John Doe,8,Eurofighter Typhoon,2495,5600,1580.3541060092925,1580.3541060092925,Clear
+Mosul,John Doe,8,Rafale,2130,4700,1355.3541060092925,1355.3541060092925,Clear
+Mosul,John Doe,8,F/A-18,1915,4900,1405.3541060092925,1405.3541060092925,Clear
+Mosul,Jane Smith,6,F-16,2400,5000,1429.8541060092925,1429.8541060092925,Clear
+Mosul,Jane Smith,6,F-35,3000,6000,1679.8541060092925,1679.8541060092925,Clear
+Mosul,Jane Smith,6,MiG-29,2450,4500,1304.8541060092925,1304.8541060092925,Clear
+Mosul,Jane Smith,6,Su-27,2500,5200,1479.8541060092925,1479.8541060092925,Clear
+Mosul,Jane Smith,6,Eurofighter Typhoon,2495,5600,1579.8541060092925,1579.8541060092925,Clear
+Mosul,Jane Smith,6,Rafale,2130,4700,1354.8541060092925,1354.8541060092925,Clear
+Mosul,Jane Smith,6,F/A-18,1915,4900,1404.8541060092925,1404.8541060092925,Clear
+Mosul,Michael Johnson,7,F-16,2400,5000,1430.1041060092925,1430.1041060092925,Clear
+Mosul,Michael Johnson,7,F-35,3000,6000,1680.1041060092925,1680.1041060092925,Clear
+Mosul,Michael Johnson,7,MiG-29,2450,4500,1305.1041060092925,1305.1041060092925,Clear
+Mosul,Michael Johnson,7,Su-27,2500,5200,1480.1041060092925,1480.1041060092925,Clear
+Mosul,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1580.1041060092925,1580.1041060092925,Clear
+Mosul,Michael Johnson,7,Rafale,2130,4700,1355.1041060092925,1355.1041060092925,Clear
+Mosul,Michael Johnson,7,F/A-18,1915,4900,1405.1041060092925,1405.1041060092925,Clear
+Mosul,Emily Davis,9,F-16,2400,5000,1430.6041060092925,1430.6041060092925,Clear
+Mosul,Emily Davis,9,F-35,3000,6000,1680.6041060092925,1680.6041060092925,Clear
+Mosul,Emily Davis,9,MiG-29,2450,4500,1305.6041060092925,1305.6041060092925,Clear
+Mosul,Emily Davis,9,Su-27,2500,5200,1480.6041060092925,1480.6041060092925,Clear
+Mosul,Emily Davis,9,Eurofighter Typhoon,2495,5600,1580.6041060092925,1580.6041060092925,Clear
+Mosul,Emily Davis,9,Rafale,2130,4700,1355.6041060092925,1355.6041060092925,Clear
+Mosul,Emily Davis,9,F/A-18,1915,4900,1405.6041060092925,1405.6041060092925,Clear
+Mosul,Robert Brown,5,F-16,2400,5000,1429.6041060092925,1429.6041060092925,Clear
+Mosul,Robert Brown,5,F-35,3000,6000,1679.6041060092925,1679.6041060092925,Clear
+Mosul,Robert Brown,5,MiG-29,2450,4500,1304.6041060092925,1304.6041060092925,Clear
+Mosul,Robert Brown,5,Su-27,2500,5200,1479.6041060092925,1479.6041060092925,Clear
+Mosul,Robert Brown,5,Eurofighter Typhoon,2495,5600,1579.6041060092925,1579.6041060092925,Clear
+Mosul,Robert Brown,5,Rafale,2130,4700,1354.6041060092925,1354.6041060092925,Clear
+Mosul,Robert Brown,5,F/A-18,1915,4900,1404.6041060092925,1404.6041060092925,Clear
+Mosul,Sarah Wilson,8,F-16,2400,5000,1430.3541060092925,1430.3541060092925,Clear
+Mosul,Sarah Wilson,8,F-35,3000,6000,1680.3541060092925,1680.3541060092925,Clear
+Mosul,Sarah Wilson,8,MiG-29,2450,4500,1305.3541060092925,1305.3541060092925,Clear
+Mosul,Sarah Wilson,8,Su-27,2500,5200,1480.3541060092925,1480.3541060092925,Clear
+Mosul,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1580.3541060092925,1580.3541060092925,Clear
+Mosul,Sarah Wilson,8,Rafale,2130,4700,1355.3541060092925,1355.3541060092925,Clear
+Mosul,Sarah Wilson,8,F/A-18,1915,4900,1405.3541060092925,1405.3541060092925,Clear
+Mosul,David Lee,6,F-16,2400,5000,1429.8541060092925,1429.8541060092925,Clear
+Mosul,David Lee,6,F-35,3000,6000,1679.8541060092925,1679.8541060092925,Clear
+Mosul,David Lee,6,MiG-29,2450,4500,1304.8541060092925,1304.8541060092925,Clear
+Mosul,David Lee,6,Su-27,2500,5200,1479.8541060092925,1479.8541060092925,Clear
+Mosul,David Lee,6,Eurofighter Typhoon,2495,5600,1579.8541060092925,1579.8541060092925,Clear
+Mosul,David Lee,6,Rafale,2130,4700,1354.8541060092925,1354.8541060092925,Clear
+Mosul,David Lee,6,F/A-18,1915,4900,1404.8541060092925,1404.8541060092925,Clear
+Mosul,Chris Walker,7,F-16,2400,5000,1430.1041060092925,1430.1041060092925,Clear
+Mosul,Chris Walker,7,F-35,3000,6000,1680.1041060092925,1680.1041060092925,Clear
+Mosul,Chris Walker,7,MiG-29,2450,4500,1305.1041060092925,1305.1041060092925,Clear
+Mosul,Chris Walker,7,Su-27,2500,5200,1480.1041060092925,1480.1041060092925,Clear
+Mosul,Chris Walker,7,Eurofighter Typhoon,2495,5600,1580.1041060092925,1580.1041060092925,Clear
+Mosul,Chris Walker,7,Rafale,2130,4700,1355.1041060092925,1355.1041060092925,Clear
+Mosul,Chris Walker,7,F/A-18,1915,4900,1405.1041060092925,1405.1041060092925,Clear
+Mosul,Jessica Miller,10,F-16,2400,5000,1430.8541060092925,1430.8541060092925,Clear
+Mosul,Jessica Miller,10,F-35,3000,6000,1680.8541060092925,1680.8541060092925,Clear
+Mosul,Jessica Miller,10,MiG-29,2450,4500,1305.8541060092925,1305.8541060092925,Clear
+Mosul,Jessica Miller,10,Su-27,2500,5200,1480.8541060092925,1480.8541060092925,Clear
+Mosul,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1580.8541060092925,1580.8541060092925,Clear
+Mosul,Jessica Miller,10,Rafale,2130,4700,1355.8541060092925,1355.8541060092925,Clear
+Mosul,Jessica Miller,10,F/A-18,1915,4900,1405.8541060092925,1405.8541060092925,Clear
+Mosul,Daniel Harris,4,F-16,2400,5000,1429.3541060092925,1429.3541060092925,Clear
+Mosul,Daniel Harris,4,F-35,3000,6000,1679.3541060092925,1679.3541060092925,Clear
+Mosul,Daniel Harris,4,MiG-29,2450,4500,1304.3541060092925,1304.3541060092925,Clear
+Mosul,Daniel Harris,4,Su-27,2500,5200,1479.3541060092925,1479.3541060092925,Clear
+Mosul,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1579.3541060092925,1579.3541060092925,Clear
+Mosul,Daniel Harris,4,Rafale,2130,4700,1354.3541060092925,1354.3541060092925,Clear
+Mosul,Daniel Harris,4,F/A-18,1915,4900,1404.3541060092925,1404.3541060092925,Clear
+Fallujah,John Doe,8,F-16,2400,5000,1417.3475495617142,1417.3475495617142,Clear
+Fallujah,John Doe,8,F-35,3000,6000,1667.3475495617142,1667.3475495617142,Clear
+Fallujah,John Doe,8,MiG-29,2450,4500,1292.3475495617142,1292.3475495617142,Clear
+Fallujah,John Doe,8,Su-27,2500,5200,1467.3475495617142,1467.3475495617142,Clear
+Fallujah,John Doe,8,Eurofighter Typhoon,2495,5600,1567.3475495617142,1567.3475495617142,Clear
+Fallujah,John Doe,8,Rafale,2130,4700,1342.3475495617142,1342.3475495617142,Clear
+Fallujah,John Doe,8,F/A-18,1915,4900,1392.3475495617142,1392.3475495617142,Clear
+Fallujah,Jane Smith,6,F-16,2400,5000,1416.8475495617142,1416.8475495617142,Clear
+Fallujah,Jane Smith,6,F-35,3000,6000,1666.8475495617142,1666.8475495617142,Clear
+Fallujah,Jane Smith,6,MiG-29,2450,4500,1291.8475495617142,1291.8475495617142,Clear
+Fallujah,Jane Smith,6,Su-27,2500,5200,1466.8475495617142,1466.8475495617142,Clear
+Fallujah,Jane Smith,6,Eurofighter Typhoon,2495,5600,1566.8475495617142,1566.8475495617142,Clear
+Fallujah,Jane Smith,6,Rafale,2130,4700,1341.8475495617142,1341.8475495617142,Clear
+Fallujah,Jane Smith,6,F/A-18,1915,4900,1391.8475495617142,1391.8475495617142,Clear
+Fallujah,Michael Johnson,7,F-16,2400,5000,1417.0975495617142,1417.0975495617142,Clear
+Fallujah,Michael Johnson,7,F-35,3000,6000,1667.0975495617142,1667.0975495617142,Clear
+Fallujah,Michael Johnson,7,MiG-29,2450,4500,1292.0975495617142,1292.0975495617142,Clear
+Fallujah,Michael Johnson,7,Su-27,2500,5200,1467.0975495617142,1467.0975495617142,Clear
+Fallujah,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1567.0975495617142,1567.0975495617142,Clear
+Fallujah,Michael Johnson,7,Rafale,2130,4700,1342.0975495617142,1342.0975495617142,Clear
+Fallujah,Michael Johnson,7,F/A-18,1915,4900,1392.0975495617142,1392.0975495617142,Clear
+Fallujah,Emily Davis,9,F-16,2400,5000,1417.5975495617142,1417.5975495617142,Clear
+Fallujah,Emily Davis,9,F-35,3000,6000,1667.5975495617142,1667.5975495617142,Clear
+Fallujah,Emily Davis,9,MiG-29,2450,4500,1292.5975495617142,1292.5975495617142,Clear
+Fallujah,Emily Davis,9,Su-27,2500,5200,1467.5975495617142,1467.5975495617142,Clear
+Fallujah,Emily Davis,9,Eurofighter Typhoon,2495,5600,1567.5975495617142,1567.5975495617142,Clear
+Fallujah,Emily Davis,9,Rafale,2130,4700,1342.5975495617142,1342.5975495617142,Clear
+Fallujah,Emily Davis,9,F/A-18,1915,4900,1392.5975495617142,1392.5975495617142,Clear
+Fallujah,Robert Brown,5,F-16,2400,5000,1416.5975495617142,1416.5975495617142,Clear
+Fallujah,Robert Brown,5,F-35,3000,6000,1666.5975495617142,1666.5975495617142,Clear
+Fallujah,Robert Brown,5,MiG-29,2450,4500,1291.5975495617142,1291.5975495617142,Clear
+Fallujah,Robert Brown,5,Su-27,2500,5200,1466.5975495617142,1466.5975495617142,Clear
+Fallujah,Robert Brown,5,Eurofighter Typhoon,2495,5600,1566.5975495617142,1566.5975495617142,Clear
+Fallujah,Robert Brown,5,Rafale,2130,4700,1341.5975495617142,1341.5975495617142,Clear
+Fallujah,Robert Brown,5,F/A-18,1915,4900,1391.5975495617142,1391.5975495617142,Clear
+Fallujah,Sarah Wilson,8,F-16,2400,5000,1417.3475495617142,1417.3475495617142,Clear
+Fallujah,Sarah Wilson,8,F-35,3000,6000,1667.3475495617142,1667.3475495617142,Clear
+Fallujah,Sarah Wilson,8,MiG-29,2450,4500,1292.3475495617142,1292.3475495617142,Clear
+Fallujah,Sarah Wilson,8,Su-27,2500,5200,1467.3475495617142,1467.3475495617142,Clear
+Fallujah,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1567.3475495617142,1567.3475495617142,Clear
+Fallujah,Sarah Wilson,8,Rafale,2130,4700,1342.3475495617142,1342.3475495617142,Clear
+Fallujah,Sarah Wilson,8,F/A-18,1915,4900,1392.3475495617142,1392.3475495617142,Clear
+Fallujah,David Lee,6,F-16,2400,5000,1416.8475495617142,1416.8475495617142,Clear
+Fallujah,David Lee,6,F-35,3000,6000,1666.8475495617142,1666.8475495617142,Clear
+Fallujah,David Lee,6,MiG-29,2450,4500,1291.8475495617142,1291.8475495617142,Clear
+Fallujah,David Lee,6,Su-27,2500,5200,1466.8475495617142,1466.8475495617142,Clear
+Fallujah,David Lee,6,Eurofighter Typhoon,2495,5600,1566.8475495617142,1566.8475495617142,Clear
+Fallujah,David Lee,6,Rafale,2130,4700,1341.8475495617142,1341.8475495617142,Clear
+Fallujah,David Lee,6,F/A-18,1915,4900,1391.8475495617142,1391.8475495617142,Clear
+Fallujah,Chris Walker,7,F-16,2400,5000,1417.0975495617142,1417.0975495617142,Clear
+Fallujah,Chris Walker,7,F-35,3000,6000,1667.0975495617142,1667.0975495617142,Clear
+Fallujah,Chris Walker,7,MiG-29,2450,4500,1292.0975495617142,1292.0975495617142,Clear
+Fallujah,Chris Walker,7,Su-27,2500,5200,1467.0975495617142,1467.0975495617142,Clear
+Fallujah,Chris Walker,7,Eurofighter Typhoon,2495,5600,1567.0975495617142,1567.0975495617142,Clear
+Fallujah,Chris Walker,7,Rafale,2130,4700,1342.0975495617142,1342.0975495617142,Clear
+Fallujah,Chris Walker,7,F/A-18,1915,4900,1392.0975495617142,1392.0975495617142,Clear
+Fallujah,Jessica Miller,10,F-16,2400,5000,1417.8475495617142,1417.8475495617142,Clear
+Fallujah,Jessica Miller,10,F-35,3000,6000,1667.8475495617142,1667.8475495617142,Clear
+Fallujah,Jessica Miller,10,MiG-29,2450,4500,1292.8475495617142,1292.8475495617142,Clear
+Fallujah,Jessica Miller,10,Su-27,2500,5200,1467.8475495617142,1467.8475495617142,Clear
+Fallujah,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1567.8475495617142,1567.8475495617142,Clear
+Fallujah,Jessica Miller,10,Rafale,2130,4700,1342.8475495617142,1342.8475495617142,Clear
+Fallujah,Jessica Miller,10,F/A-18,1915,4900,1392.8475495617142,1392.8475495617142,Clear
+Fallujah,Daniel Harris,4,F-16,2400,5000,1416.3475495617142,1416.3475495617142,Clear
+Fallujah,Daniel Harris,4,F-35,3000,6000,1666.3475495617142,1666.3475495617142,Clear
+Fallujah,Daniel Harris,4,MiG-29,2450,4500,1291.3475495617142,1291.3475495617142,Clear
+Fallujah,Daniel Harris,4,Su-27,2500,5200,1466.3475495617142,1466.3475495617142,Clear
+Fallujah,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1566.3475495617142,1566.3475495617142,Clear
+Fallujah,Daniel Harris,4,Rafale,2130,4700,1341.3475495617142,1341.3475495617142,Clear
+Fallujah,Daniel Harris,4,F/A-18,1915,4900,1391.3475495617142,1391.3475495617142,Clear
+Kandahar,John Doe,8,F-16,2400,5000,1828.2084827313925,1828.2084827313925,Clear
+Kandahar,John Doe,8,F-35,3000,6000,2078.2084827313925,2078.2084827313925,Clear
+Kandahar,John Doe,8,MiG-29,2450,4500,1703.2084827313925,1703.2084827313925,Clear
+Kandahar,John Doe,8,Su-27,2500,5200,1878.2084827313925,1878.2084827313925,Clear
+Kandahar,John Doe,8,Eurofighter Typhoon,2495,5600,1978.2084827313925,1978.2084827313925,Clear
+Kandahar,John Doe,8,Rafale,2130,4700,1753.2084827313925,1753.2084827313925,Clear
+Kandahar,John Doe,8,F/A-18,1915,4900,1803.2084827313925,1803.2084827313925,Clear
+Kandahar,Jane Smith,6,F-16,2400,5000,1827.7084827313925,1827.7084827313925,Clear
+Kandahar,Jane Smith,6,F-35,3000,6000,2077.7084827313925,2077.7084827313925,Clear
+Kandahar,Jane Smith,6,MiG-29,2450,4500,1702.7084827313925,1702.7084827313925,Clear
+Kandahar,Jane Smith,6,Su-27,2500,5200,1877.7084827313925,1877.7084827313925,Clear
+Kandahar,Jane Smith,6,Eurofighter Typhoon,2495,5600,1977.7084827313925,1977.7084827313925,Clear
+Kandahar,Jane Smith,6,Rafale,2130,4700,1752.7084827313925,1752.7084827313925,Clear
+Kandahar,Jane Smith,6,F/A-18,1915,4900,1802.7084827313925,1802.7084827313925,Clear
+Kandahar,Michael Johnson,7,F-16,2400,5000,1827.9584827313925,1827.9584827313925,Clear
+Kandahar,Michael Johnson,7,F-35,3000,6000,2077.9584827313925,2077.9584827313925,Clear
+Kandahar,Michael Johnson,7,MiG-29,2450,4500,1702.9584827313925,1702.9584827313925,Clear
+Kandahar,Michael Johnson,7,Su-27,2500,5200,1877.9584827313925,1877.9584827313925,Clear
+Kandahar,Michael Johnson,7,Eurofighter Typhoon,2495,5600,1977.9584827313925,1977.9584827313925,Clear
+Kandahar,Michael Johnson,7,Rafale,2130,4700,1752.9584827313925,1752.9584827313925,Clear
+Kandahar,Michael Johnson,7,F/A-18,1915,4900,1802.9584827313925,1802.9584827313925,Clear
+Kandahar,Emily Davis,9,F-16,2400,5000,1828.4584827313925,1828.4584827313925,Clear
+Kandahar,Emily Davis,9,F-35,3000,6000,2078.4584827313925,2078.4584827313925,Clear
+Kandahar,Emily Davis,9,MiG-29,2450,4500,1703.4584827313925,1703.4584827313925,Clear
+Kandahar,Emily Davis,9,Su-27,2500,5200,1878.4584827313925,1878.4584827313925,Clear
+Kandahar,Emily Davis,9,Eurofighter Typhoon,2495,5600,1978.4584827313925,1978.4584827313925,Clear
+Kandahar,Emily Davis,9,Rafale,2130,4700,1753.4584827313925,1753.4584827313925,Clear
+Kandahar,Emily Davis,9,F/A-18,1915,4900,1803.4584827313925,1803.4584827313925,Clear
+Kandahar,Robert Brown,5,F-16,2400,5000,1827.4584827313925,1827.4584827313925,Clear
+Kandahar,Robert Brown,5,F-35,3000,6000,2077.4584827313925,2077.4584827313925,Clear
+Kandahar,Robert Brown,5,MiG-29,2450,4500,1702.4584827313925,1702.4584827313925,Clear
+Kandahar,Robert Brown,5,Su-27,2500,5200,1877.4584827313925,1877.4584827313925,Clear
+Kandahar,Robert Brown,5,Eurofighter Typhoon,2495,5600,1977.4584827313925,1977.4584827313925,Clear
+Kandahar,Robert Brown,5,Rafale,2130,4700,1752.4584827313925,1752.4584827313925,Clear
+Kandahar,Robert Brown,5,F/A-18,1915,4900,1802.4584827313925,1802.4584827313925,Clear
+Kandahar,Sarah Wilson,8,F-16,2400,5000,1828.2084827313925,1828.2084827313925,Clear
+Kandahar,Sarah Wilson,8,F-35,3000,6000,2078.2084827313925,2078.2084827313925,Clear
+Kandahar,Sarah Wilson,8,MiG-29,2450,4500,1703.2084827313925,1703.2084827313925,Clear
+Kandahar,Sarah Wilson,8,Su-27,2500,5200,1878.2084827313925,1878.2084827313925,Clear
+Kandahar,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,1978.2084827313925,1978.2084827313925,Clear
+Kandahar,Sarah Wilson,8,Rafale,2130,4700,1753.2084827313925,1753.2084827313925,Clear
+Kandahar,Sarah Wilson,8,F/A-18,1915,4900,1803.2084827313925,1803.2084827313925,Clear
+Kandahar,David Lee,6,F-16,2400,5000,1827.7084827313925,1827.7084827313925,Clear
+Kandahar,David Lee,6,F-35,3000,6000,2077.7084827313925,2077.7084827313925,Clear
+Kandahar,David Lee,6,MiG-29,2450,4500,1702.7084827313925,1702.7084827313925,Clear
+Kandahar,David Lee,6,Su-27,2500,5200,1877.7084827313925,1877.7084827313925,Clear
+Kandahar,David Lee,6,Eurofighter Typhoon,2495,5600,1977.7084827313925,1977.7084827313925,Clear
+Kandahar,David Lee,6,Rafale,2130,4700,1752.7084827313925,1752.7084827313925,Clear
+Kandahar,David Lee,6,F/A-18,1915,4900,1802.7084827313925,1802.7084827313925,Clear
+Kandahar,Chris Walker,7,F-16,2400,5000,1827.9584827313925,1827.9584827313925,Clear
+Kandahar,Chris Walker,7,F-35,3000,6000,2077.9584827313925,2077.9584827313925,Clear
+Kandahar,Chris Walker,7,MiG-29,2450,4500,1702.9584827313925,1702.9584827313925,Clear
+Kandahar,Chris Walker,7,Su-27,2500,5200,1877.9584827313925,1877.9584827313925,Clear
+Kandahar,Chris Walker,7,Eurofighter Typhoon,2495,5600,1977.9584827313925,1977.9584827313925,Clear
+Kandahar,Chris Walker,7,Rafale,2130,4700,1752.9584827313925,1752.9584827313925,Clear
+Kandahar,Chris Walker,7,F/A-18,1915,4900,1802.9584827313925,1802.9584827313925,Clear
+Kandahar,Jessica Miller,10,F-16,2400,5000,1828.7084827313925,1828.7084827313925,Clear
+Kandahar,Jessica Miller,10,F-35,3000,6000,2078.7084827313925,2078.7084827313925,Clear
+Kandahar,Jessica Miller,10,MiG-29,2450,4500,1703.7084827313925,1703.7084827313925,Clear
+Kandahar,Jessica Miller,10,Su-27,2500,5200,1878.7084827313925,1878.7084827313925,Clear
+Kandahar,Jessica Miller,10,Eurofighter Typhoon,2495,5600,1978.7084827313925,1978.7084827313925,Clear
+Kandahar,Jessica Miller,10,Rafale,2130,4700,1753.7084827313925,1753.7084827313925,Clear
+Kandahar,Jessica Miller,10,F/A-18,1915,4900,1803.7084827313925,1803.7084827313925,Clear
+Kandahar,Daniel Harris,4,F-16,2400,5000,1827.2084827313925,1827.2084827313925,Clear
+Kandahar,Daniel Harris,4,F-35,3000,6000,2077.2084827313925,2077.2084827313925,Clear
+Kandahar,Daniel Harris,4,MiG-29,2450,4500,1702.2084827313925,1702.2084827313925,Clear
+Kandahar,Daniel Harris,4,Su-27,2500,5200,1877.2084827313925,1877.2084827313925,Clear
+Kandahar,Daniel Harris,4,Eurofighter Typhoon,2495,5600,1977.2084827313925,1977.2084827313925,Clear
+Kandahar,Daniel Harris,4,Rafale,2130,4700,1752.2084827313925,1752.2084827313925,Clear
+Kandahar,Daniel Harris,4,F/A-18,1915,4900,1802.2084827313925,1802.2084827313925,Clear
+Marrakesh,John Doe,8,F-16,2400,5000,2064.7628185146264,2064.7628185146264,Clear
+Marrakesh,John Doe,8,F-35,3000,6000,2314.7628185146264,2314.7628185146264,Clear
+Marrakesh,John Doe,8,MiG-29,2450,4500,1939.7628185146264,1939.7628185146264,Clear
+Marrakesh,John Doe,8,Su-27,2500,5200,2114.7628185146264,2114.7628185146264,Clear
+Marrakesh,John Doe,8,Eurofighter Typhoon,2495,5600,2214.7628185146264,2214.7628185146264,Clear
+Marrakesh,John Doe,8,Rafale,2130,4700,1989.7628185146264,1989.7628185146264,Clear
+Marrakesh,John Doe,8,F/A-18,1915,4900,2039.7628185146264,2039.7628185146264,Clear
+Marrakesh,Jane Smith,6,F-16,2400,5000,2064.2628185146264,2064.2628185146264,Clear
+Marrakesh,Jane Smith,6,F-35,3000,6000,2314.2628185146264,2314.2628185146264,Clear
+Marrakesh,Jane Smith,6,MiG-29,2450,4500,1939.2628185146264,1939.2628185146264,Clear
+Marrakesh,Jane Smith,6,Su-27,2500,5200,2114.2628185146264,2114.2628185146264,Clear
+Marrakesh,Jane Smith,6,Eurofighter Typhoon,2495,5600,2214.2628185146264,2214.2628185146264,Clear
+Marrakesh,Jane Smith,6,Rafale,2130,4700,1989.2628185146264,1989.2628185146264,Clear
+Marrakesh,Jane Smith,6,F/A-18,1915,4900,2039.2628185146264,2039.2628185146264,Clear
+Marrakesh,Michael Johnson,7,F-16,2400,5000,2064.5128185146264,2064.5128185146264,Clear
+Marrakesh,Michael Johnson,7,F-35,3000,6000,2314.5128185146264,2314.5128185146264,Clear
+Marrakesh,Michael Johnson,7,MiG-29,2450,4500,1939.5128185146264,1939.5128185146264,Clear
+Marrakesh,Michael Johnson,7,Su-27,2500,5200,2114.5128185146264,2114.5128185146264,Clear
+Marrakesh,Michael Johnson,7,Eurofighter Typhoon,2495,5600,2214.5128185146264,2214.5128185146264,Clear
+Marrakesh,Michael Johnson,7,Rafale,2130,4700,1989.5128185146264,1989.5128185146264,Clear
+Marrakesh,Michael Johnson,7,F/A-18,1915,4900,2039.5128185146264,2039.5128185146264,Clear
+Marrakesh,Emily Davis,9,F-16,2400,5000,2065.0128185146264,2065.0128185146264,Clear
+Marrakesh,Emily Davis,9,F-35,3000,6000,2315.0128185146264,2315.0128185146264,Clear
+Marrakesh,Emily Davis,9,MiG-29,2450,4500,1940.0128185146264,1940.0128185146264,Clear
+Marrakesh,Emily Davis,9,Su-27,2500,5200,2115.0128185146264,2115.0128185146264,Clear
+Marrakesh,Emily Davis,9,Eurofighter Typhoon,2495,5600,2215.0128185146264,2215.0128185146264,Clear
+Marrakesh,Emily Davis,9,Rafale,2130,4700,1990.0128185146264,1990.0128185146264,Clear
+Marrakesh,Emily Davis,9,F/A-18,1915,4900,2040.0128185146264,2040.0128185146264,Clear
+Marrakesh,Robert Brown,5,F-16,2400,5000,2064.0128185146264,2064.0128185146264,Clear
+Marrakesh,Robert Brown,5,F-35,3000,6000,2314.0128185146264,2314.0128185146264,Clear
+Marrakesh,Robert Brown,5,MiG-29,2450,4500,1939.0128185146264,1939.0128185146264,Clear
+Marrakesh,Robert Brown,5,Su-27,2500,5200,2114.0128185146264,2114.0128185146264,Clear
+Marrakesh,Robert Brown,5,Eurofighter Typhoon,2495,5600,2214.0128185146264,2214.0128185146264,Clear
+Marrakesh,Robert Brown,5,Rafale,2130,4700,1989.0128185146264,1989.0128185146264,Clear
+Marrakesh,Robert Brown,5,F/A-18,1915,4900,2039.0128185146264,2039.0128185146264,Clear
+Marrakesh,Sarah Wilson,8,F-16,2400,5000,2064.7628185146264,2064.7628185146264,Clear
+Marrakesh,Sarah Wilson,8,F-35,3000,6000,2314.7628185146264,2314.7628185146264,Clear
+Marrakesh,Sarah Wilson,8,MiG-29,2450,4500,1939.7628185146264,1939.7628185146264,Clear
+Marrakesh,Sarah Wilson,8,Su-27,2500,5200,2114.7628185146264,2114.7628185146264,Clear
+Marrakesh,Sarah Wilson,8,Eurofighter Typhoon,2495,5600,2214.7628185146264,2214.7628185146264,Clear
+Marrakesh,Sarah Wilson,8,Rafale,2130,4700,1989.7628185146264,1989.7628185146264,Clear
+Marrakesh,Sarah Wilson,8,F/A-18,1915,4900,2039.7628185146264,2039.7628185146264,Clear
+Marrakesh,David Lee,6,F-16,2400,5000,2064.2628185146264,2064.2628185146264,Clear
+Marrakesh,David Lee,6,F-35,3000,6000,2314.2628185146264,2314.2628185146264,Clear
+Marrakesh,David Lee,6,MiG-29,2450,4500,1939.2628185146264,1939.2628185146264,Clear
+Marrakesh,David Lee,6,Su-27,2500,5200,2114.2628185146264,2114.2628185146264,Clear
+Marrakesh,David Lee,6,Eurofighter Typhoon,2495,5600,2214.2628185146264,2214.2628185146264,Clear
+Marrakesh,David Lee,6,Rafale,2130,4700,1989.2628185146264,1989.2628185146264,Clear
+Marrakesh,David Lee,6,F/A-18,1915,4900,2039.2628185146264,2039.2628185146264,Clear
+Marrakesh,Chris Walker,7,F-16,2400,5000,2064.5128185146264,2064.5128185146264,Clear
+Marrakesh,Chris Walker,7,F-35,3000,6000,2314.5128185146264,2314.5128185146264,Clear
+Marrakesh,Chris Walker,7,MiG-29,2450,4500,1939.5128185146264,1939.5128185146264,Clear
+Marrakesh,Chris Walker,7,Su-27,2500,5200,2114.5128185146264,2114.5128185146264,Clear
+Marrakesh,Chris Walker,7,Eurofighter Typhoon,2495,5600,2214.5128185146264,2214.5128185146264,Clear
+Marrakesh,Chris Walker,7,Rafale,2130,4700,1989.5128185146264,1989.5128185146264,Clear
+Marrakesh,Chris Walker,7,F/A-18,1915,4900,2039.5128185146264,2039.5128185146264,Clear
+Marrakesh,Jessica Miller,10,F-16,2400,5000,2065.2628185146264,2065.2628185146264,Clear
+Marrakesh,Jessica Miller,10,F-35,3000,6000,2315.2628185146264,2315.2628185146264,Clear
+Marrakesh,Jessica Miller,10,MiG-29,2450,4500,1940.2628185146264,1940.2628185146264,Clear
+Marrakesh,Jessica Miller,10,Su-27,2500,5200,2115.2628185146264,2115.2628185146264,Clear
+Marrakesh,Jessica Miller,10,Eurofighter Typhoon,2495,5600,2215.2628185146264,2215.2628185146264,Clear
+Marrakesh,Jessica Miller,10,Rafale,2130,4700,1990.2628185146264,1990.2628185146264,Clear
+Marrakesh,Jessica Miller,10,F/A-18,1915,4900,2040.2628185146264,2040.2628185146264,Clear
+Marrakesh,Daniel Harris,4,F-16,2400,5000,2063.7628185146264,2063.7628185146264,Clear
+Marrakesh,Daniel Harris,4,F-35,3000,6000,2313.7628185146264,2313.7628185146264,Clear
+Marrakesh,Daniel Harris,4,MiG-29,2450,4500,1938.7628185146264,1938.7628185146264,Clear
+Marrakesh,Daniel Harris,4,Su-27,2500,5200,2113.7628185146264,2113.7628185146264,Clear
+Marrakesh,Daniel Harris,4,Eurofighter Typhoon,2495,5600,2213.7628185146264,2213.7628185146264,Clear
+Marrakesh,Daniel Harris,4,Rafale,2130,4700,1988.7628185146264,1988.7628185146264,Clear
+Marrakesh,Daniel Harris,4,F/A-18,1915,4900,2038.7628185146264,2038.7628185146264,Clear

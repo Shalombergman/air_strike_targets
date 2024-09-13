@@ -16,14 +16,18 @@ def read_from_csv(file_path):
             data.append(row)
         return data
 
-# print(read_from_csv('/Users/shalom_bergman/kodcode2/Data_engineering_course/Python/Air_Strike_Simulation_Project/air_strike_targets.csv'))
 
-def export_results_to_csv(results, filename='mission_results.csv'):
+def export_results_to_csv(results, filename='missions_results.csv'):
 
-    fieldnames = ['Target City', 'Pilot Name', 'Aircraft Type', 'Mission Score', 'Weather Condition']
+    fieldnames = [
+        'Target City', 'Pilot Name', 'Pilot Skill', 'Aircraft Type',
+        'Aircraft Speed(km/h)', 'Fuel Capacity (km)',
+        'Mission Score', 'Mission Fit Score', 'Weather Condition'
+    ]
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
+
         writer.writeheader()
+
         for result in results:
             writer.writerow(result)
-
